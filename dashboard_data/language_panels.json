@@ -1,0 +1,142 @@
+[
+  {
+    "game": "Brawlhalla",
+    "languageGroup": "English",
+    "reviewCount": 390,
+    "mainComplaints": [
+      "Matchmaking & Ranked Integrity",
+      "Balance & Combat Fairness",
+      "Monetization & Pricing",
+      "Toxicity & Fair Play"
+    ],
+    "positiveSignals": [
+      "Fun And Casual Enjoyment",
+      "Free Access And Value",
+      "Friends And Social Play",
+      "Character And Content Variety"
+    ],
+    "operatorSuggestion": "Audit MMR/Elo spread in ranked queues by region and time slot."
+  },
+  {
+    "game": "Brawlhalla",
+    "languageGroup": "Brazil/Portuguese",
+    "reviewCount": 91,
+    "mainComplaints": [
+      "Matchmaking & Ranked Integrity",
+      "Balance & Combat Fairness",
+      "Community & Player Experience",
+      "Monetization & Pricing"
+    ],
+    "positiveSignals": [
+      "Social fun",
+      "Accessibility"
+    ],
+    "operatorSuggestion": "Audit MMR/Elo spread in ranked queues by region and time slot."
+  },
+  {
+    "game": "Brawlhalla",
+    "languageGroup": "Spanish",
+    "reviewCount": 76,
+    "mainComplaints": [
+      "Matchmaking & Ranked Integrity",
+      "Balance & Combat Fairness",
+      "Monetization & Pricing",
+      "Toxicity & Fair Play"
+    ],
+    "positiveSignals": [
+      "Social fun",
+      "Accessibility"
+    ],
+    "operatorSuggestion": "Audit MMR/Elo spread in ranked queues by region and time slot."
+  },
+  {
+    "game": "Stumble Guys",
+    "languageGroup": "English",
+    "reviewCount": 196,
+    "mainComplaints": [
+      "Monetization & Pricing",
+      "Content Depth & Live Ops",
+      "Client Performance & Stability",
+      "Matchmaking & Ranked Integrity"
+    ],
+    "positiveSignals": [
+      "Fun And Casual Enjoyment",
+      "Character And Content Variety",
+      "Friends And Social Play",
+      "Free Access And Value"
+    ],
+    "operatorSuggestion": "Review price ladders vs. regional purchasing power."
+  },
+  {
+    "game": "Stumble Guys",
+    "languageGroup": "Brazil/Portuguese",
+    "reviewCount": 143,
+    "mainComplaints": [
+      "UI/UX & Controls",
+      "Monetization & Pricing",
+      "Toxicity & Fair Play",
+      "Server Stability & Netcode"
+    ],
+    "positiveSignals": [
+      "Character And Content Variety"
+    ],
+    "operatorSuggestion": "Run usability tests on menu navigation and control remapping."
+  },
+  {
+    "game": "Stumble Guys",
+    "languageGroup": "Spanish",
+    "reviewCount": 100,
+    "mainComplaints": [
+      "Client Performance & Stability",
+      "Monetization & Pricing",
+      "Server Stability & Netcode"
+    ],
+    "positiveSignals": [
+      "Social fun",
+      "Accessibility"
+    ],
+    "operatorSuggestion": "Profile crash and freeze clusters by device tier and OS version."
+  },
+  {
+    "game": "Goose Goose Duck",
+    "languageGroup": "English",
+    "reviewCount": 122,
+    "mainComplaints": [
+      "Content Depth & Live Ops",
+      "Matchmaking & Ranked Integrity",
+      "Community & Player Experience",
+      "Toxicity & Fair Play"
+    ],
+    "positiveSignals": [
+      "Among Us Style Social Deduction",
+      "Fun And Casual Enjoyment",
+      "Character And Content Variety",
+      "Friends And Social Play"
+    ],
+    "operatorSuggestion": "Accelerate rotating events and mode variety in live ops calendar."
+  },
+  {
+    "game": "Goose Goose Duck",
+    "languageGroup": "Brazil/Portuguese",
+    "reviewCount": 20,
+    "mainComplaints": [
+      "No dominant categorized complaint"
+    ],
+    "positiveSignals": [
+      "Among Us Style Social Deduction"
+    ],
+    "operatorSuggestion": "Monitor emerging themes weekly; volume=20 reviews."
+  },
+  {
+    "game": "Goose Goose Duck",
+    "languageGroup": "Spanish",
+    "reviewCount": 6,
+    "mainComplaints": [
+      "Server Stability & Netcode"
+    ],
+    "positiveSignals": [
+      "Among Us Style Social Deduction"
+    ],
+    "operatorSuggestion": "Monitor packet loss and disconnect rate by region and ISP."
+  }
+]

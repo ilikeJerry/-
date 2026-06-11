@@ -1,0 +1,862 @@
+[
+  {
+    "actionId": "ACT-001",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "matchmaking",
+    "action": "Audit MMR/Elo spread in ranked queues by region and time slot.",
+    "reason": "40 reviews reference matchmaking-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game us",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-002",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "matchmaking",
+    "action": "Introduce smurf-detection heuristics and report feedback loops.",
+    "reason": "40 reviews reference matchmaking-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game us",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-003",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "matchmaking",
+    "action": "Cap rank disparity in solo ranked while monitoring queue time.",
+    "reason": "40 reviews reference matchmaking-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game us",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-004",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "matchmaking",
+    "action": "Communicate matchmaking policy changes in patch notes.",
+    "reason": "40 reviews reference matchmaking-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game us",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-005",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "monetization",
+    "action": "Review price ladders vs. regional purchasing power.",
+    "reason": "29 reviews reference monetization-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | El peor jue",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-006",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "monetization",
+    "action": "Increase earnable currency pathways without paywalling core modes.",
+    "reason": "29 reviews reference monetization-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | El peor jue",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-007",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "monetization",
+    "action": "Disclose drop rates and reduce lootbox-style friction where applicable.",
+    "reason": "29 reviews reference monetization-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | El peor jue",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-008",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "monetization",
+    "action": "A/B test starter bundles for new-player conversion vs. backlash.",
+    "reason": "29 reviews reference monetization-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | El peor jue",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-009",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "server",
+    "action": "Monitor packet loss and disconnect rate by region and ISP.",
+    "reason": "9 reviews reference server-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game used to ",
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-010",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "server",
+    "action": "Separate ranked and casual network telemetry dashboards.",
+    "reason": "9 reviews reference server-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game used to ",
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-011",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "server",
+    "action": "Run incident postmortems on peak-hour lag spikes with rollback criteria.",
+    "reason": "9 reviews reference server-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game used to ",
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-012",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "server",
+    "action": "Publish a network status page when regional degradation exceeds SLA.",
+    "reason": "9 reviews reference server-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game used to ",
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-013",
+    "game": "Stumble Guys",
+    "priority": "Critical",
+    "category": "server",
+    "action": "Monitor packet loss and disconnect rate by region and ISP.",
+    "reason": "4 reviews reference server-related issues. Sample signals: Schmutz. Funktioniert anfangs ganz gut, dann plötzlich werde ich gekickt. Natürlich fällt euch nichts besseres ein als meine Internetverbindung verantwortlich zu machen. Seltsam, alles andere funktioniert problemlos. Eur | Stumble guys looks",
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-014",
+    "game": "Stumble Guys",
+    "priority": "Critical",
+    "category": "server",
+    "action": "Separate ranked and casual network telemetry dashboards.",
+    "reason": "4 reviews reference server-related issues. Sample signals: Schmutz. Funktioniert anfangs ganz gut, dann plötzlich werde ich gekickt. Natürlich fällt euch nichts besseres ein als meine Internetverbindung verantwortlich zu machen. Seltsam, alles andere funktioniert problemlos. Eur | Stumble guys looks",
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-015",
+    "game": "Stumble Guys",
+    "priority": "Critical",
+    "category": "server",
+    "action": "Run incident postmortems on peak-hour lag spikes with rollback criteria.",
+    "reason": "4 reviews reference server-related issues. Sample signals: Schmutz. Funktioniert anfangs ganz gut, dann plötzlich werde ich gekickt. Natürlich fällt euch nichts besseres ein als meine Internetverbindung verantwortlich zu machen. Seltsam, alles andere funktioniert problemlos. Eur | Stumble guys looks",
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-016",
+    "game": "Stumble Guys",
+    "priority": "Critical",
+    "category": "server",
+    "action": "Publish a network status page when regional degradation exceeds SLA.",
+    "reason": "4 reviews reference server-related issues. Sample signals: Schmutz. Funktioniert anfangs ganz gut, dann plötzlich werde ich gekickt. Natürlich fällt euch nichts besseres ein als meine Internetverbindung verantwortlich zu machen. Seltsam, alles andere funktioniert problemlos. Eur | Stumble guys looks",
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-017",
+    "game": "Goose Goose Duck",
+    "priority": "Critical",
+    "category": "performance",
+    "action": "Profile crash and freeze clusters by device tier and OS version.",
+    "reason": "1 reviews reference performance-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-018",
+    "game": "Goose Goose Duck",
+    "priority": "Critical",
+    "category": "performance",
+    "action": "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+    "reason": "1 reviews reference performance-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-019",
+    "game": "Goose Goose Duck",
+    "priority": "Critical",
+    "category": "performance",
+    "action": "Add automated regression tests for loading-time and memory spikes.",
+    "reason": "1 reviews reference performance-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-020",
+    "game": "Goose Goose Duck",
+    "priority": "Critical",
+    "category": "performance",
+    "action": "Ship hotfix channel for game-breaking bugs within 48h SLA.",
+    "reason": "1 reviews reference performance-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-021",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "balance",
+    "action": "Publish balance patch cadence with telemetry on pick/win rates.",
+    "reason": "41 reviews reference balance-related issues. Sample signals: get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex | Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdic",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-022",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "balance",
+    "action": "Target top-outlier legends/weapons with nerfs and counter-picks.",
+    "reason": "41 reviews reference balance-related issues. Sample signals: get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex | Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdic",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-023",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "balance",
+    "action": "Run PTR/beta feedback window before ranked-impacting changes.",
+    "reason": "41 reviews reference balance-related issues. Sample signals: get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex | Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdic",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-024",
+    "game": "Brawlhalla",
+    "priority": "Critical",
+    "category": "balance",
+    "action": "Document hitbox and combo tuning rationale for community trust.",
+    "reason": "41 reviews reference balance-related issues. Sample signals: get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex | Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdic",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-025",
+    "game": "Stumble Guys",
+    "priority": "High",
+    "category": "monetization",
+    "action": "Review price ladders vs. regional purchasing power.",
+    "reason": "38 reviews reference monetization-related issues. Sample signals: ♥♥♥♥ game,  its p2w, theres  so many skins, and  the game is  filled with bots. | This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not lik",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-026",
+    "game": "Stumble Guys",
+    "priority": "High",
+    "category": "monetization",
+    "action": "Increase earnable currency pathways without paywalling core modes.",
+    "reason": "38 reviews reference monetization-related issues. Sample signals: ♥♥♥♥ game,  its p2w, theres  so many skins, and  the game is  filled with bots. | This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not lik",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-027",
+    "game": "Stumble Guys",
+    "priority": "High",
+    "category": "monetization",
+    "action": "Disclose drop rates and reduce lootbox-style friction where applicable.",
+    "reason": "38 reviews reference monetization-related issues. Sample signals: ♥♥♥♥ game,  its p2w, theres  so many skins, and  the game is  filled with bots. | This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not lik",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-028",
+    "game": "Stumble Guys",
+    "priority": "High",
+    "category": "monetization",
+    "action": "A/B test starter bundles for new-player conversion vs. backlash.",
+    "reason": "38 reviews reference monetization-related issues. Sample signals: ♥♥♥♥ game,  its p2w, theres  so many skins, and  the game is  filled with bots. | This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not lik",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-029",
+    "game": "Brawlhalla",
+    "priority": "High",
+    "category": "performance",
+    "action": "Profile crash and freeze clusters by device tier and OS version.",
+    "reason": "6 reviews reference performance-related issues. Sample signals: this game pulls out the worst of me im a patient person this game manages to break that i will take my revenge against these people. the sky will rain red tonight. this game is so dumb i dont even understand why anyone p | this game is ",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-030",
+    "game": "Brawlhalla",
+    "priority": "High",
+    "category": "performance",
+    "action": "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+    "reason": "6 reviews reference performance-related issues. Sample signals: this game pulls out the worst of me im a patient person this game manages to break that i will take my revenge against these people. the sky will rain red tonight. this game is so dumb i dont even understand why anyone p | this game is ",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-031",
+    "game": "Brawlhalla",
+    "priority": "High",
+    "category": "performance",
+    "action": "Add automated regression tests for loading-time and memory spikes.",
+    "reason": "6 reviews reference performance-related issues. Sample signals: this game pulls out the worst of me im a patient person this game manages to break that i will take my revenge against these people. the sky will rain red tonight. this game is so dumb i dont even understand why anyone p | this game is ",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-032",
+    "game": "Brawlhalla",
+    "priority": "High",
+    "category": "performance",
+    "action": "Ship hotfix channel for game-breaking bugs within 48h SLA.",
+    "reason": "6 reviews reference performance-related issues. Sample signals: this game pulls out the worst of me im a patient person this game manages to break that i will take my revenge against these people. the sky will rain red tonight. this game is so dumb i dont even understand why anyone p | this game is ",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-033",
+    "game": "Goose Goose Duck",
+    "priority": "High",
+    "category": "matchmaking",
+    "action": "Audit MMR/Elo spread in ranked queues by region and time slot.",
+    "reason": "4 reviews reference matchmaking-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience | Such a bad game, says the lobby is 18+ and im here with my o",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-034",
+    "game": "Goose Goose Duck",
+    "priority": "High",
+    "category": "matchmaking",
+    "action": "Introduce smurf-detection heuristics and report feedback loops.",
+    "reason": "4 reviews reference matchmaking-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience | Such a bad game, says the lobby is 18+ and im here with my o",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-035",
+    "game": "Goose Goose Duck",
+    "priority": "High",
+    "category": "matchmaking",
+    "action": "Cap rank disparity in solo ranked while monitoring queue time.",
+    "reason": "4 reviews reference matchmaking-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience | Such a bad game, says the lobby is 18+ and im here with my o",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-036",
+    "game": "Goose Goose Duck",
+    "priority": "High",
+    "category": "matchmaking",
+    "action": "Communicate matchmaking policy changes in patch notes.",
+    "reason": "4 reviews reference matchmaking-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience | Such a bad game, says the lobby is 18+ and im here with my o",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-037",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "toxicity",
+    "action": "Escalate auto-moderation for slurs and harassment with appeal flow.",
+    "reason": "19 reviews reference toxicity-related issues. Sample signals: this game is horrible. No matter what I do its always lagging. I have a nice pc and everything else runs fine. Aside from that the majority of the people playing are extremely toxic and stressful to play with. Let me thi | Satan himself m",
+    "expectedImpact": "Safer social play, higher friend retention, reduced brand risk.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-038",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "toxicity",
+    "action": "Deploy anti-cheat telemetry review for spike reports post-patch.",
+    "reason": "19 reviews reference toxicity-related issues. Sample signals: this game is horrible. No matter what I do its always lagging. I have a nice pc and everything else runs fine. Aside from that the majority of the people playing are extremely toxic and stressful to play with. Let me thi | Satan himself m",
+    "expectedImpact": "Safer social play, higher friend retention, reduced brand risk.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-039",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "toxicity",
+    "action": "Publish enforcement transparency report monthly.",
+    "reason": "19 reviews reference toxicity-related issues. Sample signals: this game is horrible. No matter what I do its always lagging. I have a nice pc and everything else runs fine. Aside from that the majority of the people playing are extremely toxic and stressful to play with. Let me thi | Satan himself m",
+    "expectedImpact": "Safer social play, higher friend retention, reduced brand risk.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-040",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "matchmaking",
+    "action": "Audit MMR/Elo spread in ranked queues by region and time slot.",
+    "reason": "6 reviews reference matchmaking-related issues. Sample signals: I Don't recommend this game because it has (P2W) Cosmetics and when i play ranked a few hours this game freezes on my pc for no reason and then i have to launch the game again to be able to see my rank But otherwise it i | I played 2 ga",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-041",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "matchmaking",
+    "action": "Introduce smurf-detection heuristics and report feedback loops.",
+    "reason": "6 reviews reference matchmaking-related issues. Sample signals: I Don't recommend this game because it has (P2W) Cosmetics and when i play ranked a few hours this game freezes on my pc for no reason and then i have to launch the game again to be able to see my rank But otherwise it i | I played 2 ga",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-042",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "matchmaking",
+    "action": "Cap rank disparity in solo ranked while monitoring queue time.",
+    "reason": "6 reviews reference matchmaking-related issues. Sample signals: I Don't recommend this game because it has (P2W) Cosmetics and when i play ranked a few hours this game freezes on my pc for no reason and then i have to launch the game again to be able to see my rank But otherwise it i | I played 2 ga",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-043",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "matchmaking",
+    "action": "Communicate matchmaking policy changes in patch notes.",
+    "reason": "6 reviews reference matchmaking-related issues. Sample signals: I Don't recommend this game because it has (P2W) Cosmetics and when i play ranked a few hours this game freezes on my pc for no reason and then i have to launch the game again to be able to see my rank But otherwise it i | I played 2 ga",
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-044",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "monetization",
+    "action": "Review price ladders vs. regional purchasing power.",
+    "reason": "4 reviews reference monetization-related issues. Sample signals: Pathetic microtransaction money mill aimed at small children, including casino mechanics. Shouldn't be published on Steam. | I think there are always free version of popular paid for games. I'm okay with these, but I find this one very",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-045",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "monetization",
+    "action": "Increase earnable currency pathways without paywalling core modes.",
+    "reason": "4 reviews reference monetization-related issues. Sample signals: Pathetic microtransaction money mill aimed at small children, including casino mechanics. Shouldn't be published on Steam. | I think there are always free version of popular paid for games. I'm okay with these, but I find this one very",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-046",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "monetization",
+    "action": "Disclose drop rates and reduce lootbox-style friction where applicable.",
+    "reason": "4 reviews reference monetization-related issues. Sample signals: Pathetic microtransaction money mill aimed at small children, including casino mechanics. Shouldn't be published on Steam. | I think there are always free version of popular paid for games. I'm okay with these, but I find this one very",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-047",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "monetization",
+    "action": "A/B test starter bundles for new-player conversion vs. backlash.",
+    "reason": "4 reviews reference monetization-related issues. Sample signals: Pathetic microtransaction money mill aimed at small children, including casino mechanics. Shouldn't be published on Steam. | I think there are always free version of popular paid for games. I'm okay with these, but I find this one very",
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-048",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Accelerate rotating events and mode variety in live ops calendar.",
+    "reason": "23 reviews reference content-related issues. Sample signals: This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games | oyun çok repetitive ve sıkıcı | don't play it just play fall guys, dead",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-049",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Communicate roadmap for maps/modes/characters players request most.",
+    "reason": "23 reviews reference content-related issues. Sample signals: This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games | oyun çok repetitive ve sıkıcı | don't play it just play fall guys, dead",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-050",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Bundle stale-period retention offers tied to returning-player quests.",
+    "reason": "23 reviews reference content-related issues. Sample signals: This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games | oyun çok repetitive ve sıkıcı | don't play it just play fall guys, dead",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-051",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "community",
+    "action": "Improve report/mute pipeline SLAs and feedback to reporters.",
+    "reason": "19 reviews reference community-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | ♥♥♥♥ you. ♥♥♥♥",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-052",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "community",
+    "action": "Incentivize positive comms (commendations, party rewards).",
+    "reason": "19 reviews reference community-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | ♥♥♥♥ you. ♥♥♥♥",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-053",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "community",
+    "action": "Staff community managers for region-specific Discord/forum response.",
+    "reason": "19 reviews reference community-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | ♥♥♥♥ you. ♥♥♥♥",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-054",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Accelerate rotating events and mode variety in live ops calendar.",
+    "reason": "12 reviews reference content-related issues. Sample signals: I was on my way onto the emergency button While being chased by a sniper and I SWEAR i pressed the button before he shot and THEN I GET KILLED AND WE LOOSE THE ROUND IT IS THE MOST INFURIATING ♥♥♥♥ EVER AND ALSO THE TASK | I am absolutely ",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-055",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Communicate roadmap for maps/modes/characters players request most.",
+    "reason": "12 reviews reference content-related issues. Sample signals: I was on my way onto the emergency button While being chased by a sniper and I SWEAR i pressed the button before he shot and THEN I GET KILLED AND WE LOOSE THE ROUND IT IS THE MOST INFURIATING ♥♥♥♥ EVER AND ALSO THE TASK | I am absolutely ",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-056",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Bundle stale-period retention offers tied to returning-player quests.",
+    "reason": "12 reviews reference content-related issues. Sample signals: I was on my way onto the emergency button While being chased by a sniper and I SWEAR i pressed the button before he shot and THEN I GET KILLED AND WE LOOSE THE ROUND IT IS THE MOST INFURIATING ♥♥♥♥ EVER AND ALSO THE TASK | I am absolutely ",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-057",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Accelerate rotating events and mode variety in live ops calendar.",
+    "reason": "11 reviews reference content-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | Every time the g",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-058",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Communicate roadmap for maps/modes/characters players request most.",
+    "reason": "11 reviews reference content-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | Every time the g",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-059",
+    "game": "Brawlhalla",
+    "priority": "Medium",
+    "category": "content",
+    "action": "Bundle stale-period retention offers tied to returning-player quests.",
+    "reason": "11 reviews reference content-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | Every time the g",
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-060",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "balance",
+    "action": "Publish balance patch cadence with telemetry on pick/win rates.",
+    "reason": "3 reviews reference balance-related issues. Sample signals: MRBEAST ANANA TALON FXST COMBO ÇAKARIM FEASTIBLELARINI ATEŞE ATARIM | Stumble Guys started off as a fun alternative to Fall Guys, and at one point it even felt like a better version than the original. It was simple, chaotic, and enjoyable w",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-061",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "balance",
+    "action": "Target top-outlier legends/weapons with nerfs and counter-picks.",
+    "reason": "3 reviews reference balance-related issues. Sample signals: MRBEAST ANANA TALON FXST COMBO ÇAKARIM FEASTIBLELARINI ATEŞE ATARIM | Stumble Guys started off as a fun alternative to Fall Guys, and at one point it even felt like a better version than the original. It was simple, chaotic, and enjoyable w",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-062",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "balance",
+    "action": "Run PTR/beta feedback window before ranked-impacting changes.",
+    "reason": "3 reviews reference balance-related issues. Sample signals: MRBEAST ANANA TALON FXST COMBO ÇAKARIM FEASTIBLELARINI ATEŞE ATARIM | Stumble Guys started off as a fun alternative to Fall Guys, and at one point it even felt like a better version than the original. It was simple, chaotic, and enjoyable w",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-063",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "balance",
+    "action": "Document hitbox and combo tuning rationale for community trust.",
+    "reason": "3 reviews reference balance-related issues. Sample signals: MRBEAST ANANA TALON FXST COMBO ÇAKARIM FEASTIBLELARINI ATEŞE ATARIM | Stumble Guys started off as a fun alternative to Fall Guys, and at one point it even felt like a better version than the original. It was simple, chaotic, and enjoyable w",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-064",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "community",
+    "action": "Improve report/mute pipeline SLAs and feedback to reporters.",
+    "reason": "3 reviews reference community-related issues. Sample signals: Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco | washed 4 years ",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-065",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "community",
+    "action": "Incentivize positive comms (commendations, party rewards).",
+    "reason": "3 reviews reference community-related issues. Sample signals: Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco | washed 4 years ",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-066",
+    "game": "Stumble Guys",
+    "priority": "Medium",
+    "category": "community",
+    "action": "Staff community managers for region-specific Discord/forum response.",
+    "reason": "3 reviews reference community-related issues. Sample signals: Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco | washed 4 years ",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-067",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "tutorial",
+    "action": "Shorten tutorial with optional advanced training modules.",
+    "reason": "2 reviews reference tutorial-related issues. Sample signals: It keeps feezing and bugging. x..x    Other than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that's there to make gameplay impossible. -U | Goose Goose Duck",
+    "expectedImpact": "Lower new-user churn and fewer 'confusing for beginners' reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-068",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "tutorial",
+    "action": "Add guided first-match vs. bots before ranked exposure.",
+    "reason": "2 reviews reference tutorial-related issues. Sample signals: It keeps feezing and bugging. x..x    Other than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that's there to make gameplay impossible. -U | Goose Goose Duck",
+    "expectedImpact": "Lower new-user churn and fewer 'confusing for beginners' reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-069",
+    "game": "Goose Goose Duck",
+    "priority": "Medium",
+    "category": "tutorial",
+    "action": "Track D1/D7 retention split for players who skip tutorial.",
+    "reason": "2 reviews reference tutorial-related issues. Sample signals: It keeps feezing and bugging. x..x    Other than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that's there to make gameplay impossible. -U | Goose Goose Duck",
+    "expectedImpact": "Lower new-user churn and fewer 'confusing for beginners' reviews.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-070",
+    "game": "Stumble Guys",
+    "priority": "Low",
+    "category": "performance",
+    "action": "Profile crash and freeze clusters by device tier and OS version.",
+    "reason": "9 reviews reference performance-related issues. Sample signals: Need optimization, do not run well on phone, do not run well on notebook, both have specs compatible, be a ctrl c of fall guys but do it optimized at least on phones bro. | me paso un bug que hace que este juego no sea recomendado mejor",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-071",
+    "game": "Stumble Guys",
+    "priority": "Low",
+    "category": "performance",
+    "action": "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+    "reason": "9 reviews reference performance-related issues. Sample signals: Need optimization, do not run well on phone, do not run well on notebook, both have specs compatible, be a ctrl c of fall guys but do it optimized at least on phones bro. | me paso un bug que hace que este juego no sea recomendado mejor",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-072",
+    "game": "Stumble Guys",
+    "priority": "Low",
+    "category": "performance",
+    "action": "Add automated regression tests for loading-time and memory spikes.",
+    "reason": "9 reviews reference performance-related issues. Sample signals: Need optimization, do not run well on phone, do not run well on notebook, both have specs compatible, be a ctrl c of fall guys but do it optimized at least on phones bro. | me paso un bug que hace que este juego no sea recomendado mejor",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-073",
+    "game": "Stumble Guys",
+    "priority": "Low",
+    "category": "performance",
+    "action": "Ship hotfix channel for game-breaking bugs within 48h SLA.",
+    "reason": "9 reviews reference performance-related issues. Sample signals: Need optimization, do not run well on phone, do not run well on notebook, both have specs compatible, be a ctrl c of fall guys but do it optimized at least on phones bro. | me paso un bug que hace que este juego no sea recomendado mejor",
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-074",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "toxicity",
+    "action": "Escalate auto-moderation for slurs and harassment with appeal flow.",
+    "reason": "5 reviews reference toxicity-related issues. Sample signals: Unable to play because the Anti cheat thinks that I have a cheating software even though that just the Asus sync | Oynanış açısından hiç bir sıkıntı yok ancak istediğiniz lobiye giremiyorsunuz, ya amcı orospu evlatları sizi erkek olduğunuz",
+    "expectedImpact": "Safer social play, higher friend retention, reduced brand risk.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-075",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "toxicity",
+    "action": "Deploy anti-cheat telemetry review for spike reports post-patch.",
+    "reason": "5 reviews reference toxicity-related issues. Sample signals: Unable to play because the Anti cheat thinks that I have a cheating software even though that just the Asus sync | Oynanış açısından hiç bir sıkıntı yok ancak istediğiniz lobiye giremiyorsunuz, ya amcı orospu evlatları sizi erkek olduğunuz",
+    "expectedImpact": "Safer social play, higher friend retention, reduced brand risk.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-076",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "toxicity",
+    "action": "Publish enforcement transparency report monthly.",
+    "reason": "5 reviews reference toxicity-related issues. Sample signals: Unable to play because the Anti cheat thinks that I have a cheating software even though that just the Asus sync | Oynanış açısından hiç bir sıkıntı yok ancak istediğiniz lobiye giremiyorsunuz, ya amcı orospu evlatları sizi erkek olduğunuz",
+    "expectedImpact": "Safer social play, higher friend retention, reduced brand risk.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-077",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "community",
+    "action": "Improve report/mute pipeline SLAs and feedback to reporters.",
+    "reason": "6 reviews reference community-related issues. Sample signals: Everyone in this game has a brain dumber than a rotten banana, i told everyone my role during a meeting and 1 stupid user said that i wasnt and thats his role, i said i is, but when voting time came? EVERYONE VOTED ME, L | Hayatımda gördü",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-078",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "community",
+    "action": "Incentivize positive comms (commendations, party rewards).",
+    "reason": "6 reviews reference community-related issues. Sample signals: Everyone in this game has a brain dumber than a rotten banana, i told everyone my role during a meeting and 1 stupid user said that i wasnt and thats his role, i said i is, but when voting time came? EVERYONE VOTED ME, L | Hayatımda gördü",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-079",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "community",
+    "action": "Staff community managers for region-specific Discord/forum response.",
+    "reason": "6 reviews reference community-related issues. Sample signals: Everyone in this game has a brain dumber than a rotten banana, i told everyone my role during a meeting and 1 stupid user said that i wasnt and thats his role, i said i is, but when voting time came? EVERYONE VOTED ME, L | Hayatımda gördü",
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-080",
+    "game": "Stumble Guys",
+    "priority": "Low",
+    "category": "uiux",
+    "action": "Run usability tests on menu navigation and control remapping.",
+    "reason": "3 reviews reference uiux-related issues. Sample signals: O Jogo se Auto-Destruiu.\r \r Antigamente o jogo tinha uma gameplay simples, desde o início. mas com o tempo, tudo foi piorando.\r eu lembro de ficar jogando por horas esse jogo todos os dias quando eu era menor, mas hoje e | Isso definitivamente",
+    "expectedImpact": "Faster time-to-fun and lower early-session drop-off.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-081",
+    "game": "Stumble Guys",
+    "priority": "Low",
+    "category": "uiux",
+    "action": "Fix top-reported button/layout issues in first-time user flow.",
+    "reason": "3 reviews reference uiux-related issues. Sample signals: O Jogo se Auto-Destruiu.\r \r Antigamente o jogo tinha uma gameplay simples, desde o início. mas com o tempo, tudo foi piorando.\r eu lembro de ficar jogando por horas esse jogo todos os dias quando eu era menor, mas hoje e | Isso definitivamente",
+    "expectedImpact": "Faster time-to-fun and lower early-session drop-off.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-082",
+    "game": "Stumble Guys",
+    "priority": "Low",
+    "category": "uiux",
+    "action": "Add contextual tooltips for complex modes and ranked entry.",
+    "reason": "3 reviews reference uiux-related issues. Sample signals: O Jogo se Auto-Destruiu.\r \r Antigamente o jogo tinha uma gameplay simples, desde o início. mas com o tempo, tudo foi piorando.\r eu lembro de ficar jogando por horas esse jogo todos os dias quando eu era menor, mas hoje e | Isso definitivamente",
+    "expectedImpact": "Faster time-to-fun and lower early-session drop-off.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-083",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "balance",
+    "action": "Publish balance patch cadence with telemetry on pick/win rates.",
+    "reason": "2 reviews reference balance-related issues. Sample signals: The game is a great imposter game with there being many more roles then other imposter games (like among us) with most of them serving a purpose and being balanced. Along with that the game is free to play with there bei | Goose Goose Duck ",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-084",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "balance",
+    "action": "Target top-outlier legends/weapons with nerfs and counter-picks.",
+    "reason": "2 reviews reference balance-related issues. Sample signals: The game is a great imposter game with there being many more roles then other imposter games (like among us) with most of them serving a purpose and being balanced. Along with that the game is free to play with there bei | Goose Goose Duck ",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-085",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "balance",
+    "action": "Run PTR/beta feedback window before ranked-impacting changes.",
+    "reason": "2 reviews reference balance-related issues. Sample signals: The game is a great imposter game with there being many more roles then other imposter games (like among us) with most of them serving a purpose and being balanced. Along with that the game is free to play with there bei | Goose Goose Duck ",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  },
+  {
+    "actionId": "ACT-086",
+    "game": "Goose Goose Duck",
+    "priority": "Low",
+    "category": "balance",
+    "action": "Document hitbox and combo tuning rationale for community trust.",
+    "reason": "2 reviews reference balance-related issues. Sample signals: The game is a great imposter game with there being many more roles then other imposter games (like among us) with most of them serving a purpose and being balanced. Along with that the game is free to play with there bei | Goose Goose Duck ",
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "status": "pending"
+  }
+]

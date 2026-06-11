@@ -1,0 +1,25 @@
+{
+  "snapshotDate": "2026-06-01",
+  "simulationMode": true,
+  "label": "Baseline — Jun 1",
+  "categories": {
+    "balance": 28,
+    "matchmaking": 35,
+    "server": 62,
+    "monetization": 48,
+    "performance": 22,
+    "content": 18,
+    "community": 14,
+    "toxicity": 12,
+    "tutorial": 6,
+    "uiux": 8,
+    "translation": 4,
+    "advertisement": 3
+  },
+  "languageRegions": {
+    "english": 820,
+    "brazil_portuguese": 210,
+    "spanish": 160
+  },
+  "criticalIssueCount": 4
+}

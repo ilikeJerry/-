@@ -1,0 +1,400 @@
+[
+  {
+    "rank": 1,
+    "game": "Brawlhalla",
+    "category": "matchmaking",
+    "issue": "Matchmaking & Ranked Integrity",
+    "frequency": 40,
+    "impact": "Critical",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Audit MMR/Elo spread in ranked queues by region and time slot.",
+      "Introduce smurf-detection heuristics and report feedback loops.",
+      "Cap rank disparity in solo ranked while monitoring queue time.",
+      "Communicate matchmaking policy changes in patch notes."
+    ],
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "evidence": "40 reviews reference matchmaking-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game used to be good, but it is completely unplayable with how terribly it lags after each game, in the menu, game doesn't close, etc... They need to stop adding new skins and fix the issues they've been letting pil | Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi"
+  },
+  {
+    "rank": 2,
+    "game": "Brawlhalla",
+    "category": "monetization",
+    "issue": "Monetization & Pricing",
+    "frequency": 29,
+    "impact": "Critical",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Review price ladders vs. regional purchasing power.",
+      "Increase earnable currency pathways without paywalling core modes.",
+      "Disclose drop rates and reduce lootbox-style friction where applicable.",
+      "A/B test starter bundles for new-player conversion vs. backlash."
+    ],
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "evidence": "29 reviews reference monetization-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | El peor juego de peleas que he jugado en mi vida. He jugado mas de 4000 horas en PlayStation y casi 100 en pc, y son las peores malditas horas desperdiciadas de mi vida. He gastado perfectamente mas de lo que una familia | This game used to be good, but it is completely unplayable with how terribly it lags after each game, in the menu, game doesn't close, etc... They need to stop adding new skins and fix the issues they've been letting pil"
+  },
+  {
+    "rank": 3,
+    "game": "Brawlhalla",
+    "category": "server",
+    "issue": "Server Stability & Netcode",
+    "frequency": 9,
+    "impact": "Critical",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Monitor packet loss and disconnect rate by region and ISP.",
+      "Separate ranked and casual network telemetry dashboards.",
+      "Run incident postmortems on peak-hour lag spikes with rollback criteria.",
+      "Publish a network status page when regional degradation exceeds SLA."
+    ],
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "evidence": "9 reviews reference server-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game used to be good, but it is completely unplayable with how terribly it lags after each game, in the menu, game doesn't close, etc... They need to stop adding new skins and fix the issues they've been letting pil | This absolute hell hole of a game has completely and utterly destroyed my life. I used to be a normal person with a future, but this digital satan spawn has reduced my mental state to actual rubble. The Cs2 community loo"
+  },
+  {
+    "rank": 4,
+    "game": "Stumble Guys",
+    "category": "server",
+    "issue": "Server Stability & Netcode",
+    "frequency": 4,
+    "impact": "Critical",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Monitor packet loss and disconnect rate by region and ISP.",
+      "Separate ranked and casual network telemetry dashboards.",
+      "Run incident postmortems on peak-hour lag spikes with rollback criteria.",
+      "Publish a network status page when regional degradation exceeds SLA."
+    ],
+    "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players.",
+    "evidence": "4 reviews reference server-related issues. Sample signals: Schmutz. Funktioniert anfangs ganz gut, dann plötzlich werde ich gekickt. Natürlich fällt euch nichts besseres ein als meine Internetverbindung verantwortlich zu machen. Seltsam, alles andere funktioniert problemlos. Eur | Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco | Stumble Guys no es un juego. Stumble Guys es un CRIMEN CONTRA LA HUMANIDAD disfrazado de juego multijugador. Es el equivalente digital a que te inviten a una fiesta, te den un trago de jarabe para la tos caducado del 201"
+  },
+  {
+    "rank": 5,
+    "game": "Goose Goose Duck",
+    "category": "performance",
+    "issue": "Client Performance & Stability",
+    "frequency": 1,
+    "impact": "Critical",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Profile crash and freeze clusters by device tier and OS version.",
+      "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+      "Add automated regression tests for loading-time and memory spikes.",
+      "Ship hotfix channel for game-breaking bugs within 48h SLA."
+    ],
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "evidence": "1 reviews reference performance-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience"
+  },
+  {
+    "rank": 6,
+    "game": "Brawlhalla",
+    "category": "balance",
+    "issue": "Balance & Combat Fairness",
+    "frequency": 41,
+    "impact": "Critical",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Publish balance patch cadence with telemetry on pick/win rates.",
+      "Target top-outlier legends/weapons with nerfs and counter-picks.",
+      "Run PTR/beta feedback window before ranked-impacting changes.",
+      "Document hitbox and combo tuning rationale for community trust."
+    ],
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "evidence": "41 reviews reference balance-related issues. Sample signals: get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex | Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi"
+  },
+  {
+    "rank": 7,
+    "game": "Stumble Guys",
+    "category": "monetization",
+    "issue": "Monetization & Pricing",
+    "frequency": 38,
+    "impact": "High",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Review price ladders vs. regional purchasing power.",
+      "Increase earnable currency pathways without paywalling core modes.",
+      "Disclose drop rates and reduce lootbox-style friction where applicable.",
+      "A/B test starter bundles for new-player conversion vs. backlash."
+    ],
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "evidence": "38 reviews reference monetization-related issues. Sample signals: ♥♥♥♥ game,  its p2w, theres  so many skins, and  the game is  filled with bots. | This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games | There is more than 30 maps, but you will get 6 same maps all the time on top of pay to win abilities.\r Otherwise good game."
+  },
+  {
+    "rank": 8,
+    "game": "Brawlhalla",
+    "category": "performance",
+    "issue": "Client Performance & Stability",
+    "frequency": 6,
+    "impact": "High",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Profile crash and freeze clusters by device tier and OS version.",
+      "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+      "Add automated regression tests for loading-time and memory spikes.",
+      "Ship hotfix channel for game-breaking bugs within 48h SLA."
+    ],
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "evidence": "6 reviews reference performance-related issues. Sample signals: this game pulls out the worst of me im a patient person this game manages to break that i will take my revenge against these people. the sky will rain red tonight. this game is so dumb i dont even understand why anyone p | this game is horrible people genuinely walk through my sigs and half the time when i hit someone it shows i hit them then it freeze frames into a time where i apparently didnt hit them the devs are genuinely incompetent  | Dont have 1 good memory of this game"
+  },
+  {
+    "rank": 9,
+    "game": "Goose Goose Duck",
+    "category": "matchmaking",
+    "issue": "Matchmaking & Ranked Integrity",
+    "frequency": 4,
+    "impact": "High",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Audit MMR/Elo spread in ranked queues by region and time slot.",
+      "Introduce smurf-detection heuristics and report feedback loops.",
+      "Cap rank disparity in solo ranked while monitoring queue time.",
+      "Communicate matchmaking policy changes in patch notes."
+    ],
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "evidence": "4 reviews reference matchmaking-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience | Such a bad game, says the lobby is 18+ and im here with my old age and they still ♥♥♥♥♥♥♥ kick me, multiple times... dont even let you explain and just kick you. ugly game and ugly players | couldn't ever get my mic to work other than in a lobby by myself so i kept getting kicked from games."
+  },
+  {
+    "rank": 10,
+    "game": "Brawlhalla",
+    "category": "toxicity",
+    "issue": "Toxicity & Fair Play",
+    "frequency": 19,
+    "impact": "Medium",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Escalate auto-moderation for slurs and harassment with appeal flow.",
+      "Deploy anti-cheat telemetry review for spike reports post-patch.",
+      "Publish enforcement transparency report monthly."
+    ],
+    "expectedImpact": "Safer social play, higher friend retention, reduced brand risk.",
+    "evidence": "19 reviews reference toxicity-related issues. Sample signals: this game is horrible. No matter what I do its always lagging. I have a nice pc and everything else runs fine. Aside from that the majority of the people playing are extremely toxic and stressful to play with. Let me thi | Satan himself made this game. I've never wanted to kill someone, but this game changed that — of course, I'm only joking :). I wouldn't recommend this game to my worst enemy. It's the most toxic game I've ever played; yo | worst game ive ever played. everyone is toxic, the game sucks, it makes me angry. i want my 400 hours back."
+  },
+  {
+    "rank": 11,
+    "game": "Stumble Guys",
+    "category": "matchmaking",
+    "issue": "Matchmaking & Ranked Integrity",
+    "frequency": 6,
+    "impact": "Medium",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Audit MMR/Elo spread in ranked queues by region and time slot.",
+      "Introduce smurf-detection heuristics and report feedback loops.",
+      "Cap rank disparity in solo ranked while monitoring queue time.",
+      "Communicate matchmaking policy changes in patch notes."
+    ],
+    "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment.",
+    "evidence": "6 reviews reference matchmaking-related issues. Sample signals: I Don't recommend this game because it has (P2W) Cosmetics and when i play ranked a few hours this game freezes on my pc for no reason and then i have to launch the game again to be able to see my rank But otherwise it i | I played 2 games. These are not players. I believe these were 31 bots in a 32 man Lobby twice. | This Game need update and erase bots  This Game is so boring not easy game on Ranked Mode"
+  },
+  {
+    "rank": 12,
+    "game": "Goose Goose Duck",
+    "category": "monetization",
+    "issue": "Monetization & Pricing",
+    "frequency": 4,
+    "impact": "Medium",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Review price ladders vs. regional purchasing power.",
+      "Increase earnable currency pathways without paywalling core modes.",
+      "Disclose drop rates and reduce lootbox-style friction where applicable.",
+      "A/B test starter bundles for new-player conversion vs. backlash."
+    ],
+    "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews.",
+    "evidence": "4 reviews reference monetization-related issues. Sample signals: Pathetic microtransaction money mill aimed at small children, including casino mechanics. Shouldn't be published on Steam. | I think there are always free version of popular paid for games. I'm okay with these, but I find this one very uninteresting. Would not recommend you try out and would rather cough up the money for Among Us then even att | Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and player deception and expands it into a much larger, more fe"
+  },
+  {
+    "rank": 13,
+    "game": "Stumble Guys",
+    "category": "content",
+    "issue": "Content Depth & Live Ops",
+    "frequency": 23,
+    "impact": "Medium",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Accelerate rotating events and mode variety in live ops calendar.",
+      "Communicate roadmap for maps/modes/characters players request most.",
+      "Bundle stale-period retention offers tied to returning-player quests."
+    ],
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "evidence": "23 reviews reference content-related issues. Sample signals: This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games | oyun çok repetitive ve sıkıcı | don't play it just play fall guys, dead game and bots used to be fun but it died and went boring"
+  },
+  {
+    "rank": 14,
+    "game": "Brawlhalla",
+    "category": "community",
+    "issue": "Community & Player Experience",
+    "frequency": 19,
+    "impact": "Medium",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Improve report/mute pipeline SLAs and feedback to reporters.",
+      "Incentivize positive comms (commendations, party rewards).",
+      "Staff community managers for region-specific Discord/forum response."
+    ],
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "evidence": "19 reviews reference community-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | ♥♥♥♥ you. ♥♥♥♥ these devs. ♥♥♥♥ everyone that plays this game. this game gives me suicidal toughts and i hope everyone in this ♥♥♥♥♥♥♥ playerbase dies and burns in hell ♥♥♥♥ you all | i  would NOT reccomend this CHUD forsaken game. it has given me the following:\r Acanthosis nigricansAchalasiaAchondroplasiaAcromegalyAcute lymphoblastic leukemiaAcute myeloid leukemiaAddison's diseaseAdenomyosisAdrenoleu"
+  },
+  {
+    "rank": 15,
+    "game": "Goose Goose Duck",
+    "category": "content",
+    "issue": "Content Depth & Live Ops",
+    "frequency": 12,
+    "impact": "Medium",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Accelerate rotating events and mode variety in live ops calendar.",
+      "Communicate roadmap for maps/modes/characters players request most.",
+      "Bundle stale-period retention offers tied to returning-player quests."
+    ],
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "evidence": "12 reviews reference content-related issues. Sample signals: I was on my way onto the emergency button While being chased by a sniper and I SWEAR i pressed the button before he shot and THEN I GET KILLED AND WE LOOSE THE ROUND IT IS THE MOST INFURIATING ♥♥♥♥ EVER AND ALSO THE TASK | I am absolutely outraged by this situation. If you download the game on Apple and link your account to Game Center, you have NO way to log into your leveled-up account from a PC. Contacting support did nothing — they jus | It's an unusual game, but I didn't really like it, the gameplay is boring and the players are aggressive("
+  },
+  {
+    "rank": 16,
+    "game": "Brawlhalla",
+    "category": "content",
+    "issue": "Content Depth & Live Ops",
+    "frequency": 11,
+    "impact": "Medium",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Accelerate rotating events and mode variety in live ops calendar.",
+      "Communicate roadmap for maps/modes/characters players request most.",
+      "Bundle stale-period retention offers tied to returning-player quests."
+    ],
+    "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth.",
+    "evidence": "11 reviews reference content-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | Every time the game gets an update I feel the goal is to have as many players quit the game as possible. | Do NOT EVER EVER touch this game. it may look nice at first BUT: It has the most toxic community I have EVER seen in a game. The rage potential from this game is so high even the calmest person will get to the point of d"
+  },
+  {
+    "rank": 17,
+    "game": "Stumble Guys",
+    "category": "balance",
+    "issue": "Balance & Combat Fairness",
+    "frequency": 3,
+    "impact": "Medium",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Publish balance patch cadence with telemetry on pick/win rates.",
+      "Target top-outlier legends/weapons with nerfs and counter-picks.",
+      "Run PTR/beta feedback window before ranked-impacting changes.",
+      "Document hitbox and combo tuning rationale for community trust."
+    ],
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "evidence": "3 reviews reference balance-related issues. Sample signals: MRBEAST ANANA TALON FXST COMBO ÇAKARIM FEASTIBLELARINI ATEŞE ATARIM | Stumble Guys started off as a fun alternative to Fall Guys, and at one point it even felt like a better version than the original. It was simple, chaotic, and enjoyable without taking itself too seriously.  However, the  | Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco"
+  },
+  {
+    "rank": 18,
+    "game": "Stumble Guys",
+    "category": "community",
+    "issue": "Community & Player Experience",
+    "frequency": 3,
+    "impact": "Medium",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Improve report/mute pipeline SLAs and feedback to reporters.",
+      "Incentivize positive comms (commendations, party rewards).",
+      "Staff community managers for region-specific Discord/forum response."
+    ],
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "evidence": "3 reviews reference community-related issues. Sample signals: Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco | washed 4 years of my life. Worst dev since scopely bought the game, worst community. | one of the worst games with a horrible community. i got held back by 3 guys at the start twice just so i would lose. ♥♥♥♥ this ♥♥♥♥♥♥♥ game i hope anyone that plays it stubs their ♥♥♥♥♥♥♥ toes"
+  },
+  {
+    "rank": 19,
+    "game": "Goose Goose Duck",
+    "category": "tutorial",
+    "issue": "Onboarding & Tutorial",
+    "frequency": 2,
+    "impact": "Medium",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Shorten tutorial with optional advanced training modules.",
+      "Add guided first-match vs. bots before ranked exposure.",
+      "Track D1/D7 retention split for players who skip tutorial."
+    ],
+    "expectedImpact": "Lower new-user churn and fewer 'confusing for beginners' reviews.",
+    "evidence": "2 reviews reference tutorial-related issues. Sample signals: It keeps feezing and bugging. x..x    Other than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that's there to make gameplay impossible. -U | Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and player deception and expands it into a much larger, more fe"
+  },
+  {
+    "rank": 20,
+    "game": "Stumble Guys",
+    "category": "performance",
+    "issue": "Client Performance & Stability",
+    "frequency": 9,
+    "impact": "Low",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Profile crash and freeze clusters by device tier and OS version.",
+      "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+      "Add automated regression tests for loading-time and memory spikes.",
+      "Ship hotfix channel for game-breaking bugs within 48h SLA."
+    ],
+    "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery.",
+    "evidence": "9 reviews reference performance-related issues. Sample signals: Need optimization, do not run well on phone, do not run well on notebook, both have specs compatible, be a ctrl c of fall guys but do it optimized at least on phones bro. | me paso un bug que hace que este juego no sea recomendado mejore la slide a nivel 15 y no me deja deslizar a los enemigos ni tampoco  puedo  ponerme la skin de la slide a nivel 15 | anasını sikim bu skillerin hangi oruspu cocu adminin aklına geldi bu adamlar oynattırmıyor dereceli giriyon 3 sanıye sonra skill ile düşürüyor bug dolu amk oyunu arkadaşlar ile giriyoz siktiniz zevkimizi."
+  },
+  {
+    "rank": 21,
+    "game": "Goose Goose Duck",
+    "category": "toxicity",
+    "issue": "Toxicity & Fair Play",
+    "frequency": 5,
+    "impact": "Low",
+    "businessRisk": "High",
+    "recommendedActions": [
+      "Escalate auto-moderation for slurs and harassment with appeal flow.",
+      "Deploy anti-cheat telemetry review for spike reports post-patch.",
+      "Publish enforcement transparency report monthly."
+    ],
+    "expectedImpact": "Safer social play, higher friend retention, reduced brand risk.",
+    "evidence": "5 reviews reference toxicity-related issues. Sample signals: Unable to play because the Anti cheat thinks that I have a cheating software even though that just the Asus sync | Oynanış açısından hiç bir sıkıntı yok ancak istediğiniz lobiye giremiyorsunuz, ya amcı orospu evlatları sizi erkek olduğunuz için atıyor ya da hiç bir sebebi yokken durduk yere lobiden atılabiliyorsunuz. Eğlenmeye bir oy | I would love to say something good about this game, however the community is so toxic, I sadly can't, I played for 1 hour, and uninstalled. This game is even more filled with racists and sexists than any other game I've "
+  },
+  {
+    "rank": 22,
+    "game": "Goose Goose Duck",
+    "category": "community",
+    "issue": "Community & Player Experience",
+    "frequency": 6,
+    "impact": "Low",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Improve report/mute pipeline SLAs and feedback to reporters.",
+      "Incentivize positive comms (commendations, party rewards).",
+      "Staff community managers for region-specific Discord/forum response."
+    ],
+    "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion.",
+    "evidence": "6 reviews reference community-related issues. Sample signals: Everyone in this game has a brain dumber than a rotten banana, i told everyone my role during a meeting and 1 stupid user said that i wasnt and thats his role, i said i is, but when voting time came? EVERYONE VOTED ME, L | Hayatımda gördüğüm en *mcı community | I would love to say something good about this game, however the community is so toxic, I sadly can't, I played for 1 hour, and uninstalled. This game is even more filled with racists and sexists than any other game I've "
+  },
+  {
+    "rank": 23,
+    "game": "Stumble Guys",
+    "category": "uiux",
+    "issue": "UI/UX & Controls",
+    "frequency": 3,
+    "impact": "Low",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Run usability tests on menu navigation and control remapping.",
+      "Fix top-reported button/layout issues in first-time user flow.",
+      "Add contextual tooltips for complex modes and ranked entry."
+    ],
+    "expectedImpact": "Faster time-to-fun and lower early-session drop-off.",
+    "evidence": "3 reviews reference uiux-related issues. Sample signals: O Jogo se Auto-Destruiu.\r \r Antigamente o jogo tinha uma gameplay simples, desde o início. mas com o tempo, tudo foi piorando.\r eu lembro de ficar jogando por horas esse jogo todos os dias quando eu era menor, mas hoje e | Isso definitivamente é um jogo de celular impulsionado pelo fracasso do Fall Guys. Interface predatória, lotado de bots, é um port do mobile apenas, bem ruim por sinal. | Раніше це був приємний клон Fall Guys, щоб розслабитися на 15 хвилин, але зараз гру просто задушили донатом. Він тут на кожному кроці: у кожному меню, у кожному рядку і в кожному вікні. Замість того, щоб правити геймплей"
+  },
+  {
+    "rank": 24,
+    "game": "Goose Goose Duck",
+    "category": "balance",
+    "issue": "Balance & Combat Fairness",
+    "frequency": 2,
+    "impact": "Low",
+    "businessRisk": "Medium",
+    "recommendedActions": [
+      "Publish balance patch cadence with telemetry on pick/win rates.",
+      "Target top-outlier legends/weapons with nerfs and counter-picks.",
+      "Run PTR/beta feedback window before ranked-impacting changes.",
+      "Document hitbox and combo tuning rationale for community trust."
+    ],
+    "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement.",
+    "evidence": "2 reviews reference balance-related issues. Sample signals: The game is a great imposter game with there being many more roles then other imposter games (like among us) with most of them serving a purpose and being balanced. Along with that the game is free to play with there bei | Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and player deception and expands it into a much larger, more fe"
+  }
+]

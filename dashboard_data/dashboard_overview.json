@@ -1,0 +1,13 @@
+{
+  "projectName": "GameN Insight",
+  "subtitle": "AI 기반 글로벌 라이브옵스 인텔리전스 플랫폼",
+  "totalGames": 3,
+  "totalReviews": 2100,
+  "negativeReviews": 1500,
+  "positiveReviews": 600,
+  "topRiskGame": "Brawlhalla",
+  "topRiskCategory": "Monetization & Pricing",
+  "criticalIssues": 6,
+  "highRiskActions": 50,
+  "updatedAt": "2026-06-04T13:16:30.300790+00:00"
+}

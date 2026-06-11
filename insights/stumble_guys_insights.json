@@ -1,0 +1,313 @@
+{
+  "game": "Stumble Guys",
+  "generatedAt": "2026-06-04T13:16:29.963136+00:00",
+  "totalReviewsAnalyzed": 700,
+  "negativeReviewCount": 500,
+  "positiveReviewCount": 200,
+  "categoryFrequency": {
+    "other": 630,
+    "monetization": 38,
+    "content": 23,
+    "performance": 9,
+    "matchmaking": 6,
+    "server": 4,
+    "uiux": 3,
+    "balance": 3,
+    "community": 3,
+    "advertisement": 2,
+    "toxicity": 1
+  },
+  "executiveSummary": [
+    "Stumble Guys: 700 Steam reviews analyzed for live-ops decision support (operations intelligence, not sentiment ratio reporting).",
+    "Priority #1: Monetization & Pricing — 38 mentions, high impact, high business risk.",
+    "Secondary focus: Content Depth & Live Ops (23 mentions, medium impact).",
+    "Preserve strengths players explicitly praise: Casual Fun & Entertainment, Character/Mode Variety, Free Access & Perceived Value.",
+    "Recommended operating posture: ship network/matchmaking telemetry first, then monetization clarity, then content cadence communication.",
+    "Risk if unaddressed: elevated churn in ranked segments and rising store-review backlash in priority language regions.",
+    "Next 30-day KPI focus: disconnect rate, ranked queue fairness, new-player D7 retention, and monetization-related negative review velocity."
+  ],
+  "topIssues": [
+    {
+      "priority": 1,
+      "category": "monetization",
+      "title": "Monetization & Pricing",
+      "frequency": 38,
+      "impact": "high",
+      "businessRisk": "high",
+      "issue": "Monetization Pressure & Perceived Value",
+      "evidence": "38 reviews reference monetization-related issues. Sample signals: ♥♥♥♥ game,  its p2w, theres  so many skins, and  the game is  filled with bots. | This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games | There is more than 30 maps, but you will get 6 same maps all the time on top of pay to win abilities.\r Otherwise good game.",
+      "recommendedActions": [
+        "Review price ladders vs. regional purchasing power.",
+        "Increase earnable currency pathways without paywalling core modes.",
+        "Disclose drop rates and reduce lootbox-style friction where applicable.",
+        "A/B test starter bundles for new-player conversion vs. backlash."
+      ],
+      "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews."
+    },
+    {
+      "priority": 2,
+      "category": "content",
+      "title": "Content Depth & Live Ops",
+      "frequency": 23,
+      "impact": "medium",
+      "businessRisk": "medium",
+      "issue": "Content Freshness & Variety",
+      "evidence": "23 reviews reference content-related issues. Sample signals: This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games | oyun çok repetitive ve sıkıcı | don't play it just play fall guys, dead game and bots used to be fun but it died and went boring",
+      "recommendedActions": [
+        "Accelerate rotating events and mode variety in live ops calendar.",
+        "Communicate roadmap for maps/modes/characters players request most.",
+        "Bundle stale-period retention offers tied to returning-player quests."
+      ],
+      "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth."
+    },
+    {
+      "priority": 3,
+      "category": "server",
+      "title": "Server Stability & Netcode",
+      "frequency": 4,
+      "impact": "critical",
+      "businessRisk": "high",
+      "issue": "Server Instability & Network Quality",
+      "evidence": "4 reviews reference server-related issues. Sample signals: Schmutz. Funktioniert anfangs ganz gut, dann plötzlich werde ich gekickt. Natürlich fällt euch nichts besseres ein als meine Internetverbindung verantwortlich zu machen. Seltsam, alles andere funktioniert problemlos. Eur | Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco | Stumble Guys no es un juego. Stumble Guys es un CRIMEN CONTRA LA HUMANIDAD disfrazado de juego multijugador. Es el equivalente digital a que te inviten a una fiesta, te den un trago de jarabe para la tos caducado del 201",
+      "recommendedActions": [
+        "Monitor packet loss and disconnect rate by region and ISP.",
+        "Separate ranked and casual network telemetry dashboards.",
+        "Run incident postmortems on peak-hour lag spikes with rollback criteria.",
+        "Publish a network status page when regional degradation exceeds SLA."
+      ],
+      "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players."
+    },
+    {
+      "priority": 4,
+      "category": "performance",
+      "title": "Client Performance & Stability",
+      "frequency": 9,
+      "impact": "low",
+      "businessRisk": "high",
+      "issue": "Client Performance & Technical Reliability",
+      "evidence": "9 reviews reference performance-related issues. Sample signals: Need optimization, do not run well on phone, do not run well on notebook, both have specs compatible, be a ctrl c of fall guys but do it optimized at least on phones bro. | me paso un bug que hace que este juego no sea recomendado mejore la slide a nivel 15 y no me deja deslizar a los enemigos ni tampoco  puedo  ponerme la skin de la slide a nivel 15 | anasını sikim bu skillerin hangi oruspu cocu adminin aklına geldi bu adamlar oynattırmıyor dereceli giriyon 3 sanıye sonra skill ile düşürüyor bug dolu amk oyunu arkadaşlar ile giriyoz siktiniz zevkimizi.",
+      "recommendedActions": [
+        "Profile crash and freeze clusters by device tier and OS version.",
+        "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+        "Add automated regression tests for loading-time and memory spikes.",
+        "Ship hotfix channel for game-breaking bugs within 48h SLA."
+      ],
+      "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery."
+    },
+    {
+      "priority": 5,
+      "category": "matchmaking",
+      "title": "Matchmaking & Ranked Integrity",
+      "frequency": 6,
+      "impact": "medium",
+      "businessRisk": "high",
+      "issue": "Matchmaking Fairness & Skill Integrity",
+      "evidence": "6 reviews reference matchmaking-related issues. Sample signals: I Don't recommend this game because it has (P2W) Cosmetics and when i play ranked a few hours this game freezes on my pc for no reason and then i have to launch the game again to be able to see my rank But otherwise it i | I played 2 games. These are not players. I believe these were 31 bots in a 32 man Lobby twice. | This Game need update and erase bots  This Game is so boring not easy game on Ranked Mode",
+      "recommendedActions": [
+        "Audit MMR/Elo spread in ranked queues by region and time slot.",
+        "Introduce smurf-detection heuristics and report feedback loops.",
+        "Cap rank disparity in solo ranked while monitoring queue time.",
+        "Communicate matchmaking policy changes in patch notes."
+      ],
+      "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment."
+    },
+    {
+      "priority": 6,
+      "category": "balance",
+      "title": "Balance & Combat Fairness",
+      "frequency": 3,
+      "impact": "medium",
+      "businessRisk": "medium",
+      "issue": "Combat Balance & Meta Health",
+      "evidence": "3 reviews reference balance-related issues. Sample signals: MRBEAST ANANA TALON FXST COMBO ÇAKARIM FEASTIBLELARINI ATEŞE ATARIM | Stumble Guys started off as a fun alternative to Fall Guys, and at one point it even felt like a better version than the original. It was simple, chaotic, and enjoyable without taking itself too seriously.  However, the  | Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco",
+      "recommendedActions": [
+        "Publish balance patch cadence with telemetry on pick/win rates.",
+        "Target top-outlier legends/weapons with nerfs and counter-picks.",
+        "Run PTR/beta feedback window before ranked-impacting changes.",
+        "Document hitbox and combo tuning rationale for community trust."
+      ],
+      "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement."
+    },
+    {
+      "priority": 7,
+      "category": "community",
+      "title": "Community & Player Experience",
+      "frequency": 3,
+      "impact": "medium",
+      "businessRisk": "medium",
+      "issue": "Community Health & Social Features",
+      "evidence": "3 reviews reference community-related issues. Sample signals: Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Guys, developed by Sco | washed 4 years of my life. Worst dev since scopely bought the game, worst community. | one of the worst games with a horrible community. i got held back by 3 guys at the start twice just so i would lose. ♥♥♥♥ this ♥♥♥♥♥♥♥ game i hope anyone that plays it stubs their ♥♥♥♥♥♥♥ toes",
+      "recommendedActions": [
+        "Improve report/mute pipeline SLAs and feedback to reporters.",
+        "Incentivize positive comms (commendations, party rewards).",
+        "Staff community managers for region-specific Discord/forum response."
+      ],
+      "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion."
+    },
+    {
+      "priority": 8,
+      "category": "uiux",
+      "title": "UI/UX & Controls",
+      "frequency": 3,
+      "impact": "low",
+      "businessRisk": "medium",
+      "issue": "UI/UX Friction",
+      "evidence": "3 reviews reference uiux-related issues. Sample signals: O Jogo se Auto-Destruiu.\r \r Antigamente o jogo tinha uma gameplay simples, desde o início. mas com o tempo, tudo foi piorando.\r eu lembro de ficar jogando por horas esse jogo todos os dias quando eu era menor, mas hoje e | Isso definitivamente é um jogo de celular impulsionado pelo fracasso do Fall Guys. Interface predatória, lotado de bots, é um port do mobile apenas, bem ruim por sinal. | Раніше це був приємний клон Fall Guys, щоб розслабитися на 15 хвилин, але зараз гру просто задушили донатом. Він тут на кожному кроці: у кожному меню, у кожному рядку і в кожному вікні. Замість того, щоб правити геймплей",
+      "recommendedActions": [
+        "Run usability tests on menu navigation and control remapping.",
+        "Fix top-reported button/layout issues in first-time user flow.",
+        "Add contextual tooltips for complex modes and ranked entry."
+      ],
+      "expectedImpact": "Faster time-to-fun and lower early-session drop-off."
+    }
+  ],
+  "positiveDrivers": [
+    {
+      "driver": "Casual Fun & Entertainment",
+      "mentionCount": 19,
+      "preserveActions": [
+        "Avoid over-tuning casual modes for hardcore-only meta.",
+        "Celebrate community clips and meme-friendly modes."
+      ],
+      "examples": [
+        "Easy, fun, chill game",
+        "peanut would love some pets and treats :)\r 　　 　　🌸＞　　フ\r 　　 　　| 　_　 _ l\r  　　 　／` ミ＿xノ\r 　 　 /　　　 　 |\r 　　 /　 ヽ　　 ﾉ\r  　 │　　|　|　|\r ／￣|　　 |　|　|\r | (￣ヽ＿_ヽ_)__)\r ＼二つ"
+      ]
+    },
+    {
+      "driver": "Character/Mode Variety",
+      "mentionCount": 7,
+      "preserveActions": [
+        "Keep rotating content cadence visible on roadmap.",
+        "Balance new releases between casual and ranked players."
+      ],
+      "examples": [
+        "this game is so fun but can you guys make a trading sytem maybe where you can trade skins",
+        "MUITAS MAIS MUITAS COISAS LEGAIS MESMO SKINS MAPAS E MUITO MAIS SE DIVIRTA"
+      ]
+    },
+    {
+      "driver": "Free Access & Perceived Value",
+      "mentionCount": 3,
+      "preserveActions": [
+        "Protect core modes from paywall expansion.",
+        "Highlight free progression paths in store and onboarding."
+      ],
+      "examples": [
+        "Stumble Guys is pretty cool, although it's an fall guys copy, it's a really nice experience, and IT'S FREE!",
+        "not going to spoil it to much but its so fun and gives you enough of a challenge to enjoy the game and not feel like it is to easy. good for a great variety of "
+      ]
+    },
+    {
+      "driver": "Play With Friends & Social Sessions",
+      "mentionCount": 3,
+      "preserveActions": [
+        "Maintain party/squad stability and friend-invite rewards.",
+        "Promote co-play events in weekends and holidays."
+      ],
+      "examples": [
+        "great to play no need for friends stightly pay win but not really",
+        "Stumble Guys is a fun little game that offers a quick rush of dopamine for when you are bored. The main purpose of the game is to be the first stubeling guy to "
+      ]
+    },
+    {
+      "driver": "Events & Live Updates",
+      "mentionCount": 1,
+      "preserveActions": [
+        "Sustain seasonal events with clear earn rules.",
+        "Pre-announce update beats to reduce 'stale game' sentiment."
+      ],
+      "examples": [
+        "this is an amazing game with an cool editor, daily, weekly and event levels. 9.5/10"
+      ]
+    }
+  ],
+  "languageAnalysis": [
+    {
+      "region": "english",
+      "reviewCount": 196,
+      "topComplaints": [
+        "Monetization & Pricing",
+        "Content Depth & Live Ops",
+        "Client Performance & Stability",
+        "Matchmaking & Ranked Integrity"
+      ],
+      "topStrengths": [
+        "Fun And Casual Enjoyment",
+        "Character And Content Variety",
+        "Friends And Social Play",
+        "Free Access And Value"
+      ],
+      "operatorActions": [
+        "[english] Review price ladders vs. regional purchasing power.",
+        "[english] Accelerate rotating events and mode variety in live ops calendar."
+      ]
+    },
+    {
+      "region": "brazil_portuguese",
+      "reviewCount": 143,
+      "topComplaints": [
+        "UI/UX & Controls",
+        "Monetization & Pricing",
+        "Toxicity & Fair Play",
+        "Server Stability & Netcode"
+      ],
+      "topStrengths": [
+        "Character And Content Variety"
+      ],
+      "operatorActions": [
+        "[brazil_portuguese] Run usability tests on menu navigation and control remapping.",
+        "[brazil_portuguese] Review price ladders vs. regional purchasing power."
+      ]
+    },
+    {
+      "region": "spanish",
+      "reviewCount": 100,
+      "topComplaints": [
+        "Client Performance & Stability",
+        "Monetization & Pricing",
+        "Server Stability & Netcode"
+      ],
+      "topStrengths": [
+        "Social fun",
+        "Accessibility"
+      ],
+      "operatorActions": [
+        "[spanish] Profile crash and freeze clusters by device tier and OS version.",
+        "[spanish] Review price ladders vs. regional purchasing power."
+      ]
+    }
+  ],
+  "topOperatorActions": [
+    {
+      "priority": 1,
+      "category": "monetization",
+      "actionSummary": "Review price ladders vs. regional purchasing power.",
+      "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews."
+    },
+    {
+      "priority": 2,
+      "category": "content",
+      "actionSummary": "Accelerate rotating events and mode variety in live ops calendar.",
+      "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth."
+    },
+    {
+      "priority": 3,
+      "category": "server",
+      "actionSummary": "Monitor packet loss and disconnect rate by region and ISP.",
+      "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players."
+    },
+    {
+      "priority": 4,
+      "category": "performance",
+      "actionSummary": "Profile crash and freeze clusters by device tier and OS version.",
+      "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery."
+    },
+    {
+      "priority": 5,
+      "category": "matchmaking",
+      "actionSummary": "Audit MMR/Elo spread in ranked queues by region and time slot.",
+      "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment."
+    }
+  ]
+}

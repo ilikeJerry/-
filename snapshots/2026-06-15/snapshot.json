@@ -1,0 +1,25 @@
+{
+  "snapshotDate": "2026-06-15",
+  "simulationMode": true,
+  "label": "Current — Jun 15",
+  "categories": {
+    "balance": 41,
+    "matchmaking": 40,
+    "server": 21,
+    "monetization": 71,
+    "performance": 16,
+    "content": 35,
+    "community": 31,
+    "toxicity": 24,
+    "tutorial": 7,
+    "uiux": 11,
+    "translation": 4,
+    "advertisement": 2
+  },
+  "languageRegions": {
+    "english": 708,
+    "brazil_portuguese": 254,
+    "spanish": 100
+  },
+  "criticalIssueCount": 6
+}

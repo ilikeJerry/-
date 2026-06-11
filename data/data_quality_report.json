@@ -1,0 +1,1216 @@
+{
+  "generated_at": "2026-06-04T13:10:11.038123+00:00",
+  "summary": {
+    "files_checked": 6,
+    "files_loaded": 6,
+    "cross_file_duplicate_ids": 0,
+    "cross_file_duplicate_count": 0,
+    "portfolio_verdict": "PARTIAL GO",
+    "verdict_counts": {
+      "PARTIAL GO": 4,
+      "NO GO": 2
+    }
+  },
+  "cross_file_duplicates": {},
+  "file_analyses": [
+    {
+      "file": "brawlhalla_negative_500.json",
+      "label": "Brawlhalla Negative",
+      "game": "Brawlhalla",
+      "exists": true,
+      "loaded": true,
+      "error": null,
+      "count_check": {
+        "targetCount": 500,
+        "actualCount": 500,
+        "reviews_length": 500,
+        "status": "OK"
+      },
+      "missing_fields": {
+        "issue_count": 0,
+        "issues": []
+      },
+      "duplicates": {
+        "internal_duplicate_count": 0,
+        "unique_ids": 500
+      },
+      "language_distribution": {
+        "english": 292,
+        "brazilian": 51,
+        "spanish": 45,
+        "russian": 27,
+        "french": 16,
+        "turkish": 16,
+        "german": 14,
+        "latam": 9,
+        "portuguese": 4,
+        "swedish": 4,
+        "italian": 4,
+        "schinese": 4,
+        "czech": 3,
+        "polish": 2,
+        "tchinese": 2
+      },
+      "length_distribution": {
+        "0~10자": 75,
+        "11~20자": 74,
+        "21~50자": 111,
+        "51~100자": 89,
+        "101~300자": 87,
+        "301자 이상": 64
+      },
+      "low_information": {
+        "count": 76,
+        "ratio": 0.152,
+        "ratio_percent": 15.2
+      },
+      "operational_value": {
+        "Low Value": {
+          "count": 164,
+          "ratio_percent": 32.8
+        },
+        "Medium Value": {
+          "count": 164,
+          "ratio_percent": 32.8
+        },
+        "High Value": {
+          "count": 141,
+          "ratio_percent": 28.2
+        },
+        "Critical Value": {
+          "count": 31,
+          "ratio_percent": 6.2
+        }
+      },
+      "category_keywords": {
+        "balance": 31,
+        "matchmaking": 29,
+        "community": 21,
+        "monetization": 17,
+        "content": 14,
+        "server": 8,
+        "uiux": 6,
+        "performance": 3,
+        "tutorial": 2,
+        "translation": 1
+      },
+      "samples": {
+        "longest_3": [
+          {
+            "recommendationid": "227123495",
+            "length": 7876,
+            "review": "Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con Lord Vraxx durante veinte minutos mientras tú te preguntas en qué momento exacto de tu vida tomaste la decisión que te llevó hasta aquí.\nEmpecemos por el principio, porque este juego tiene historia, y como toda historia trágica, merece ser contada desde su origen. Brawlhalla lleva desde 2017 disponible de manera oficial. Ocho años. En ese tiempo, la humanidad ha lanzado cohetes a Marte, desarrollado vacunas en tiempo récord, creado inteligencias artificiales capaces de mantener conversaciones filosóficas, y construido rascacielos completos desde los cimientos. El equipo de desarrollo de Brawlhalla, en ese mismo periodo histórico, no ha conseguido arreglar el netcode. No de forma significativa, no de forma que cualquier jugador que lleva más de un mes en el juego pueda notar. El netcode sigue siendo, con ligeras variaciones cosméticas, la misma experiencia de ruleta rusa digital que era cuando George RR Martin todavía generaba expectativas sobre Los Vientos del Invierno.\n\nHablemos del sistema de combate, que sobre el papel tiene una profundidad técnica real y ejecutada con cierta elegancia. Hay inputs, hay strings, hay combos, hay reads, hay edgeguarding, hay recoveries con lógica, hay un sistema de estadísticas entre armas que crea asimetrías interesantes. Todo esto existe. Todo esto está ahí, documentado, theorycrafteable, con potencial técnico suficiente como para que un jugador dedicado pueda pasarse años perfeccionando. El problema no es el juego en abstracto. El problema es la comunidad concreta que decidió ignorar absolutamente todo lo anterior y reducir el juego en su práctica real a una sola pregunta: ¿cuántos sigs seguidos puede hacer mi personaje antes de que el rival muera o me desconecte?\nEl sig, para quien no lo conozca, es el ataque de firma de cada leyenda, generalmente ejecutado con neutral especial o direccional especial, y que en la mayoría de los casos consiste en un movimiento amplio, rápido, con hitbox generosa y que en las manos de la comunidad media de Brawlhalla se convierte en el alfa y el omega de toda estrategia concebible. No hay edgeguard porque para hacer edgeguard hay que pensar en la posición del rival. No hay strings porque los strings requieren memorizar una secuencia. No hay reads porque leer al oponente implica que primero observas al oponente en lugar de mirar fijamente el botón que vas a pulsar. Lo que hay es sig. Sig. Sig. Sig. Y si no funcionó, más sig. Y si el rival esquivó, sig en otra dirección. Y si perdiste, fue porque el rival tiene el personaje roto y no porque lleves tres años jugando con una sola herramienta de un set completo.\n\nEl tema de los personajes rotos merece su propio apartado porque es quizás el fenómeno cultural más fascinante de Brawlhalla como ecosistema competitivo. En cualquier juego de peleas con un mínimo de historia competitiva, los tiers existen, hay personajes más poderosos que otros, y la comunidad debate razonadamente sobre balanceo. En Brawlhalla existe un meta completamente diferente: cualquier personaje que le haya ganado a alguien en las últimas veinticuatro horas está roto. Si te gana un Jaeyun, Jaeyun está roto. Si te gana una Cassidy, Cassidy está rota. Si te gana un Gnash con lanza y martillo, Gnash es un diseño inaceptable que Blue Mammoth debería retirar del juego inmediatamente y pedir perdón públicamente. El hecho de que esa misma leyenda haya sido derrotada contigo en las diez partidas anteriores es un dato estadísticamente irrelevante que la mente del jugador medio de Brawlhalla descarta con la misma eficiencia con la que descarta aprender a dodge en el momento correcto.\nEste fenómeno se combina con otro igual de notable: la negación absoluta de responsabilidad personal como principio filosófico. En Brawlhalla no se pierde por jugar mal. Se pierde porque el rival es un spammer, porque el personaje está roto, porque el lag, porque el mapa tiene hitboxes extrañas, porque la luna estaba en cuarto menguante y afectó desfavorablemente a la caja de colisión del ataque. En los ocho años que lleva el juego, si sumas toda la responsabilidad que los jugadores de Brawlhalla han aceptado colectivamente por sus propias derrotas, obtienes una cantidad aproximada a cero. Es, en ese sentido, un logro de la psicología colectiva que merece estudio académico serio.\n\nPasemos ahora al modelo económico, que es donde Brawlhalla deja de ser simplemente un juego cuestionable y se convierte en un estudio de caso sobre ingeniería financiera aplicada al entretenimiento. El juego es free to play. Este hecho está técnicamente en lo correcto y espiritualmente en lo incorrecto, porque Brawlhalla ha construido alrededor de su gratuidad uno de los ecosistemas de monetización más elaborados que puede encontrarse en un título de su categoría.\nEl Mammoth Coin es, en primer lugar, una obra de arte de la psicología del consumo. No compras lo que quieres directamente. Compras Mammoth Coins en cantidades que vienen en packs predeterminados, y esos packs están diseñados con una precisión casi musical para que siempre te sobren o te falten monedas respecto a lo que quieres comprar. Quieres un skin que cuesta 140 coins. El pack más barato son 100. El siguiente son 200. Compras 200, te sobran 60. Ese skin nuevo que salió cuesta 100. Te faltan 40. Compras otros 100. Ahora tienes el skin y te sobran 60. Y el ciclo, eterno y perfecto como el movimiento de los planetas, continúa hasta el fin de los tiempos o de tu cuenta bancaria, lo que llegue antes.\nLos crossovers con licencias externas merecen mención aparte porque son, en términos de precio por contenido, una hazaña. Pagar por una skin de un personaje de una propiedad intelectual que no tiene nada que ver con el juego, para aplicársela a una leyenda que jugarás con las mismas dos armas que siempre, haciendo los mismos dos movimientos que siempre, pero ahora con el skin de Finn de Hora de Aventura, es una transacción que solo tiene sentido emocional si la evalúas desde la perspectiva de alguien que lleva suficientes horas en el juego como para que su cerebro haya construido un vínculo afectivo con esos píxeles que supera cualquier evaluación racional de valor por dinero.\n\nEl sistema de ranked es donde la tragedia adquiere sus dimensiones más épicas. Brawlhalla tiene un sistema de escalada que va desde Tinplate hasta Valhallan, con múltiples divisiones intermedias, y que en teoría debería colocar a cada jugador frente a rivales de su mismo nivel de habilidad. En teoría. En la práctica, el matchmaking de Brawlhalla opera bajo una lógica que los físicos cuánticos describirían como \"superposición de niveles\", donde cualquier jugador puede aparecer en cualquier partida con cualquier otro jugador independientemente del rango, especialmente en las horas punta y en las horas valle y en las horas intermedias y básicamente en cualquier momento en que el servidor tenga más de doce personas conectadas.\nEl resultado es que Platino, que debería ser un rango medio-alto reservado a jugadores que han superado la curva básica de aprendizaje, se ha convertido en un vertedero de diversidad técnica tan amplia que en una sola sesión de ranked puedes enfrentarte a alguien que lleva doscientas horas sin haber aprendido que el dodge tiene invencibilidad, y tres partidas después cruzarte con alguien que ejecuta strings de siete hits con una consistencia que sugiere que lleva tres mil horas invertidas y que por algún motivo insondable del universo el sistema considera que tu nivel y el suyo son equivalentes. Esto no genera partidas competitivas. Genera partidas que oscilan entre el aburrimiento absoluto y la humillación clínica sin nada en el medio."
+          },
+          {
+            "recommendationid": "227043896",
+            "length": 7187,
+            "review": "i  would NOT reccomend this CHUD forsaken game. it has given me the following:\r\nAcanthosis nigricansAchalasiaAchondroplasiaAcromegalyAcute lymphoblastic leukemiaAcute myeloid leukemiaAddison's diseaseAdenomyosisAdrenoleukodystrophyAgoraphobiaAlbinismAlcohol use disorderAlkaptonuriaAlopecia areataAlport syndromeAlzheimer's diseaseAmblyopiaAmebiasisAmyloidosisAmyotrophic lateral sclerosisAnaphylaxisAnemiaAnencephalyAngelman syndromeAngioedemaAnkylosing spondylitisAnorexia nervosaAnotiaAnthraxAntiphospholipid syndromeAnxiety disorderAortic aneurysmAortic valve stenosisAphasiaAplastic anemiaAppendicitisApraxiaArgyriaArrhythmogenic cardiomyopathyArteriosclerosisArteriovenous malformationAsbestosisAscariasisAspergillosisAsthmaAstigmatismAstrocytomaAtaxia telangiectasiaAtherosclerosisAthetoid cerebral palsyAtopic dermatitisAtrial fibrillationAtrial septal defectAttention deficit hyperactivity disorderAutism spectrum disorderAutoimmune hepatitisBabesiosisBacillary angiomatosisBacterial vaginosisBalanitisBartholin's cystBartonellosisBasal cell carcinomaBecker muscular dystrophyBehcet's diseaseBell's palsyBenign prostatic hyperplasiaBeriberiBiliary cirrhosisBiliary dyskinesiaBipolar disorderBlackwater feverBlastomycosisBlepharitisBlount's diseaseBorderline personality disorderBotulismBourneville diseaseBowen's diseaseBrachydactylyBradycardiaBrain aneurysmBreast cancerBrief psychotic disorderBrill-Zinsser diseaseBronchiectasisBronchitisBronchopulmonary dysplasiaBrucellosisBrugada syndromeBuerger's diseaseBulimia nervosaBullous pemphigoidBurkitt lymphomaBursitisCaffey diseaseCampylobacteriosisCanavan diseaseCandidiasisCanker soresCarbon monoxide poisoningCarcinoid syndromeCardiomyopathyCardiovascular diseaseCat scratch diseaseCataractsCavernous malformationCeliac diseaseCellulitisCentral core diseaseCentral serous chorioretinopathyCerebellar ataxiaCerebral palsyCerebrovascular diseaseCervical cancerCervical spondylosisChagas diseaseChalazionCharcot-Marie-Tooth diseaseChediak-Higashi syndromeChickenpoxChikungunyaChlamydiaCholangiocarcinomaCholecystitisCholedocholithiasisCholelithiasisCholeraCholesteatomaChondromalacia patellaeChondrosarcomaChordomaChoreaChoriocarcinomaChronic fatigue syndromeChronic lymphocytic leukemiaChronic myeloid leukemiaChronic obstructive pulmonary diseaseChronic renal failureChurg-Strauss syndromeChyluriaCicatricial pemphigoidCiguatera fish poisoningCirrhosisCistinuriaClassic Hodgkin lymphomaClaudicationCleft lip and palateCleidocranial dysplasiaClostridium difficile infectionClubfootCluster headacheCoarctation of the aortaCoccidioidomycosisCockayne syndromeCoeliac diseaseColitisColorectal cancerColor blindnessCondyloma acuminataCongenital adrenal hyperplasiaCongenital heart defectCongenital hypothyroidismConjunctivitisConn's syndromeContact dermatitisConversion disorderCooley's anemiaCor pulmonaleCorneal ulcerCoronary artery diseaseCorticobasal degenerationCowden syndromeCoxsackievirus infectionCraniopharyngiomaCraniosynostosisCreutzfeldt-Jakob diseaseCri-du-chat syndromeCrohn's diseaseCroupCryoglobulinemiaCryptococcosisCryptorchidismCushing's syndromeCutaneous lupus erythematosusCyanosisCyclic vomiting syndromeCyclothymiaCystic fibrosisCysticercosisCystitisCystinosisCytomegalovirus infectionDacryocystitisDandy-Walker malformationDengue feverDe Quervain's tenosynovitisDepersonalization disorderDepressionDercum's diseaseDermatitis herpetiformisDermatofibrosarcoma protuberansDermatomyositisDermatophytosisDesmoplastic small round cell tumorDevic's diseaseDiabetes insipidusDiabetes mellitus type 1Diabetes mellitus type 2Diabetic retinopathyDiamond-Blackfan anemiaDiaphragmatic herniaDiarrheaDiffuse intrinsic pontine gliomaDiffuse large B-cell lymphomaDiGeorge syndromeDilated cardiomyopathyDiphtheriaDiphyllobothriasisDiscoid lupus erythematosusDisseminated intravascular coagulationDissociative identity disorderDiverticulitisDiverticulosisDown syndromeDracunculiasisDressler's syndromeDubin-Johnson syndromeDuchenne muscular dystrophyDuodenal ulcerDupuytren's contractureDyscalculiaDysgraphiaDyshidrotic eczemaDyslexiaDysmenorrheaDysparuniaDysphagiaDyspraxiaDystoniaEbola virus diseaseEbstein's anomalyEchinococcosisEclampsiaEctopic pregnancyEctrodactylyEczemaEhlers-Danlos syndromeEhrlichiosisEisenmenger syndromeElephantiasisEllis-van Creveld syndromeEmphysemaEmpyemaEncephalitisEncephaloceleEnchondromaEndocarditisEndometrial cancerEndometriosisEndophthalmitisEnterobiasisEosinophilic esophagitisEpendymomaEpidermolysis bullosaEpididymitisEpiglottitisEpilepsyEpiscleritisEpstein-Barr virus infectionErectile dysfunctionErysipelasErythema multiformeErythema nodosumErythrasmaErythromelalgiaEsophageal cancerEsophageal varicesEsophagitisEssential thrombocythemiaEssential tremorEwing sarcomaExophthalmosExostosisExtrapulmonary tuberculosisFabry diseaseFacioscapulohumeral muscular dystrophyFactor V LeidenFamilial adenomatous polyposisFamilial Mediterranean feverFanconi anemiaFarber diseaseFascioliasisFatal familial insomniaFelty's syndromeFetal alcohol syndromeFibroadenomaFibrodysplasia ossificans progressivaFibromyalgiaFibromuscular dysplasiaFifth diseaseFilariasisFitz-Hugh-Curtis syndromeFolliculitisFolstein diseaseFood allergyFoot-and-mouth diseaseForestier's diseaseFriedreich's ataxiaFrontotemporal dementiaFrostbiteFructose malabsorptionFucosidosisFunctional neurological disorderFurunculosisGalactosemiaGallbladder cancerGallstonesGamstorp diseaseGanglion cystGangreneGastric cancerGastric ulcerGastritisGastroenteritisGastroesophageal reflux diseaseGastroparesisGaucher diseaseGeneralized anxiety disorderGenital herpesGenital wartsGeographic tongueGerstmann-Sträussler-Scheinker syndromeGestational diabetesGiant cell arteritisGiardiasisGilbert's syndromeGingivitisGlaucomaGlioblastomaGliomaGlomerulonephritisGlossitisGlucagonomaGlucose-6-moleHydrocephalusHydronephrosisHyperaldosteronismHypercholesterolemiaHypereosinophilic syndromeHyperglycemiaHyperkalemiaHypernatremiaHyperparathyroidismHyperprolactinemiaHypersensitivity pneumonitisHypertensionHyperthyroidismHypertrophic cardiomyopathyHypochondriasisHypoglycemiaHypogonadismHypokalemiaHyponatremiaHypoparathyroidismHypopituitarismHypoplastic left heart syndromeHypospadiasHypothermiaHypothyroidismIchthyosisIdiopathic pulmonary fibrosisIgA nephropathyImmune thrombocytopenic purpuraImpetigoInclusion body myositisInfantile spasmsInfectious mononucleosisInfertilityInflammatory bowel diseaseInfluenzaInguinal herniaInsomniaInsulinomaInterstitial cystitisInterstitial lung diseaseIntestinal obstructionIntussusceptionInverted papillomaIritisIron deficiency anemiaIrritable bowel syndromeIschemic colitisIschemic heart diseaseIschemic strokeJacquet erosive dermatitisJaneway lesionJaundiceJaw osteonecrosisJC virus infectionJeune syndromeJob's syndromeJohanson-Blizzard syndromeJoint hypermobility syndromeJones syndromeJoseph diseaseJoubert syndromeJuvenile dermatomyositisJuvenile idiopathic arthritisJuvenile myelomonocytic leukemia\r\nnever IN MY LIFE have i even SEEN a game with a community SO BRAINDEAD in my ENTIRE LIFE. unconsentual penetration from all 7 wonders of the world would be more peaceful than ONE SINGULAR RANKED 1S GAME"
+          },
+          {
+            "recommendationid": "226989488",
+            "length": 2799,
+            "review": "this game pulls out the worst of me im a patient person this game manages to break that i will take my revenge against these people. the sky will rain red tonight. this game is so dumb i dont even understand why anyone plays this including myself i hate it so much the hit boxes are a suggestion the games decides to follow 1/100 times, instead it targets specifically you  to ensure you will get hit by any character sigs and light attacks even from far away and apparently they have no recovery time their attacks are instant and dont even get me started on the matchmaking its crazy that a 2000 elo will get put against a 2600 yea hahaha!!!!!!!! thats just the best why not it will make you improve right? right?????????????????????????? not really. the skill gap is so high that these unfair matchmakings will make sure you suffer the most these amazing hitboxes are so well done this is an amazing game that deserves nothing but to be hit by and orbital cannon at max strength ensuring no one lives after. this game is the doom of earth and clearly shows the problem with people in this life.  they dedicate so much to hitting their 25 string scythe combo 0 to death that clearly shouldnt hit but since before match the game decided to torture you, your dodges are not existent. you will get a dodge once every 15 minutes if youre lucky and the sigs omg the sigs !!! :)))))) so amazing that volkov sigs are just that long and aparently take on the fact hes a vampire and one hit from his sigs will somehow suck all your recovery options instantly leaving you with nothing but being able to see as you \"8 defense\" character gets ejected at light Speed from the stage at 11 life because well thats balanced. and cannon oh cannon what will i even say about it its so fun to play Against man i just love how cannon tells your dodges to fk off and phases through them entering the soul realm and extracting you from there to pull a 153 hit string with no way  to get out because the hitboxes are as big as godzilla. and blasters, man do i love seeing someone do dlight from 10 meters away and the last shot somehow has heat tracking capabilities and will hit no matter how far away you are deceiving you from thinking you are ever so safe from any hit and  after that its ggs because the ballon boy fan with vivi will spam nsig and being that its a pistol the last active pixel from the sig will again  heat Track you repelling you to another match even when youre at 20 health with a high defence character. and katars !!! i just love these fast ass weapongs that somehow are faster than light as when the first 25 attacks from the \"dodgeable\" (1 dodge frame) combo starts hitting your eyes have barely proccessed the light from the match starting. F**CK THIS GAME and anyone that helped develop it"
+          }
+        ],
+        "high_critical_10": [
+          {
+            "recommendationid": "227148023",
+            "value": "High Value",
+            "review": "get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex"
+          },
+          {
+            "recommendationid": "227134114",
+            "value": "High Value",
+            "review": "Perro juego desgraciado, bien desbalanceado solo me hace emperrar como lo odio, pero la neta pasas un buen rato con compas. No esta para jugarlo más de dos horas y eso es ser optimista."
+          },
+          {
+            "recommendationid": "227131664",
+            "value": "High Value",
+            "review": "bonjour brawhalla, comment d'ATTEEINDRE L'ENFER EN ÉTANT VIVANT J'AI JAMAIS VU AUCUN DE FDP DE MA VIE MÊME MON EX ÉTAIT MOINS SALOPE QUE SA. NE JAMAIS TOUCHER PARCE QUE MA MAMAN NE M,A REVU JAI PERDU  MON EMPLOI J'AI PU D'AVENIR L'ÉCOLE MA RENVOYER MON PERMIS DE CONDUIRE MA RENIÉ"
+          },
+          {
+            "recommendationid": "227124054",
+            "value": "High Value",
+            "review": "Worst game ever created. it feels like straight up hell, the satan himself would be amazed by how bad it is, i hate it with my whole heart."
+          },
+          {
+            "recommendationid": "227123495",
+            "value": "Critical Value",
+            "review": "Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con Lord Vraxx durante veinte minutos mientras tú te preguntas en qué momento exacto de tu vida tomaste la decisión que te llevó hasta aquí.\nEmpecemos por el principio, porque este juego tiene historia, y como toda historia trágica, merece ser contada desde su origen. Brawlhalla lleva desde 2017 disponible de manera oficial. Ocho años. En ese tiempo, la humanidad ha lanzado cohetes a Marte, desarrollado vacunas en tiempo récord, creado inteligencias artificiales capaces de mantener conversaciones filosóficas, y construido rascacielos completos desde los cimientos. El equipo de desarrollo de Brawlhalla, en ese mismo periodo histórico, no ha conseguido arreglar el netcode. No de forma significativa, no de forma que cualquier jugador que lleva más de un mes en el juego pueda notar. El netcode sigue siendo, con ligeras variaciones cosméticas, la misma experiencia de ruleta rusa digital que era cuando George RR Martin todavía generaba expectativas sobre Los Vientos del Invierno.\n\nHablemos del sistema de combate, que sobre el papel tiene una profundidad técnica real y ejecutada con cierta elegancia. Hay inputs, hay strings, hay combos, hay reads, hay edgeguarding, hay recoveries con lógica, hay un sistema de estadísticas entre armas que crea asimetrías interesantes. Todo esto existe. Todo esto está ahí, documentado, theorycrafteable, con potencial técnico suficiente como para que un jugador dedicado pueda pasarse años perfeccionando. El problema no es el juego en abstracto. El problema es la comunidad concreta que decidió ignorar absolutamente todo lo anterior y reducir el juego en su práctica real a una sola pregunta: ¿cuántos sigs seguidos puede hacer mi personaje antes de que el rival muera o me desconecte?\nEl sig, para quien no lo conozca, es el ataque de firma de cada leyenda, generalmente ejecutado con neutral especial o direccional especial, y que en la mayoría de los casos consiste en un movimiento amplio, rápido, con hitbox generosa y que en las manos de la comunidad media de Brawlhalla se convierte en el alfa y el omega de toda estrategia concebible. No hay edgeguard porque para hacer edgeguard hay que pensar en la posición del rival. No hay strings porque los strings requieren memorizar una secuencia. No hay reads porque leer al oponente implica que primero observas al oponente en lugar de mirar fijamente el botón que vas a pulsar. Lo que hay es sig. Sig. Sig. Sig. Y si no funcionó, más sig. Y si el rival esquivó, sig en otra dirección. Y si perdiste, fue porque el rival tiene el personaje roto y no porque lleves tres años jugando con una sola herramienta de un set completo.\n\nEl tema de los personajes rotos merece su propio apartado porque es quizás el fenómeno cultural más fascinante de Brawlhalla como ecosistema competitivo. En cualquier juego de peleas con un mínimo de historia competitiva, los tiers existen, hay personajes más poderosos que otros, y la comunidad debate razonadamente sobre balanceo. En Brawlhalla existe un meta completamente diferente: cualquier personaje que le haya ganado a alguien en las últimas veinticuatro horas está roto. Si te gana un Jaeyun, Jaeyun está roto. Si te gana una Cassidy, Cassidy está rota. Si te gana un Gnash con lanza y martillo, Gnash es un diseño inaceptable que Blue Mammoth debería retirar del juego inmediatamente y pedir perdón públicamente. El hecho de que esa misma leyenda haya sido derrotada contigo en las diez partidas anteriores es un dato estadísticamente irrelevante que la mente del jugador medio de Brawlhalla descarta con la misma eficiencia con la que descarta aprender a dodge en el momento correcto.\nEste fenómeno se combina con otro igual de notable: la negación absoluta de responsabilidad personal como principio filosófico. En Brawlhalla no se pierde por jugar mal. Se pierde porque el rival es un spammer, porque el personaje está roto, porque el lag, porque el mapa tiene hitboxes extrañas, porque la luna estaba en cuarto menguante y afectó desfavorablemente a la caja de colisión del ataque. En los ocho años que lleva el juego, si sumas toda la responsabilidad que los jugadores de Brawlhalla han aceptado colectivamente por sus propias derrotas, obtienes una cantidad aproximada a cero. Es, en ese sentido, un logro de la psicología colectiva que merece estudio académico serio.\n\nPasemos ahora al modelo económico, que es donde Brawlhalla deja de ser simplemente un juego cuestionable y se convierte en un estudio de caso sobre ingeniería financiera aplicada al entretenimiento. El juego es free to play. Este hecho está técnicamente en lo correcto y espiritualmente en lo incorrecto, porque Brawlhalla ha construido alrededor de su gratuidad uno de los ecosistemas de monetización más elaborados que puede encontrarse en un título de su categoría.\nEl Mammoth Coin es, en primer lugar, una obra de arte de la psicología del consumo. No compras lo que quieres directamente. Compras Mammoth Coins en cantidades que vienen en packs predeterminados, y esos packs están diseñados con una precisión casi musical para que siempre te sobren o te falten monedas respecto a lo que quieres comprar. Quieres un skin que cuesta 140 coins. El pack más barato son 100. El siguiente son 200. Compras 200, te sobran 60. Ese skin nuevo que salió cuesta 100. Te faltan 40. Compras otros 100. Ahora tienes el skin y te sobran 60. Y el ciclo, eterno y perfecto como el movimiento de los planetas, continúa hasta el fin de los tiempos o de tu cuenta bancaria, lo que llegue antes.\nLos crossovers con licencias externas merecen mención aparte porque son, en términos de precio por contenido, una hazaña. Pagar por una skin de un personaje de una propiedad intelectual que no tiene nada que ver con el juego, para aplicársela a una leyenda que jugarás con las mismas dos armas que siempre, haciendo los mismos dos movimientos que siempre, pero ahora con el skin de Finn de Hora de Aventura, es una transacción que solo tiene sentido emocional si la evalúas desde la perspectiva de alguien que lleva suficientes horas en el juego como para que su cerebro haya construido un vínculo afectivo con esos píxeles que supera cualquier evaluación racional de valor por dinero.\n\nEl sistema de ranked es donde la tragedia adquiere sus dimensiones más épicas. Brawlhalla tiene un sistema de escalada que va desde Tinplate hasta Valhallan, con múltiples divisiones intermedias, y que en teoría debería colocar a cada jugador frente a rivales de su mismo nivel de habilidad. En teoría. En la práctica, el matchmaking de Brawlhalla opera bajo una lógica que los físicos cuánticos describirían como \"superposición de niveles\", donde cualquier jugador puede aparecer en cualquier partida con cualquier otro jugador independientemente del rango, especialmente en las horas punta y en las horas valle y en las horas intermedias y básicamente en cualquier momento en que el servidor tenga más de doce personas conectadas.\nEl resultado es que Platino, que debería ser un rango medio-alto reservado a jugadores que han superado la curva básica de aprendizaje, se ha convertido en un vertedero de diversidad técnica tan amplia que en una sola sesión de ranked puedes enfrentarte a alguien que lleva doscientas horas sin haber aprendido que el dodge tiene invencibilidad, y tres partidas después cruzarte con alguien que ejecuta strings de siete hits con una consistencia que sugiere que lleva tres mil horas invertidas y que por algún motivo insondable del universo el sistema considera que tu nivel y el suyo son equivalentes. Esto no genera partidas competitivas. Genera partidas que oscilan entre el aburrimiento absoluto y la humillación clínica sin nada en el medio."
+          },
+          {
+            "recommendationid": "227122781",
+            "value": "High Value",
+            "review": "El peor juego de peleas que he jugado en mi vida. He jugado mas de 4000 horas en PlayStation y casi 100 en pc, y son las peores malditas horas desperdiciadas de mi vida. He gastado perfectamente mas de lo que una familia de clase obrera gana en 1 año solo en skins basuras y cofres que solo consiguen aumentar mi adiccion a las apuestas. El juego salio en 2017 (9 años) y la gente juega igual de mal que mi primo retrasado con down, y aun me atreveria a declarar que esa aberracion es mejor que los jugadores de esta porqueria. La gente no combea, no usa las mecanicas del juego y parece que tiene mierda de unicornio remplazando su materia gris. No se dedican a aprender las mecanicas del juego como leer al oponente, aprender a esquivar, mejorar su movimiento o estrategias, en su cabeza de nigeriano muerto de hambre es mas divertido solo spamear como retrasado el ataque pesado pensando que asi podra tener la atencion que nunca les dieron. Me he llegado a encontrar con anomalias que NO HAN USADO UN SOLO ATAQUE LIGERO EN TODA LA PARTIDA. En resumen el juego es una mierda sin sentido, lleno de subnormales que no aprenden las mecanicas simples de un juego de hace 9 años y que sus transacciones solo apoyan y fomentan la adiccion a las apuestas."
+          },
+          {
+            "recommendationid": "227122301",
+            "value": "High Value",
+            "review": "Genuinamente um inferno, não deveria ter jogado esse jogo"
+          },
+          {
+            "recommendationid": "227121123",
+            "value": "Critical Value",
+            "review": "This game used to be good, but it is completely unplayable with how terribly it lags after each game, in the menu, game doesn't close, etc... They need to stop adding new skins and fix the issues they've been letting pile up. Not to mention every once in a while you get a server thats completely unplayable even if your internet connection is perfectly fine, and lose a ranked match by no fault of your own because of it."
+          },
+          {
+            "recommendationid": "227120627",
+            "value": "Critical Value",
+            "review": "Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment designed specifically to waste your time and test the limits of human patience.\n\nThe gameplay is packed with spam, questionable hitboxes, and enough nonsense to make every loss feel completely undeserved. You can be clearly out of range and still get hit by attacks that seem to have the reach of a freight train. Winning often feels accidental, while losing feels inevitable.\n\nThe matchmaking is a joke. Newer players get thrown against people who treat the game like a full-time job, and the experience quickly devolves into watching the same repetitive garbage over and over again. Instead of rewarding skill, the game often feels like it's rewarding whoever is willing to abuse the most annoying tactics for the longest amount of time.\n\nThe developers deserve criticism for allowing so many frustrating aspects of the game to persist. Update after update, many of the same complaints continue to circulate throughout the community while players are left dealing with the same irritating mechanics and balance issues. It often feels as though genuine gameplay improvements take a back seat to everything else.\n\nBrawlhalla isn't just bad—it's exhausting. It takes a genre that's supposed to be competitive and enjoyable and turns it into a constant stream of frustration, annoyance, and regret. There are countless games that respect your time and sanity more than this one ever will."
+          },
+          {
+            "recommendationid": "227096616",
+            "value": "High Value",
+            "review": "You're gonna think you found your new favorite game until you start hearing those ♥♥♥♥♥♥♥ saxophones"
+          }
+        ],
+        "low_information_10": [
+          {
+            "recommendationid": "227144998",
+            "review": "yuh"
+          },
+          {
+            "recommendationid": "227105664",
+            "review": "jogo lixo"
+          },
+          {
+            "recommendationid": "227098657",
+            "review": "sim"
+          },
+          {
+            "recommendationid": "227091366",
+            "review": "Мда"
+          },
+          {
+            "recommendationid": "227086574",
+            "review": "ass"
+          },
+          {
+            "recommendationid": "227083584",
+            "review": "good game"
+          },
+          {
+            "recommendationid": "227070426",
+            "review": "boring"
+          },
+          {
+            "recommendationid": "227070221",
+            "review": "흠"
+          },
+          {
+            "recommendationid": "227068589",
+            "review": "肏你媽"
+          },
+          {
+            "recommendationid": "227061527",
+            "review": "zzz"
+          }
+        ]
+      },
+      "scores": {
+        "data_quality_score": 100.0,
+        "operational_insight_score": 41.3,
+        "language_diversity_score": 100.0,
+        "ai_readiness_score": 68.3,
+        "portfolio_readiness_score": 75.8
+      },
+      "verdict": "PARTIAL GO"
+    },
+    {
+      "file": "brawlhalla_positive_200.json",
+      "label": "Brawlhalla Positive",
+      "game": "Brawlhalla",
+      "exists": true,
+      "loaded": true,
+      "error": null,
+      "count_check": {
+        "targetCount": 200,
+        "actualCount": 200,
+        "reviews_length": 200,
+        "status": "OK"
+      },
+      "missing_fields": {
+        "issue_count": 0,
+        "issues": []
+      },
+      "duplicates": {
+        "internal_duplicate_count": 0,
+        "unique_ids": 200
+      },
+      "language_distribution": {
+        "english": 98,
+        "brazilian": 34,
+        "spanish": 20,
+        "turkish": 11,
+        "russian": 8,
+        "french": 7,
+        "german": 6,
+        "dutch": 3,
+        "latam": 2,
+        "portuguese": 2,
+        "schinese": 2,
+        "czech": 2,
+        "indonesian": 1,
+        "japanese": 1,
+        "italian": 1
+      },
+      "length_distribution": {
+        "0~10자": 68,
+        "11~20자": 15,
+        "21~50자": 45,
+        "51~100자": 25,
+        "101~300자": 27,
+        "301자 이상": 20
+      },
+      "low_information": {
+        "count": 69,
+        "ratio": 0.345,
+        "ratio_percent": 34.5
+      },
+      "operational_value": {
+        "Low Value": {
+          "count": 93,
+          "ratio_percent": 46.5
+        },
+        "Medium Value": {
+          "count": 62,
+          "ratio_percent": 31.0
+        },
+        "High Value": {
+          "count": 33,
+          "ratio_percent": 16.5
+        },
+        "Critical Value": {
+          "count": 12,
+          "ratio_percent": 6.0
+        }
+      },
+      "category_keywords": {
+        "balance": 10,
+        "matchmaking": 8,
+        "monetization": 7,
+        "community": 4,
+        "content": 3,
+        "performance": 1,
+        "server": 1,
+        "tutorial": 1,
+        "uiux": 1
+      },
+      "samples": {
+        "longest_3": [
+          {
+            "recommendationid": "227112801",
+            "length": 3081,
+            "review": "This game mind look like its free but it really isn't because you need to save up your money for all the physical and mental damage that this game can cause you. Here's just a few(1%), one last thing the sweatiness of the player base is just insane it can solve the water crisis in Africa AND for the rest it can rise the sea level by 20 miles(which is a lot if you don't know). LOL? Still good game tho. 9/10\n\nHere's my list of diseases/pain I got(definitely didn't google it!):>\n\n· Acne\n· AIDS\n· allergies\n· Alice in Wonderland Syndrome (AIWS)\n· Alzheimer's disease\n· anal abscesses\n· anal Cancer\n· anal Itching\n· anal Tear\n· anxiety disorders\n· arthritis\n· asthma\n· astigmatism\n· autism\n· autoimmune diseases\n· Auto-Brewert syndrome\n· Attention deficit hyperactivity disorder (ADHD)\n· Autistic spectrum disorder (ASD)\n· Asbestosis\n· bad breath\n· Bacterial vaginosis\n· benign prostate hyperplasia (BPH)\n· bipolar disorder\n· body odors\n· Bone cancer\n· bone placement disorder\n· Bowel cancer\n· bloating\n· brain cancer\n· brain damage\n· Brain tumours\n· Bronchitis\n· breast cancer\n· candidacies\n· cataracts\n· carpel tunnel syndrome\n· Changes in bowel movements\n· celiac disease\n· cervical cancer\n· Chest infection\n· Chest pain\n· chicken pox\n· Chlamydia\n· chronic fatigue syndrome (CFS)\n· chronic illness\n· cold sores\n· colon cancer\n· Coma\n· Congenital Insensitivity to Pain\n· Conjunctivitis\n· constipation\n· common cold\n· COPD\n· cough\n· crippling depression\n· Crohn's disease\n· Corona Virus\n· cystic fibrosis\n· Dehydration\n· dementia\n· diabetes\n· diarrhea\n· depression\n· down syndrome\n· Dry mouth\n· Earache\n· eating disorders\n· Ebola\n· eczema\n· endometriosis\n· Epilepsy\n· Erectile dysfunction\n· eye cancer\n· eye disorders\n· Fatigue\n· fibroids\n· fibromyalgia\n· Foreign Accent Syndrome\n· Farting\n· flu\n· food poisoning\n· Fungal nail infection\n· Gallbladder cancer\n· Gallstones\n· genital herpes\n· gonorrhea\n· Gum disease\n· Graves' disease\n· hallucinations\n· Hashimoto's thyroiditis\n· hay fever\n· Hearing loss\n· hepatitis A, B, C, D and E\n· herpes\n· high cholesterol\n· HIV\n· Hodgkin's disease\n· Human Werewolf Syndrome\n· Hutchinson-Gilford Progeria Syndrome\n· HPV\n· hypertension\n· Immediate bowel syndrome\n· Indigestion\n· Ingrown toenail\n· Itching\n· Itchy bottom\n· Joint abnormalities\n· Kidney cancer\n· Kidney infection\n· Kidney stones\n· Leg cramps\n· Liver cancer\n· Liver disease\n· Lung cancer\n· Measles\n· Mesothelioma\n· Mouth cancer\n· Nasal and sinus cancer\n· Nosebleed\n· Obesity\n· Osteoporosis\n· Old man syndrome\n· Pancreatic cancer\n· Panic disorder\n· Parkinson's disease\n· Personality disorder\n· Persistent Sexual Arousal Syndrome\n· Prostate cancer\n· Radiation poisoning\n· Reactive arthritis\n· Restless legs syndrome\n· Walking Corpse Syndrome\n· Shingles\n· Shortness of breath\n· Skin cancer\n· Sore throat\n· Sugar cravings\n· Sunburn\n· Stiff Person Syndrome\n· Stoneman Syndrome\n· Stomach cancer\n· Stroke\n· Sexually transmitted diseases (STD's)\n· toenail fungus\n· Tuberculosis\n· T-posing syndrome\n· Urinary track infection\n· Vomit disorder\n· Whooping cough\n· Yellow fever\n· Yeast Infection"
+          },
+          {
+            "recommendationid": "226900671",
+            "length": 3010,
+            "review": "Brawlhalla Review\n\nSince its release in 2017, Brawlhalla has pulled off a rare feat: establishing itself as the \"people's Smash Bros\" without ever feeling like a cheap, low-cost knockoff. It is a game that hides its depth incredibly well, and after all these years, here is my honest verdict, far from the usual clichés.\nThe Paradox of Simplicity: Easy to Pick Up, Brutal to Master\n\nWhat strikes you first about Brawlhalla is how easy it is to read. Unlike Smash, where every character has a unique kit of 15 special attacks, Brawlhalla unifies its gameplay through a weapon system (Blasters, Scythe, Gauntlets, etc.).\n\n    The Pro: If you know how to use the Scythe with Mirage, you (mostly) know how to use it with Mordex or Nix. This makes the game incredibly accessible at the start.\n\n    The Con: Characters sharing the same weapon category can sometimes feel like \"clones,\" with the only real differences being their three signature attacks (Sigs) and their base stats.\n\nThe true depth doesn’t come from the characters, but from the movement. The game's physics are surgically fluid. Dashes, gravity cancels (performing a grounded attack mid-air), and dodge management create an absolutely massive skill ceiling. To put it simply: it’s easy to have fun with friends, but in Ranked, the slightest positioning error results in a one-way ticket to the bottom of the screen.\nThe Business Model: The Gold Standard\n\nYou can't review Brawlhalla without praising its Free-to-Play model. It is one of the fairest in the gaming industry:\n\n    Zero competitive advantages for purchase (absolutely no Pay-to-Win).\n\n    Everything that impacts gameplay can be easily unlocked just by playing.\n\n    Cosmetics (skins, massive crossovers with franchises like Steven Universe, WWE, or Avatar) are purely visual.\n\nWhere the Game Friction Lies (The Downsides)\n\nIt’s not all sunshine and rainbows after years on the market:\n\n    The Community and Toxicity: The game can be extremely frustrating. Between Sig-spamming at lower ranks and players abusing emotes (looking at you, salt emoji), you need to have thick skin.\n\n    The \"Lethal League\" Effect / Repetitiveness: If you play solo for hours on end, the core gameplay loop (waiting for a weapon, chaining mechanical combos, knocking opponents out) can get a bit redundant. It’s a game that shines in intense sessions but can get tiresome in the long run if you aren't actively trying to climb the ladder.\n\nIn Summary: My Verdict\n\n    8.5 / 10\n\n    Brawlhalla might lack the spectacular presentation or the emotional attachment of a Super Smash Bros, but it beats it hands down in two major areas: its cross-platform accessibility (the cross-play is flawless) and its netcode (the rollback is rock-solid).\n\n    Whether you're here to tryhard in Ranked and master pixel-perfect Scythe combos, or just to let off some steam in FFA (Free for All), this project has matured beautifully. It's a staple of the platform fighter genre that thoroughly deserves its lasting success."
+          },
+          {
+            "recommendationid": "227043265",
+            "length": 2174,
+            "review": "Dieses Spiel ist der größte Abschaum der die Menschheit je hervorgebracht hat.\nWenn du ein Masochist bist, ist dieses Spiel genau das richtige für dich.\nWenn du es liebst, auf einmal all deine hart erarbeiteten Skills schwinden zu sehen, wenn du einen Tag mal nicht spielst, ist dieses Spiel genau das richtige für dich.\nWenn du darauf stehst, alles von Speeren, über Sensen, Schuhen, Orbs, Schwerter, Raketenlanzen, bis hin zu Äxten und Hämmern rektal mit Gewalt eingeführt zu bekommen, ist dieses Spiel genau das richtige für dich.\nBevor du dieses Spiel holst, lass mich dir ein Szenario darstellen:\nEs ist kurz vor 00:00. Du hast morgen eine wichtige Klausur, für die du Maximal mittelmäßig gelernt hast. Du weißt, du solltest schlafen gehen, aber die daylies wurden noch nicht gemacht, und du willst unbedingt diesen coolen Skin. Was kann schon schlimmes sein? Also logst du dich ein und wirfst einen Blick auf die Missionen. \"7 Handschuh-KOs\" Hmm.. Machbar, eine deiner main Waffen sind ja Handschuhe. \"7 KOs nach oben\" joa, geht bestimmt auch. \"4 Erst-Killst\" Easy peasy. Ach ja, solche Naivität. Das erste Match. Die Tasks flutschen pipi eierleicht. Zweites Match, dein Controller hat sich entschieden deine Inputs um eine halbe Sekunde zu verzögern, deine Gegner sind nur noch Platin und kein einziges KO wird mehr geschafft. Irgendwann bekommst du mal einen absolut gehirntoten als Gegner. Endlich, eine Chance auf eine wohlverdiente Nachtruhe! Nein. Ohhh nein mein Freund. Der Bastard stürzt sich aufgrund schlechterer motorischer Fähigkeiten als ein Stück toast in den Abgrund. Das wars mit der Chance auf Kills. Durch Unmengen an Glück, mehreren Nervenzusammenbrüchen, Suizidgedanken und Tilts, die eine Gefahr für alles unter 500€ darstellen, gelingt es dir trotzdem irgendwie, die Kacke fertig zu machen. Voller Sehnsucht erhältst du die Truhe.... all deine Mühen...\nfür 750 Gold. Du armer Schlucker hast ja nur 75.000.\nAlso bevor du dir das Spiel holst, sei dir bewusst dass du deine Seele an Blue Mammoth verkaufst für ganze 750 Gold und einen Batzen Kohle für die Therapie danach, falls du nicht schon am Verschlucken verschiedener Controller verreckt bist."
+          }
+        ],
+        "high_critical_10": [
+          {
+            "recommendationid": "227125154",
+            "value": "High Value",
+            "review": "This game is super fun and enjoyable it gets really addicting but might make you break your monitor or keyboard just so you know don't play with your close friends because they will turn into your least favourite friends"
+          },
+          {
+            "recommendationid": "227122990",
+            "value": "High Value",
+            "review": "pretty solid game if you like the whole smash bros concept but free to play, in my opinion the game generates a lot of skill, and talent. Id highly recommend this game to anyone looking for a competitive free to play game."
+          },
+          {
+            "recommendationid": "227121441",
+            "value": "High Value",
+            "review": "What a fun game! I’m a Hattori main and all I use are the special attacks and 90% of the time they always manage to land. The players are pretty toxic idk why, they always spam a thumbs down after a loss and try to invite me for a rematch."
+          },
+          {
+            "recommendationid": "227112801",
+            "value": "High Value",
+            "review": "This game mind look like its free but it really isn't because you need to save up your money for all the physical and mental damage that this game can cause you. Here's just a few(1%), one last thing the sweatiness of the player base is just insane it can solve the water crisis in Africa AND for the rest it can rise the sea level by 20 miles(which is a lot if you don't know). LOL? Still good game tho. 9/10\n\nHere's my list of diseases/pain I got(definitely didn't google it!):>\n\n· Acne\n· AIDS\n· allergies\n· Alice in Wonderland Syndrome (AIWS)\n· Alzheimer's disease\n· anal abscesses\n· anal Cancer\n· anal Itching\n· anal Tear\n· anxiety disorders\n· arthritis\n· asthma\n· astigmatism\n· autism\n· autoimmune diseases\n· Auto-Brewert syndrome\n· Attention deficit hyperactivity disorder (ADHD)\n· Autistic spectrum disorder (ASD)\n· Asbestosis\n· bad breath\n· Bacterial vaginosis\n· benign prostate hyperplasia (BPH)\n· bipolar disorder\n· body odors\n· Bone cancer\n· bone placement disorder\n· Bowel cancer\n· bloating\n· brain cancer\n· brain damage\n· Brain tumours\n· Bronchitis\n· breast cancer\n· candidacies\n· cataracts\n· carpel tunnel syndrome\n· Changes in bowel movements\n· celiac disease\n· cervical cancer\n· Chest infection\n· Chest pain\n· chicken pox\n· Chlamydia\n· chronic fatigue syndrome (CFS)\n· chronic illness\n· cold sores\n· colon cancer\n· Coma\n· Congenital Insensitivity to Pain\n· Conjunctivitis\n· constipation\n· common cold\n· COPD\n· cough\n· crippling depression\n· Crohn's disease\n· Corona Virus\n· cystic fibrosis\n· Dehydration\n· dementia\n· diabetes\n· diarrhea\n· depression\n· down syndrome\n· Dry mouth\n· Earache\n· eating disorders\n· Ebola\n· eczema\n· endometriosis\n· Epilepsy\n· Erectile dysfunction\n· eye cancer\n· eye disorders\n· Fatigue\n· fibroids\n· fibromyalgia\n· Foreign Accent Syndrome\n· Farting\n· flu\n· food poisoning\n· Fungal nail infection\n· Gallbladder cancer\n· Gallstones\n· genital herpes\n· gonorrhea\n· Gum disease\n· Graves' disease\n· hallucinations\n· Hashimoto's thyroiditis\n· hay fever\n· Hearing loss\n· hepatitis A, B, C, D and E\n· herpes\n· high cholesterol\n· HIV\n· Hodgkin's disease\n· Human Werewolf Syndrome\n· Hutchinson-Gilford Progeria Syndrome\n· HPV\n· hypertension\n· Immediate bowel syndrome\n· Indigestion\n· Ingrown toenail\n· Itching\n· Itchy bottom\n· Joint abnormalities\n· Kidney cancer\n· Kidney infection\n· Kidney stones\n· Leg cramps\n· Liver cancer\n· Liver disease\n· Lung cancer\n· Measles\n· Mesothelioma\n· Mouth cancer\n· Nasal and sinus cancer\n· Nosebleed\n· Obesity\n· Osteoporosis\n· Old man syndrome\n· Pancreatic cancer\n· Panic disorder\n· Parkinson's disease\n· Personality disorder\n· Persistent Sexual Arousal Syndrome\n· Prostate cancer\n· Radiation poisoning\n· Reactive arthritis\n· Restless legs syndrome\n· Walking Corpse Syndrome\n· Shingles\n· Shortness of breath\n· Skin cancer\n· Sore throat\n· Sugar cravings\n· Sunburn\n· Stiff Person Syndrome\n· Stoneman Syndrome\n· Stomach cancer\n· Stroke\n· Sexually transmitted diseases (STD's)\n· toenail fungus\n· Tuberculosis\n· T-posing syndrome\n· Urinary track infection\n· Vomit disorder\n· Whooping cough\n· Yellow fever\n· Yeast Infection"
+          },
+          {
+            "recommendationid": "227111202",
+            "value": "High Value",
+            "review": "Zamanında en yakın arkadaşımla nintendo switch ile oynuyorduk, ırkçılık olarak almayın ama siyahi bir karakterin hareketleri çok komiğimize giderdi. Hey gidi günler. Güzel oyun ve benim için yeri ayrı. Öneririm."
+          },
+          {
+            "recommendationid": "227110286",
+            "value": "High Value",
+            "review": "♥♥♥♥ this retarded ass game, now im addicted. better than league i guess"
+          },
+          {
+            "recommendationid": "227107004",
+            "value": "High Value",
+            "review": "mid, sweaty ahh people on it. my friend has 2800+ hours still he's bad at it."
+          },
+          {
+            "recommendationid": "227105139",
+            "value": "High Value",
+            "review": "eu conheço o jogo desde que lançou, mas eu comecei a jogar mesmo desde 2021 durante a pandemia e o jogo foi muito importante nesse periodo e pelos motivos ainda é ate hoje: é um jogo leve que traz muita diversão tem varios modos que vc pode jogar com os amigos atualmente sempre tem muito conteudo para consumir, não deixando o jogo monotono as mecanicas de combos são muito boas e mas da para se divertir mesmo sem saber nada, claro sempre tem uns spammers chatos mas são minorias hoje em dia. um jogo viciante que faz seu coração acelerar e sempre trazendo coisas novas."
+          },
+          {
+            "recommendationid": "227096118",
+            "value": "High Value",
+            "review": "Si te gusta jugar con un amigo y relajarte a full sabes, no estresarte roper el monitor y destrozar todo mi setup por un puto imugi en 2v2 rank deberias instalarlo y jugarlo al 100% recomentable es relajante y bueno para la salud."
+          },
+          {
+            "recommendationid": "227089533",
+            "value": "High Value",
+            "review": "sig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sig"
+          }
+        ],
+        "low_information_10": [
+          {
+            "recommendationid": "227126089",
+            "review": "n"
+          },
+          {
+            "recommendationid": "227125288",
+            "review": "buen juego"
+          },
+          {
+            "recommendationid": "227123881",
+            "review": "si"
+          },
+          {
+            "recommendationid": "227120398",
+            "review": "the best"
+          },
+          {
+            "recommendationid": "227119909",
+            "review": "ta weno"
+          },
+          {
+            "recommendationid": "227117507",
+            "review": "bom"
+          },
+          {
+            "recommendationid": "227102846",
+            "review": "sinto nojo"
+          },
+          {
+            "recommendationid": "227097383",
+            "review": "Adictivo"
+          },
+          {
+            "recommendationid": "227091105",
+            "review": "wtf"
+          },
+          {
+            "recommendationid": "227090696",
+            "review": "good game"
+          }
+        ]
+      },
+      "scores": {
+        "data_quality_score": 100.0,
+        "operational_insight_score": 27.0,
+        "language_diversity_score": 100.0,
+        "ai_readiness_score": 55.1,
+        "portfolio_readiness_score": 68.3
+      },
+      "verdict": "PARTIAL GO"
+    },
+    {
+      "file": "stumble_guys_negative_500.json",
+      "label": "Stumble Guys Negative",
+      "game": "Stumble Guys",
+      "exists": true,
+      "loaded": true,
+      "error": null,
+      "count_check": {
+        "targetCount": 500,
+        "actualCount": 500,
+        "reviews_length": 500,
+        "status": "OK"
+      },
+      "missing_fields": {
+        "issue_count": 0,
+        "issues": []
+      },
+      "duplicates": {
+        "internal_duplicate_count": 0,
+        "unique_ids": 500
+      },
+      "language_distribution": {
+        "english": 137,
+        "brazilian": 86,
+        "spanish": 54,
+        "russian": 52,
+        "polish": 48,
+        "turkish": 27,
+        "german": 24,
+        "latam": 17,
+        "italian": 10,
+        "ukrainian": 7,
+        "french": 7,
+        "portuguese": 6,
+        "schinese": 5,
+        "swedish": 3,
+        "hungarian": 3
+      },
+      "length_distribution": {
+        "0~10자": 84,
+        "11~20자": 99,
+        "21~50자": 113,
+        "51~100자": 97,
+        "101~300자": 87,
+        "301자 이상": 20
+      },
+      "low_information": {
+        "count": 90,
+        "ratio": 0.18,
+        "ratio_percent": 18.0
+      },
+      "operational_value": {
+        "Low Value": {
+          "count": 190,
+          "ratio_percent": 38.0
+        },
+        "Medium Value": {
+          "count": 181,
+          "ratio_percent": 36.2
+        },
+        "High Value": {
+          "count": 118,
+          "ratio_percent": 23.6
+        },
+        "Critical Value": {
+          "count": 11,
+          "ratio_percent": 2.2
+        }
+      },
+      "category_keywords": {
+        "monetization": 31,
+        "content": 20,
+        "performance": 9,
+        "matchmaking": 6,
+        "balance": 4,
+        "server": 4,
+        "community": 3,
+        "uiux": 3,
+        "advertisement": 2
+      },
+      "samples": {
+        "longest_3": [
+          {
+            "recommendationid": "220278696",
+            "length": 8000,
+            "review": "최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함?최적화 안함"
+          },
+          {
+            "recommendationid": "224371457",
+            "length": 3033,
+            "review": "Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.\n\nStumble Guys, developed by Scopely, is a free-to-play party royale that leans heavily on chaotic obstacle courses and physics-based gameplay. At first glance, it appears to be a lighthearted, accessible multiplayer experience, but over time its design reveals a number of structural and technical issues that undermine long-term enjoyment.\n\nThe core gameplay revolves around navigating short obstacle courses while competing against dozens of other players. While initially entertaining, the mechanics remain extremely shallow. Movement feels loose, physics interactions are often inconsistent, and success can depend more on randomness than player skill. Reports of clumsy controls and unreliable physics further contribute to a lack of precision, especially in later rounds where timing is critical.\n\nA defining issue with Stumble Guys is its reliance on repetition. Although the game includes multiple maps, the overall structure rarely changes—run, jump, avoid obstacles, repeat. Over time, the limited variety leads to a predictable loop that struggles to maintain engagement. Even player reviews frequently point out that the experience becomes repetitive and lacks meaningful evolution.\n\nTechnical problems are another major drawback. Players commonly report lag, crashes, and glitches that can directly impact gameplay. In a game built around timing and reaction speed, these issues can make matches feel unfair or even unplayable at times.\n\nThe multiplayer aspect, while central to the game, is also inconsistent. Many players have noted the presence of bots in matches, which reduces the sense of real competition and makes victories feel less rewarding. From community discussions, frustration also extends to balance issues and features like abilities or monetization, with some players describing the game as drifting toward a pay-to-win structure.\n\nCreatively, the game has often been criticized for lacking originality. It closely mirrors the structure of Fall Guys, offering a similar format without significantly expanding on it. Critics have described it as a derivative experience that follows an established formula rather than innovating within the genre.\n\nVisually, the game is bright and readable, but relatively basic. While the style fits its casual tone, it does little to distinguish the experience or enhance immersion. Combined with minimal progression depth, the presentation reinforces the game’s short-session appeal rather than encouraging long-term investment.\n\nUltimately, Stumble Guys delivers quick, chaotic fun, but struggles with repetition, technical issues, and limited originality.\n\nIn the end, it stands as a shallow and inconsistent multiplayer experience—best suited for brief sessions rather than sustained play, especially for those looking for deeper mechanics or more polished competition.\n4/10"
+          },
+          {
+            "recommendationid": "221222532",
+            "length": 1803,
+            "review": "Stumble Guys no es un juego.\nStumble Guys es un CRIMEN CONTRA LA HUMANIDAD disfrazado de juego multijugador.\nEs el equivalente digital a que te inviten a una fiesta, te den un trago de jarabe para la tos caducado del 2012, te pongan música de ascensor a 1.5x de velocidad y luego te empujen por unas escaleras llenas de aceite mientras tu madre lo graba todo para TikTok.\nCada partida es una humillación programada.\nNo hay skill, no hay mecánica, no hay NADA BUENO\n\nTe empujan 47 personas al mismo tiempo pero tú te caes SOLO porque tocaste una baldosa 0.3 milímetros más a la izquierda.\nEl otro tipo va de lado, rebotando como pelota de ping-pong borracha y llega primero. Tú vas recto, concentrado, zen… y una abeja te empuja al vacío en el pixel 47.\nEl bombazo final siempre te elige a TI aunque estés escondido detrás de un cactus en Narnia.\nLa física existe solo para traicionarte. El resto del tiempo está de vacaciones en Cancún.\n\nY lo peor:\nte hacen creer que “la próxima sí la gano”.\nTe venden esa ilusión barata como si fueras un yonqui de la victoria póstuma.\nCada “¡Vamos que esta es!” es un nuevo ciclo de abuso emocional.\nStumble Guys no es free-to-win.\nEs pay-to-suffer\n\nEs el juego que le das a tu enemigo número 1 cuando quieres destruirlo psicológicamente sin dejar huellas.\nEs más tóxico que el chat de Valorant.\nEs más frustrante que perder el Wi-Fi en el clutch de una partida de Among Us.\nEn resumen:\nStumble Guys es la prueba viviente de que Dios existe…\ny nos odia profundamente.\nSi estás jugando Stumble Guys en el 2026 y todavía no has borrado el juego, no es porque te guste.\nEs porque ya te secuestró el síndrome de Estocolmo multijugador.\nVergüenza.\nVergüenza colectiva.\nVergüenza generacional.\nQue el karma del fall guys te persiga eternamente, pedazo de tropezon con vida."
+          }
+        ],
+        "high_critical_10": [
+          {
+            "recommendationid": "227056904",
+            "value": "High Value",
+            "review": "Played 2 hours, and I've only seen 4 levels. Do the other maps in the cycle even exist?"
+          },
+          {
+            "recommendationid": "227019416",
+            "value": "High Value",
+            "review": "UNA MIERDA ABSOLUTA CUANDO LO VI ME DIERON GANAS DE VOMITAR ES UN JUEGO ATROS ESPERO QUE A LOS QUE LO DISEÑARON SE LE METAN TROPECIENTOS ENANOS POR EL FUNDILLO gracias."
+          },
+          {
+            "recommendationid": "226971620",
+            "value": "High Value",
+            "review": "Una bazofia total. Copia descarada de Fall Guys, aburrido si no gastas dinero, siempre los mismos mapas que ya me tienen hasta los cojones y lleno de bots. Le metí varias horas solo para conseguir todos los logros pero uno lo tiene bugueado, ni eso hace bien, vaya caca asquerosa."
+          },
+          {
+            "recommendationid": "226783335",
+            "value": "High Value",
+            "review": "Antes era um jogo bem p2w, mas agora esta jogável tirando os poder roubado claro. Ficou um jogo bem sem graça, muito repetitivo."
+          },
+          {
+            "recommendationid": "226746176",
+            "value": "High Value",
+            "review": "♥♥♥♥ game,  its p2w, theres  so many skins, and  the game is  filled with bots."
+          },
+          {
+            "recommendationid": "226727713",
+            "value": "High Value",
+            "review": "BENCE ÇCOK KÖTÜ BİR OYUN BU OYUN YÜZÜNDEN SAHURUMU YAPAMADIM KAÇIRDIM SAHURU ORUÇ TUTAMADIM"
+          },
+          {
+            "recommendationid": "226652101",
+            "value": "High Value",
+            "review": "This game is EXTREMLY addictive and half the time your just crashing out because its all luck. ITS LITTERALLY GAMBALING. It does not bring you joy, It just disconnects you from the world and makes you in a terrible mood for the rest of the day not wanting to do anything."
+          },
+          {
+            "recommendationid": "226373039",
+            "value": "High Value",
+            "review": "This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games"
+          },
+          {
+            "recommendationid": "226359500",
+            "value": "High Value",
+            "review": "Schmutz. Funktioniert anfangs ganz gut, dann plötzlich werde ich gekickt. Natürlich fällt euch nichts besseres ein als meine Internetverbindung verantwortlich zu machen. Seltsam, alles andere funktioniert problemlos. Eure Server sind das Problem, nicht mein Netz. Beenden kann ich das Ding auch nicht bzw. es dauert ewig und ich muss per Steam nachhelfen. Was eine Scheiße. Aber Hauptsache, die Leute zahlen für irgendwelche überteuerten Cosmetics. Überprüft ihr mal eure Verbindung. Versager."
+          },
+          {
+            "recommendationid": "226339228",
+            "value": "Critical Value",
+            "review": "I Don't recommend this game because it has (P2W) Cosmetics and when i play ranked a few hours this game freezes on my pc for no reason and then i have to launch the game again to be able to see my rank\nBut otherwise it is a Fall Guys clone and it is a mobile game ported to pc but at least feels smoother than fall guys"
+          }
+        ],
+        "low_information_10": [
+          {
+            "recommendationid": "226975493",
+            "review": "FDASAFA"
+          },
+          {
+            "recommendationid": "226905898",
+            "review": "uma merda"
+          },
+          {
+            "recommendationid": "226848208",
+            "review": "guwno"
+          },
+          {
+            "recommendationid": "226467275",
+            "review": "♥♥♥♥"
+          },
+          {
+            "recommendationid": "226435680",
+            "review": "6767667677676767676767676767676767"
+          },
+          {
+            "recommendationid": "226355060",
+            "review": "bad"
+          },
+          {
+            "recommendationid": "226346170",
+            "review": "Pay to win"
+          },
+          {
+            "recommendationid": "226218340",
+            "review": "no."
+          },
+          {
+            "recommendationid": "226159907",
+            "review": "GOWNO GRA"
+          },
+          {
+            "recommendationid": "226060134",
+            "review": "♥♥♥♥ game."
+          }
+        ]
+      },
+      "scores": {
+        "data_quality_score": 100.0,
+        "operational_insight_score": 31.0,
+        "language_diversity_score": 100.0,
+        "ai_readiness_score": 62.6,
+        "portfolio_readiness_score": 71.5
+      },
+      "verdict": "PARTIAL GO"
+    },
+    {
+      "file": "stumble_guys_positive_200.json",
+      "label": "Stumble Guys Positive",
+      "game": "Stumble Guys",
+      "exists": true,
+      "loaded": true,
+      "error": null,
+      "count_check": {
+        "targetCount": 200,
+        "actualCount": 200,
+        "reviews_length": 200,
+        "status": "OK"
+      },
+      "missing_fields": {
+        "issue_count": 0,
+        "issues": []
+      },
+      "duplicates": {
+        "internal_duplicate_count": 0,
+        "unique_ids": 200
+      },
+      "language_distribution": {
+        "english": 59,
+        "brazilian": 46,
+        "spanish": 26,
+        "polish": 18,
+        "russian": 14,
+        "turkish": 12,
+        "portuguese": 5,
+        "french": 4,
+        "latam": 3,
+        "italian": 3,
+        "german": 2,
+        "ukrainian": 2,
+        "hungarian": 2,
+        "swedish": 2,
+        "danish": 1
+      },
+      "length_distribution": {
+        "0~10자": 87,
+        "11~20자": 35,
+        "21~50자": 34,
+        "51~100자": 25,
+        "101~300자": 13,
+        "301자 이상": 6
+      },
+      "low_information": {
+        "count": 90,
+        "ratio": 0.45,
+        "ratio_percent": 45.0
+      },
+      "operational_value": {
+        "Low Value": {
+          "count": 131,
+          "ratio_percent": 65.5
+        },
+        "Medium Value": {
+          "count": 40,
+          "ratio_percent": 20.0
+        },
+        "High Value": {
+          "count": 26,
+          "ratio_percent": 13.0
+        },
+        "Critical Value": {
+          "count": 3,
+          "ratio_percent": 1.5
+        }
+      },
+      "category_keywords": {
+        "monetization": 7,
+        "content": 3
+      },
+      "samples": {
+        "longest_3": [
+          {
+            "recommendationid": "226902516",
+            "length": 5470,
+            "review": "e uma boa diversao!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+          },
+          {
+            "recommendationid": "227080946",
+            "length": 4032,
+            "review": ":steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored:"
+          },
+          {
+            "recommendationid": "226781822",
+            "length": 1686,
+            "review": "Stumble Guys is a fun little game that offers a quick rush of dopamine for when you are bored. The main purpose of the game is to be the first stubeling guy to make it to the finish line first, While facing obsticales like giant spinning rubber hammer, your friends (who dont exist), but sadly not frying pans. \n\nEver since I saw this game in the sponsor segment of Mr Beast videos ive enjoyed it. The goal is simple making it very enjoyable for all who are bored (aka all the bots that you're playing against). A part that i especially like about Stumble Guys is the fact that it isnt one of those pay to win games that we see everywhere now. Which I believe is something that plays a big part in it being so popular, with it even having had ripoffs made from it, with the biggest of these being called fall guys.\n\nThe game consists of a bunch of different maps that you wont ever see since it always just uses the original ones. There are also multible other game modes in the game, shaped after the people who pay Scopely the biggest amount of irl dabloons. There also exists an extensive amount of different charecters for you to choose from, like default, tripple T, corn and mr beast himself. You can customize all of these to your liking, like making the Mr beast yellow! This however is not recomended since you arent supposed to look into his eyes, just look at what happened to d3rlord3 when he did that.\n\nin conclution, stumble guys is a great game for when you want to have some quick fun, with or without the friends that you dont have. Or if you just wanna learn which way to turn while at the crossroads. So have luck and good fun, goodbye!\n\n11 / 11.5 (no frying pans D:)"
+          }
+        ],
+        "high_critical_10": [
+          {
+            "recommendationid": "227108456",
+            "value": "High Value",
+            "review": "Não tem muito o que falar, o jogo é simples mas é divertido."
+          },
+          {
+            "recommendationid": "227091206",
+            "value": "High Value",
+            "review": "tbh, fall guys is suffering from non-contents rn, this might be the best alternative for it."
+          },
+          {
+            "recommendationid": "227090603",
+            "value": "High Value",
+            "review": "this game is so fun but can you guys make a trading sytem maybe where you can trade skins"
+          },
+          {
+            "recommendationid": "227075751",
+            "value": "High Value",
+            "review": "I really love this game i got special skin in stumble guys"
+          },
+          {
+            "recommendationid": "227060289",
+            "value": "High Value",
+            "review": "Stumble Guys ofrece una experiencia de entretenimiento directa y accesible. Es el título ideal para partidas casuales; su diseño equilibra la diversión de manera precisa, sin caer en la frustración de una dificultad elevada ni recurrir a mecánicas excesivamente absorbentes. Cumple su objetivo principal de forma rotunda: brindar un buen rato.\n\nA nivel visual, los gráficos son atractivos y cumplen su propósito con gran eficacia. Esta dirección de arte colorida y sencilla viene acompañada de una optimización técnica sobresaliente, lo que permite disfrutar de la experiencia sin requerir hardware de gama alta.\n\nNotas de rendimiento técnico:\n\nProcesador: La carga operativa en un Intel Core i7-13620H es mínima, permitiendo que el juego se ejecute con absoluta holgura.\nMemoria: El sistema aprovecha los 24 GB de RAM disponibles para gestionar la aplicación y cualquier proceso en segundo plano de manera instantánea y sin latencia.\nGráficos: El motor gráfico está excepcionalmente optimizado. Las limitaciones inherentes de una tarjeta integrada Intel UHD Graphics (con 128 MB de VRAM) no representan un impedimento; el juego mantiene una tasa de fotogramas completamente estable y conserva su calidad visual sin tirones ni caídas de rendimiento.\n\nEs una propuesta sólida, sumamente entretenida y técnicamente impecable en equipos orientados a la productividad. Una adición excelente para cualquier biblioteca. Completamente recomendado.\n\nSaludos."
+          },
+          {
+            "recommendationid": "227050674",
+            "value": "High Value",
+            "review": "MUITAS MAIS MUITAS COISAS LEGAIS MESMO SKINS MAPAS E MUITO MAIS SE DIVIRTA"
+          },
+          {
+            "recommendationid": "227048932",
+            "value": "High Value",
+            "review": "Stumble Guys is pretty cool, although it's an fall guys copy, it's a really nice experience, and IT'S FREE!"
+          },
+          {
+            "recommendationid": "227036964",
+            "value": "High Value",
+            "review": "GOOD QUALITY. Try this game! It has insane ways to play like: Friendly battle, normal mode, stumble pass, 10+ wheels(for gems of course), and more! 20+ modes!!! W game"
+          },
+          {
+            "recommendationid": "226983536",
+            "value": "High Value",
+            "review": "muito dificil pegar skill mas é muito bom recomendo."
+          },
+          {
+            "recommendationid": "226980933",
+            "value": "High Value",
+            "review": "eu jogo desde 2022 no cll, e mudou bastante desde lá. Ficou um gráfico bonito nessa versão, mas a jogabilidade e as burlas mudaram"
+          }
+        ],
+        "low_information_10": [
+          {
+            "recommendationid": "227128320",
+            "review": "bom"
+          },
+          {
+            "recommendationid": "227127455",
+            "review": "idk why"
+          },
+          {
+            "recommendationid": "227120391",
+            "review": "git gra"
+          },
+          {
+            "recommendationid": "227114877",
+            "review": "3"
+          },
+          {
+            "recommendationid": "227112573",
+            "review": "muito bom"
+          },
+          {
+            "recommendationid": "227107872",
+            "review": "gut"
+          },
+          {
+            "recommendationid": "227104370",
+            "review": "good"
+          },
+          {
+            "recommendationid": "227103264",
+            "review": "çç"
+          },
+          {
+            "recommendationid": "227101312",
+            "review": "Its Fun"
+          },
+          {
+            "recommendationid": "227095361",
+            "review": "çok iyi"
+          }
+        ]
+      },
+      "scores": {
+        "data_quality_score": 100.0,
+        "operational_insight_score": 17.4,
+        "language_diversity_score": 100.0,
+        "ai_readiness_score": 47.1,
+        "portfolio_readiness_score": 63.5
+      },
+      "verdict": "NO GO"
+    },
+    {
+      "file": "goose_goose_duck_negative_500.json",
+      "label": "Goose Goose Duck Negative",
+      "game": "Goose Goose Duck",
+      "exists": true,
+      "loaded": true,
+      "error": null,
+      "count_check": {
+        "targetCount": 500,
+        "actualCount": 500,
+        "reviews_length": 500,
+        "status": "OK"
+      },
+      "missing_fields": {
+        "issue_count": 0,
+        "issues": []
+      },
+      "duplicates": {
+        "internal_duplicate_count": 0,
+        "unique_ids": 500
+      },
+      "language_distribution": {
+        "schinese": 208,
+        "russian": 118,
+        "english": 64,
+        "turkish": 55,
+        "koreana": 22,
+        "brazilian": 6,
+        "tchinese": 5,
+        "hungarian": 5,
+        "german": 3,
+        "czech": 3,
+        "spanish": 3,
+        "portuguese": 2,
+        "polish": 1,
+        "swedish": 1,
+        "thai": 1
+      },
+      "length_distribution": {
+        "0~10자": 127,
+        "11~20자": 92,
+        "21~50자": 120,
+        "51~100자": 79,
+        "101~300자": 56,
+        "301자 이상": 26
+      },
+      "low_information": {
+        "count": 132,
+        "ratio": 0.264,
+        "ratio_percent": 26.4
+      },
+      "operational_value": {
+        "Low Value": {
+          "count": 225,
+          "ratio_percent": 45.0
+        },
+        "Medium Value": {
+          "count": 221,
+          "ratio_percent": 44.2
+        },
+        "High Value": {
+          "count": 49,
+          "ratio_percent": 9.8
+        },
+        "Critical Value": {
+          "count": 5,
+          "ratio_percent": 1.0
+        }
+      },
+      "category_keywords": {
+        "content": 6,
+        "community": 5,
+        "server": 2,
+        "balance": 1,
+        "monetization": 1,
+        "performance": 1,
+        "uiux": 1
+      },
+      "samples": {
+        "longest_3": [
+          {
+            "recommendationid": "224812760",
+            "length": 1568,
+            "review": "정말 솔직한 리뷰입니다.\n사람들이 게임을 못하는건 아닌데 너무 감정적입니다.\n원래 이런 마피아 게임이 오해를 받을 수 있고, 오해를 할 수도 있고, 지목을 당할 수도 있고, 억울하게 죽을 수도 있어요.\n그런 걸 감안하지 않고 이 게임을 하면 사사건건 당연히 화가 날 수밖에 없지 않나요? 뭐, 이렇게 예측불허한 게임에서 본인은 무조건 오래 살아남고 꼭 이겨야 된다고 생각하시는건지. 저도 여자지만 게임 내의 여자분들 목소리에서부터 머리 텅텅 빈게 느껴지던데, 합리적인 추리에도 불구하고 본인이 지목당하기만 하면 바로 성격 나빠지고 예민해져서 상대방 인격 모독하시는 분들 꽤나 많네요. 특히 채팅방은 더더욱 심하고요. 결국 까보면 범인이던데 감정적으로 굴어서 아득바득 분위기 망쳐가며 표 안 받아내다가 이기면 매우 좋아하면서 마치 논리적으로 사람들을 잘 구슬려서 이긴 듯이 자축하는거 보면 정말 삽으로 대가리 후려치고 싶네요. 그냥 죽었으면 좋겠어요. 당신은 이 지구에 쓸모가 없는 것 같아요.\n정말 좋은 여자분들도 많이 뵈었는데, 비율상 남자보다 여자들이 더 머저리 같네요, 이 게임에선.\n저의 이런 평가를 보고 반발심 들 사람들 꽤나 많을텐데요, 당신도 그런 부류입니다.\n여자분들 죽고 나서 짜증난다고 찡찡대는 사람들 너무 많이 봤습니다. \n목소리는 성인인데 정신 연령은 너무 어린 것 같아요.\n그래도 여자분들은 감정적이긴 하지 싸이코는 한 명도 못 봤는데, 남자분들중에 가뭄에 콩 나듯 개싸이코가 한 두명 있네요. 아예 인간의 삶을 포기한 듯해 보여요. 아예 마이크를 입 안에 넣고 괴성을 지르는 남자분도 봤고요, 다른 플레이어의 어머니를 욕하면서 '누구 애미 XX'라고 노래 부르듯 욕하는 남자분도 봤어요. 패드립하시는 분은 목소리에서부터 나이가 좀 있으시던데 당신 주변 이웃들은 당신이 그런 짓을 한다는걸 알고 있기는 한가요?ㅋㅋ\n사람들이 참 비겁한게 채팅방과 마이크방의 사람들 상태가 많이 다르네요.\n얼마나 비겁한지 얼굴조차 보이지 않고 서로 목소리만 들리는 게임인데도 채팅방에서 서로 그렇게 욕하던 깡다구가 마이크방에서는 거의 다 사라져있어요ㅋㅋ\n그리고 마이크방에서 누가 실수로 채팅으로 상대방 인격 깎아내리다가 갑자기 마이크 되는 방인거 인지하고 바로 사과하는 모습도 봤고요. 왜 그러고 사세요?\n그리고 범인이 지목을 당하면 당연히 본인이라고 쿨하게 까는 경우는 잘 없고, 이건 너무 당연한 현상인데요, 범인이 회피하는 모습을 보고 신고자가 바로 돌변해서 인성 뒤틀려지면서 상대방 인격 깎아내리는 분들 너무 많습니다. 특히 채팅방이요. 당연히 범인은 본인이 그랬다고 말 안하겠죠. 이건 뭐 인간 심리에 대해서 생각을 안하고 게임을 하시는 건지, 우선 뒤틀린 시각으로 상대방 꼬나보는 사람들 정말 정말 정말 많습니다...\n표준어를 쓰면서도 상대방 비꼬다가 서로 말싸움하는 경우도 종종 봤습니다. 제발 욕을 안한다고 해서 상대방이 당신의 의도를 파악 못할거라고 생각하지 마세요. 보통 사람들은 당신 수준처럼 병신이 아닙니다!\n\n솔직히 이건 게임 리뷰라기보다는 상황이나 말의 의도를 파악 못하고 무조건 화를 내고 보는 개멍청한 인간들에게 바치는 글입니다.\n\n원래 멍청한 인간들이 화가 많거든요."
+          },
+          {
+            "recommendationid": "220600779",
+            "length": 1540,
+            "review": "东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！东北人出没请注意🤡！"
+          },
+          {
+            "recommendationid": "217056870",
+            "length": 855,
+            "review": "So I have played this game for 1661 hours at the time of my review. I am leaving a negative review because how is it that a game in 2026 doesn't allow you to change your email address?\r\n\r\nI have spent nearly 70 full-days playing this game and if I want to retire an old email that means I have to say goodbye to my GGD account? It doesn't make any sense at all when every other game/site allows you to change the email address associated with their account. \r\n\r\nIf you want to spend time playing this game go for it, obviously I have. But just be aware that you will NEVER be allowed to change your email. I'm going to play a bit more, but ultimately I need to retire my old email and will lose access to my GGD account because of it. Feels bad and I won't be starting up a new account considering the money I have spent on my existing account. No thanks!"
+          }
+        ],
+        "high_critical_10": [
+          {
+            "recommendationid": "226667305",
+            "value": "High Value",
+            "review": "jogo muito ruim \n\narthurgsanches26 você me paga por ter feito eu jogar essa merda"
+          },
+          {
+            "recommendationid": "226575194",
+            "value": "High Value",
+            "review": "oç Biraz kafa dağıtmak ve arkadaş edinmek için girdiğim oyunda bir tur bile oynayamadım. Mikrofonumu açmıyorum diye oyundan atıyorlar ya da lobilerine sadece “pick me girl” arayan abazalar doluşmuş oluyor. Oyunu gerçekten oynadıkları bile yok; maç içinde boş boş durup kız tavlamaya çalışıyorlar. Ben aile evinde olduğum için mikrofon açamıyorum ama durumu açıklamama bile izin vermeden lobiden atıyorlar."
+          },
+          {
+            "recommendationid": "226551148",
+            "value": "Critical Value",
+            "review": "Everyone in this game has a brain dumber than a rotten banana, i told everyone my role during a meeting and 1 stupid user said that i wasnt and thats his role, i said i is, but when voting time came? EVERYONE VOTED ME, LIKE ARE YOU ALL STUPID, I SAID MY ROLE, I WAS LITERALLY THE 1ST TO SAY THAT, AND YALL VOTE ME, and also, when i literally saw a user kill someone infront of my eyes, i report, say it was that user, NO ONE VOTES HIM EXCEPT ME, LIKE, ARE YALL JUST THAT STUPID"
+          },
+          {
+            "recommendationid": "226481548",
+            "value": "High Value",
+            "review": "dont play this game your friend are your enemy. people u really trust are just evil haiz"
+          },
+          {
+            "recommendationid": "226338495",
+            "value": "Critical Value",
+            "review": "I was on my way onto the emergency button While being chased by a sniper and I SWEAR i pressed the button before he shot and THEN I GET KILLED AND WE LOOSE THE ROUND IT IS THE MOST INFURIATING ♥♥♥♥ EVER AND ALSO THE TASKS ARE THE MOST BORING ♥♥♥♥♥♥♥ THING THAT HAS EVER TOUCHED THIS ♥♥♥♥ ASS PIECE OF LAND THAT IS CALLED STEAM."
+          },
+          {
+            "recommendationid": "226131027",
+            "value": "High Value",
+            "review": "just support Innersloth instead of this p2w slop. atleast they care about roles"
+          },
+          {
+            "recommendationid": "226126135",
+            "value": "High Value",
+            "review": "beni niye banladınız lan oyundan naptım ben alt tarafı arkadaşlarıma oyuna girip onlara zor anlar yaşatıyorum!!!!!!! hesabımı banlamanızın sebebi neydi kötü kalpliler."
+          },
+          {
+            "recommendationid": "226018662",
+            "value": "High Value",
+            "review": "As a Israel chai I feel very discriminated in this game. Everyone is extremely rude to me for being jewish and I cant stand it. At least the game has the role \"cuckoo\" which hits home as a traditional orthodox satanist rabbi that has a interracial bias and a policy of defending Ukraine by any means necessary. Slava Ukraini, Kosovo is Serbia and Glory to the heroes of october 7."
+          },
+          {
+            "recommendationid": "225590795",
+            "value": "Critical Value",
+            "review": "I am absolutely outraged by this situation. If you download the game on Apple and link your account to Game Center, you have NO way to log into your leveled-up account from a PC. Contacting support did nothing — they just reply that this is \"not supported by the game.\"\n\nMy account is several years old, has a high level, and I participated in events that gave unique clothing items that are no longer available in the store. I politely asked — okay, you can't transfer the account, but could you duplicate just a few (no more than 5!) of the most valuable unique items to a new character while deleting my old Apple account? The answer was no.\n\nI find this absolutely disrespectful to players. It shows not only a lack of willingness to improve the game but also a complete disregard for users who have invested their time and effort into it for years."
+          },
+          {
+            "recommendationid": "225403481",
+            "value": "High Value",
+            "review": "Played it once quite some time ago, it was worth a lot more paying a few bucks for Among Us... The proximity voice chat and the extra roles didn't really add much to the experience - and having to create an extra account is annoying."
+          }
+        ],
+        "low_information_10": [
+          {
+            "recommendationid": "227011797",
+            "review": "РОНП"
+          },
+          {
+            "recommendationid": "226950828",
+            "review": "ПAPAШA"
+          },
+          {
+            "recommendationid": "226630794",
+            "review": "卡的要死"
+          },
+          {
+            "recommendationid": "226421259",
+            "review": "ГО"
+          },
+          {
+            "recommendationid": "226410282",
+            "review": "kötü"
+          },
+          {
+            "recommendationid": "226261582",
+            "review": "4m"
+          },
+          {
+            "recommendationid": "226222299",
+            "review": "TO GÓWNO"
+          },
+          {
+            "recommendationid": "226098602",
+            "review": "yok"
+          },
+          {
+            "recommendationid": "226074441",
+            "review": "垃圾优化"
+          },
+          {
+            "recommendationid": "226061810",
+            "review": "登不上去  一直报错"
+          }
+        ]
+      },
+      "scores": {
+        "data_quality_score": 100.0,
+        "operational_insight_score": 13.0,
+        "language_diversity_score": 100.0,
+        "ai_readiness_score": 51.6,
+        "portfolio_readiness_score": 63.7
+      },
+      "verdict": "PARTIAL GO"
+    },
+    {
+      "file": "goose_goose_duck_positive_200.json",
+      "label": "Goose Goose Duck Positive",
+      "game": "Goose Goose Duck",
+      "exists": true,
+      "loaded": true,
+      "error": null,
+      "count_check": {
+        "targetCount": 200,
+        "actualCount": 200,
+        "reviews_length": 200,
+        "status": "OK"
+      },
+      "missing_fields": {
+        "issue_count": 0,
+        "issues": []
+      },
+      "duplicates": {
+        "internal_duplicate_count": 0,
+        "unique_ids": 200
+      },
+      "language_distribution": {
+        "english": 58,
+        "turkish": 39,
+        "koreana": 27,
+        "russian": 26,
+        "schinese": 23,
+        "brazilian": 11,
+        "french": 4,
+        "czech": 4,
+        "tchinese": 2,
+        "spanish": 2,
+        "portuguese": 1,
+        "polish": 1,
+        "danish": 1,
+        "ukrainian": 1
+      },
+      "length_distribution": {
+        "0~10자": 72,
+        "11~20자": 23,
+        "21~50자": 52,
+        "51~100자": 27,
+        "101~300자": 18,
+        "301자 이상": 8
+      },
+      "low_information": {
+        "count": 73,
+        "ratio": 0.365,
+        "ratio_percent": 36.5
+      },
+      "operational_value": {
+        "Low Value": {
+          "count": 103,
+          "ratio_percent": 51.5
+        },
+        "Medium Value": {
+          "count": 68,
+          "ratio_percent": 34.0
+        },
+        "High Value": {
+          "count": 26,
+          "ratio_percent": 13.0
+        },
+        "Critical Value": {
+          "count": 3,
+          "ratio_percent": 1.5
+        }
+      },
+      "category_keywords": {
+        "content": 5,
+        "community": 4,
+        "balance": 2,
+        "monetization": 2,
+        "tutorial": 2
+      },
+      "samples": {
+        "longest_3": [
+          {
+            "recommendationid": "226746842",
+            "length": 7341,
+            "review": "Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and player deception and expands it into a much larger, more feature-rich experience. While the game shares the core concept of innocent players attempting to identify hidden enemies among them, it greatly broadens the scope through an impressive selection of roles, larger player counts, built-in voice communication, multiple game modes, and a strong emphasis on social interaction. The result is a party game that thrives on unpredictability, turning every session into a unique mix of teamwork, suspicion, strategy, and chaos.\n\nThe central premise is deceptively simple. Players enter a match as members of different factions, most commonly Geese and Ducks. Geese are tasked with completing objectives and uncovering the identities of the hostile Ducks hiding among them. The Ducks, meanwhile, must secretly sabotage progress and eliminate the Geese without exposing themselves. This familiar setup immediately creates tension because every conversation, accusation, and explanation has the potential to influence the outcome of the match.\n\nWhat truly separates Goose Goose Duck from many other games in the genre is the incredible variety of specialized roles. Rather than limiting players to basic categories, the game introduces dozens of unique characters with individual abilities and objectives. Some roles gather information, others manipulate evidence, while certain characters possess powers capable of completely changing the direction of a match. Because role combinations vary from game to game, players must constantly adapt their strategies and learn how different abilities interact with one another.\n\nThis role diversity dramatically increases replay value. Two matches rarely unfold in the same way because player abilities can alter investigations, create false leads, or reveal unexpected information. Even experienced players often find themselves surprised by situations they have never encountered before. The constantly changing dynamics ensure that the gameplay remains fresh despite the relatively straightforward foundation.\n\nOne of the game's strongest innovations is its proximity voice chat system. Instead of restricting communication to scheduled discussion phases, players can talk naturally while moving around the map. Conversations occur organically as players encounter one another, allowing alliances, arguments, suspicions, and deceptions to emerge in real time. This feature adds an entirely new layer of immersion because players can no longer rely solely on formal meetings to exchange information. Casual conversations become just as important as official discussions.\n\nThe social element is where Goose Goose Duck truly shines. Success depends far less on mechanical skill than on observation, communication, and psychological manipulation. Players must pay attention to behavior, detect inconsistencies in stories, and determine whether someone is genuinely helpful or secretly working against the group. A convincing lie can save a guilty player, while a poorly timed accusation can turn an innocent participant into a target. These interactions often create the most memorable moments in the game.\n\nThe maps themselves contribute significantly to the overall experience. Each environment features unique layouts, tasks, hidden pathways, and environmental interactions that influence how players gather information and move around the world. Learning the details of each map becomes an important skill because knowledge of the environment often provides valuable advantages during investigations and escapes.\n\nThe task system gives players meaningful objectives beyond simply discussing suspicions. Geese can contribute toward victory by completing assigned tasks scattered throughout the map. These activities provide structure to each match while also creating opportunities for Ducks to blend into the crowd or lure victims into isolated areas. The constant balance between completing objectives and remaining alert creates an enjoyable tension throughout every session.\n\nCustomization is another area where the game excels. Players can unlock a wide range of cosmetic items, outfits, accessories, and character appearances that allow them to personalize their geese and ducks. While these options do not affect gameplay balance, they add personality and encourage long-term engagement. The colorful visual style and humorous character designs help maintain a playful atmosphere even during particularly intense matches.\n\nVisually, Goose Goose Duck embraces a bright and accessible cartoon aesthetic. Character models are expressive, environments are easy to navigate, and important gameplay information remains clearly visible. The presentation prioritizes readability and accessibility, ensuring that players can focus on communication and deduction rather than struggling with visual clutter.\n\nThe game's large player capacity is another significant advantage. Supporting more participants than many competing social deduction games allows for more complicated discussions, additional role combinations, and greater unpredictability. Larger groups create richer social dynamics because information becomes more difficult to verify and deception becomes easier to conceal. This added complexity enhances the overall experience for players who enjoy intricate social interactions.\n\nThe developers have also expanded the formula through additional game modes and special events. These alternative modes introduce different rules and objectives, providing welcome variety for players who want something beyond the standard deduction experience. Combined with frequent updates and new content, these additions help keep the community engaged over long periods.\n\nThe game is not entirely without flaws. New players may initially feel overwhelmed by the large number of roles and abilities. Understanding how every character functions requires time and experience. Additionally, the quality of matches often depends heavily on the willingness of participants to communicate and engage with the social aspects of the game. Poor communication can reduce the effectiveness of many mechanics. However, these issues become less significant once players familiarize themselves with the systems and find active groups.\n\nWhat ultimately makes Goose Goose Duck stand out is its commitment to expanding every aspect of the social deduction genre. Rather than simply replicating an existing formula, it adds enough new mechanics, roles, and social features to create its own identity. Every match becomes a unique story shaped by player decisions, unexpected betrayals, clever deceptions, and dramatic last-minute revelations.\n\nFor fans of party games, hidden-role experiences, and multiplayer social interaction, Goose Goose Duck offers one of the most complete packages currently available. Its extensive role variety, strong communication tools, entertaining customization options, and consistently unpredictable gameplay make it a standout title within the genre. Whether playing with close friends or joining larger public lobbies, the game delivers a constant stream of memorable moments that keep players coming back for more.\n\nRating: 9/10"
+          },
+          {
+            "recommendationid": "226653306",
+            "length": 959,
+            "review": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣀⣀⡀\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠋⠁⠈⠉⠛⢻⣶⡀\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⠋⠀⠀⠀⠀⠀⠀⠀⢹⡇\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡿⠁⠀⠀⢰⣿⠂⠀⢀⣤⣼⣿⡄\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠁⠀⠀⠀⠀⠀⣠⣶⠿⡛⡜⢿⣷⡀\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡿⠁⠀⠀⠀⠀⢀⣾⡿⠿⠿⣷⣼⣢⢻⣿⡀\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⣼⠇⠀⠀⠀⠘⠻⣿⣤⣿⡃\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠀⠀⠀⠀⠀⢰⡏⠀⠀⠀⠀⠀⠀⠈⠻⠟\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⣸⡇\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠇⠀⠀⠀⠀⠀⢸⡇\r\n⠀⢀⣤⣶⢶⣦⣤⣀⣀⣀⣄⣠⣤⣤⣤⣤⣤⣴⡾⢿⡄⠀⠀⠀⠀⠀⢸⡷\r\n⢀⣾⠏⠀⠀⠈⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠈⢻⣆⡀⢀⣀⣤⠾⣧⡀\r\n⠸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣻⢿⠉⠀⠀⠈⠻⣷⣄\r\n⠀⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⣽⣻⠀⠀⠀⠀⠀⠈⢻⣧\r\n⠀⠀⠹⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣻⢷⣿⠀⠀⠀⠀⠀⠀⠀⣿⡇\r\n⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡷⣯⣿⢾⠀⠀⠀⠀⠀⠀⠀⢻⡇\r\n⠀⠀⠀⠀⠘⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⢿⡽⣟⡿⠀⠀⠀⠀⠀⠀⠀⢸⣇\r\n⠀⠀⠀⠀⠀⠸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣯⣿⡽⣯⠇⠀⠀⠀⠀⠀⠀⠀⣸⡟\r\n⠀⠀⠀⠀⠀⠀⢹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠓⠋⠁⠀⠀⠀⠀⠀⠀⠀⢠⣿⠁\r\n⠀⠀⠀⠀⠀⠀⠀⢻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠿⠁\r\n⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠃\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⠀⣀⣀⣀⠀⠀⠀⢀⡀⠀⠀⣀⣼⠇\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣶⣶⣶⣿⡟⠉⠛⠛⣶⠛⠛⢻⣿⣾⣿⡇\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⣿⢩⡙⣿⣄⠀⠀⠀⠀⠀⠀⣾⣏⢹⣿⡀\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⡟⢢⠱⡩⢿⣆⠀⠀⠀⠀⢸⣿⢄⠫⡹⠟⠿⣻⣷⣦⡀\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣋⠬⢥⢣⡑⢎⣿⣦⠀⠀⠀⠀⠻⣯⣶⣡⢋⠖⡡⣾⣾⠗\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⢾⣯⣴⣿⣶⡣⣼⣦⣙⣿⡆⠀⠀⠀⠀⠈⠛⠿⣾⣼⣷⣿⡿\r\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠘⠿⠟⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠋"
+          },
+          {
+            "recommendationid": "227080096",
+            "length": 702,
+            "review": "It keeps feezing and bugging. x..x \n\n\nOther than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that's there to make gameplay impossible. -Unlike in some games. Yea, you know what those games are. * glares * \n\nController works somwhat decently so that's definetelly a plus. I also can't wait to see/hear other players play who have not checked the tutorial and about that they can check roles and stuff and be just yeeted out simply for joy of it or when there's believable enough liar amongs us. Psychological horror aspect of these games come from other players and how convincly they can gaslight and manipulate others."
+          }
+        ],
+        "high_critical_10": [
+          {
+            "recommendationid": "227089901",
+            "value": "High Value",
+            "review": "It's like Among Us but with more roles and more maps. If you like Among Us you'll definitely like this onw.  Fun with friends. Will I ever get Raven? Maybe Someday."
+          },
+          {
+            "recommendationid": "227085843",
+            "value": "High Value",
+            "review": "Among Us 2.0. Took the formula, made it more fun, made it free. Kudos"
+          },
+          {
+            "recommendationid": "227080096",
+            "value": "Critical Value",
+            "review": "It keeps feezing and bugging. x..x \n\n\nOther than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that's there to make gameplay impossible. -Unlike in some games. Yea, you know what those games are. * glares * \n\nController works somwhat decently so that's definetelly a plus. I also can't wait to see/hear other players play who have not checked the tutorial and about that they can check roles and stuff and be just yeeted out simply for joy of it or when there's believable enough liar amongs us. Psychological horror aspect of these games come from other players and how convincly they can gaslight and manipulate others."
+          },
+          {
+            "recommendationid": "227027036",
+            "value": "High Value",
+            "review": "gayet güzel bir oyun ama daha bişey yapmadan ne olduğunuzu anlıyolar tavsiye ederim"
+          },
+          {
+            "recommendationid": "226985320",
+            "value": "High Value",
+            "review": "I love this game, its really fun to play with friends and doesn't get boring like others of the same type."
+          },
+          {
+            "recommendationid": "226981301",
+            "value": "High Value",
+            "review": "Jogo muito divertido pra jogar com os amigos. Tem traição, mentiras, acusações falsas e amizades acabando por causa de um pato suspeito.\n\nMas tenho uma preocupação séria: essa classe de Amante ainda vai fazer alguém falar alto demais que é amante de outra pessoa na vida real e vai dar uma confusão gigantesca. 💀\n\nNo mais, excelente jogo para destruir relacionamentos, causar discórdia e rir por horas.\n\n⭐ 10/10 patos suspeitos. 🦆🤣"
+          },
+          {
+            "recommendationid": "226977174",
+            "value": "High Value",
+            "review": "O jogo é absurdamente divertido, apesar de ter sido feito pra mobile. Muito engraçado"
+          },
+          {
+            "recommendationid": "226961609",
+            "value": "High Value",
+            "review": "arkadaşlarımın ne kadar güvenilir olduğunu artık biliyorum"
+          },
+          {
+            "recommendationid": "226811368",
+            "value": "High Value",
+            "review": "Good roles is way better then among us tho players a laking and cosmetics are hard to get but roles maps cosmetics and gamemodes are plenty"
+          },
+          {
+            "recommendationid": "226798222",
+            "value": "High Value",
+            "review": "eğlenceli bir oyun arkadaşlarınızla oynayabilirsiniz"
+          }
+        ],
+        "low_information_10": [
+          {
+            "recommendationid": "227133293",
+            "review": "好玩和朋友玩了一整晚"
+          },
+          {
+            "recommendationid": "227084101",
+            "review": "똑똑해질수 있다!"
+          },
+          {
+            "recommendationid": "227077042",
+            "review": "fgtr"
+          },
+          {
+            "recommendationid": "227063726",
+            "review": "굳"
+          },
+          {
+            "recommendationid": "227061784",
+            "review": "재밌음"
+          },
+          {
+            "recommendationid": "227001933",
+            "review": "不是队友，别刀我"
+          },
+          {
+            "recommendationid": "226977991",
+            "review": "fun"
+          },
+          {
+            "recommendationid": "226957946",
+            "review": "존잼"
+          },
+          {
+            "recommendationid": "226947768",
+            "review": "dildo"
+          },
+          {
+            "recommendationid": "226945066",
+            "review": "好玩"
+          }
+        ]
+      },
+      "scores": {
+        "data_quality_score": 100.0,
+        "operational_insight_score": 17.4,
+        "language_diversity_score": 100.0,
+        "ai_readiness_score": 50.1,
+        "portfolio_readiness_score": 64.4
+      },
+      "verdict": "NO GO"
+    }
+  ]
+}

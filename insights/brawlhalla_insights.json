@@ -1,0 +1,317 @@
+{
+  "game": "Brawlhalla",
+  "generatedAt": "2026-06-04T13:16:29.477434+00:00",
+  "totalReviewsAnalyzed": 700,
+  "negativeReviewCount": 500,
+  "positiveReviewCount": 200,
+  "categoryFrequency": {
+    "other": 594,
+    "balance": 41,
+    "matchmaking": 40,
+    "monetization": 29,
+    "community": 19,
+    "toxicity": 19,
+    "content": 11,
+    "server": 9,
+    "uiux": 6,
+    "performance": 6,
+    "tutorial": 4,
+    "translation": 1
+  },
+  "executiveSummary": [
+    "Brawlhalla: 700 Steam reviews analyzed for live-ops decision support (operations intelligence, not sentiment ratio reporting).",
+    "Priority #1: Balance & Combat Fairness — 41 mentions, critical impact, medium business risk.",
+    "Secondary focus: Matchmaking & Ranked Integrity (40 mentions, critical impact).",
+    "Preserve strengths players explicitly praise: Casual Fun & Entertainment, Free Access & Perceived Value, Character/Mode Variety.",
+    "Recommended operating posture: ship network/matchmaking telemetry first, then monetization clarity, then content cadence communication.",
+    "Risk if unaddressed: elevated churn in ranked segments and rising store-review backlash in priority language regions.",
+    "Next 30-day KPI focus: disconnect rate, ranked queue fairness, new-player D7 retention, and monetization-related negative review velocity."
+  ],
+  "topIssues": [
+    {
+      "priority": 1,
+      "category": "balance",
+      "title": "Balance & Combat Fairness",
+      "frequency": 41,
+      "impact": "critical",
+      "businessRisk": "medium",
+      "issue": "Combat Balance & Meta Health",
+      "evidence": "41 reviews reference balance-related issues. Sample signals: get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex | Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi",
+      "recommendedActions": [
+        "Publish balance patch cadence with telemetry on pick/win rates.",
+        "Target top-outlier legends/weapons with nerfs and counter-picks.",
+        "Run PTR/beta feedback window before ranked-impacting changes.",
+        "Document hitbox and combo tuning rationale for community trust."
+      ],
+      "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement."
+    },
+    {
+      "priority": 2,
+      "category": "matchmaking",
+      "title": "Matchmaking & Ranked Integrity",
+      "frequency": 40,
+      "impact": "critical",
+      "businessRisk": "high",
+      "issue": "Matchmaking Fairness & Skill Integrity",
+      "evidence": "40 reviews reference matchmaking-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game used to be good, but it is completely unplayable with how terribly it lags after each game, in the menu, game doesn't close, etc... They need to stop adding new skins and fix the issues they've been letting pil | Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi",
+      "recommendedActions": [
+        "Audit MMR/Elo spread in ranked queues by region and time slot.",
+        "Introduce smurf-detection heuristics and report feedback loops.",
+        "Cap rank disparity in solo ranked while monitoring queue time.",
+        "Communicate matchmaking policy changes in patch notes."
+      ],
+      "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment."
+    },
+    {
+      "priority": 3,
+      "category": "monetization",
+      "title": "Monetization & Pricing",
+      "frequency": 29,
+      "impact": "critical",
+      "businessRisk": "high",
+      "issue": "Monetization Pressure & Perceived Value",
+      "evidence": "29 reviews reference monetization-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | El peor juego de peleas que he jugado en mi vida. He jugado mas de 4000 horas en PlayStation y casi 100 en pc, y son las peores malditas horas desperdiciadas de mi vida. He gastado perfectamente mas de lo que una familia | This game used to be good, but it is completely unplayable with how terribly it lags after each game, in the menu, game doesn't close, etc... They need to stop adding new skins and fix the issues they've been letting pil",
+      "recommendedActions": [
+        "Review price ladders vs. regional purchasing power.",
+        "Increase earnable currency pathways without paywalling core modes.",
+        "Disclose drop rates and reduce lootbox-style friction where applicable.",
+        "A/B test starter bundles for new-player conversion vs. backlash."
+      ],
+      "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews."
+    },
+    {
+      "priority": 4,
+      "category": "community",
+      "title": "Community & Player Experience",
+      "frequency": 19,
+      "impact": "medium",
+      "businessRisk": "medium",
+      "issue": "Community Health & Social Features",
+      "evidence": "19 reviews reference community-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | ♥♥♥♥ you. ♥♥♥♥ these devs. ♥♥♥♥ everyone that plays this game. this game gives me suicidal toughts and i hope everyone in this ♥♥♥♥♥♥♥ playerbase dies and burns in hell ♥♥♥♥ you all | i  would NOT reccomend this CHUD forsaken game. it has given me the following:\r Acanthosis nigricansAchalasiaAchondroplasiaAcromegalyAcute lymphoblastic leukemiaAcute myeloid leukemiaAddison's diseaseAdenomyosisAdrenoleu",
+      "recommendedActions": [
+        "Improve report/mute pipeline SLAs and feedback to reporters.",
+        "Incentivize positive comms (commendations, party rewards).",
+        "Staff community managers for region-specific Discord/forum response."
+      ],
+      "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion."
+    },
+    {
+      "priority": 5,
+      "category": "toxicity",
+      "title": "Toxicity & Fair Play",
+      "frequency": 19,
+      "impact": "medium",
+      "businessRisk": "high",
+      "issue": "Toxicity & Cheating",
+      "evidence": "19 reviews reference toxicity-related issues. Sample signals: this game is horrible. No matter what I do its always lagging. I have a nice pc and everything else runs fine. Aside from that the majority of the people playing are extremely toxic and stressful to play with. Let me thi | Satan himself made this game. I've never wanted to kill someone, but this game changed that — of course, I'm only joking :). I wouldn't recommend this game to my worst enemy. It's the most toxic game I've ever played; yo | worst game ive ever played. everyone is toxic, the game sucks, it makes me angry. i want my 400 hours back.",
+      "recommendedActions": [
+        "Escalate auto-moderation for slurs and harassment with appeal flow.",
+        "Deploy anti-cheat telemetry review for spike reports post-patch.",
+        "Publish enforcement transparency report monthly."
+      ],
+      "expectedImpact": "Safer social play, higher friend retention, reduced brand risk."
+    },
+    {
+      "priority": 6,
+      "category": "server",
+      "title": "Server Stability & Netcode",
+      "frequency": 9,
+      "impact": "critical",
+      "businessRisk": "high",
+      "issue": "Server Instability & Network Quality",
+      "evidence": "9 reviews reference server-related issues. Sample signals: Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | This game used to be good, but it is completely unplayable with how terribly it lags after each game, in the menu, game doesn't close, etc... They need to stop adding new skins and fix the issues they've been letting pil | This absolute hell hole of a game has completely and utterly destroyed my life. I used to be a normal person with a future, but this digital satan spawn has reduced my mental state to actual rubble. The Cs2 community loo",
+      "recommendedActions": [
+        "Monitor packet loss and disconnect rate by region and ISP.",
+        "Separate ranked and casual network telemetry dashboards.",
+        "Run incident postmortems on peak-hour lag spikes with rollback criteria.",
+        "Publish a network status page when regional degradation exceeds SLA."
+      ],
+      "expectedImpact": "Reduced session frustration, improved ranked trust, and lower churn among competitive players."
+    },
+    {
+      "priority": 7,
+      "category": "content",
+      "title": "Content Depth & Live Ops",
+      "frequency": 11,
+      "impact": "medium",
+      "businessRisk": "medium",
+      "issue": "Content Freshness & Variety",
+      "evidence": "11 reviews reference content-related issues. Sample signals: Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi | Every time the game gets an update I feel the goal is to have as many players quit the game as possible. | Do NOT EVER EVER touch this game. it may look nice at first BUT: It has the most toxic community I have EVER seen in a game. The rage potential from this game is so high even the calmest person will get to the point of d",
+      "recommendedActions": [
+        "Accelerate rotating events and mode variety in live ops calendar.",
+        "Communicate roadmap for maps/modes/characters players request most.",
+        "Bundle stale-period retention offers tied to returning-player quests."
+      ],
+      "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth."
+    },
+    {
+      "priority": 8,
+      "category": "performance",
+      "title": "Client Performance & Stability",
+      "frequency": 6,
+      "impact": "high",
+      "businessRisk": "high",
+      "issue": "Client Performance & Technical Reliability",
+      "evidence": "6 reviews reference performance-related issues. Sample signals: this game pulls out the worst of me im a patient person this game manages to break that i will take my revenge against these people. the sky will rain red tonight. this game is so dumb i dont even understand why anyone p | this game is horrible people genuinely walk through my sigs and half the time when i hit someone it shows i hit them then it freeze frames into a time where i apparently didnt hit them the devs are genuinely incompetent  | Dont have 1 good memory of this game",
+      "recommendedActions": [
+        "Profile crash and freeze clusters by device tier and OS version.",
+        "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+        "Add automated regression tests for loading-time and memory spikes.",
+        "Ship hotfix channel for game-breaking bugs within 48h SLA."
+      ],
+      "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery."
+    }
+  ],
+  "positiveDrivers": [
+    {
+      "driver": "Casual Fun & Entertainment",
+      "mentionCount": 28,
+      "preserveActions": [
+        "Avoid over-tuning casual modes for hardcore-only meta.",
+        "Celebrate community clips and meme-friendly modes."
+      ],
+      "examples": [
+        "This game is super fun and enjoyable it gets really addicting but might make you break your monitor or keyboard just so you know don't play with your close frie",
+        "free fun and coop"
+      ]
+    },
+    {
+      "driver": "Free Access & Perceived Value",
+      "mentionCount": 12,
+      "preserveActions": [
+        "Protect core modes from paywall expansion.",
+        "Highlight free progression paths in store and onboarding."
+      ],
+      "examples": [
+        "free fun and coop",
+        "pretty solid game if you like the whole smash bros concept but free to play, in my opinion the game generates a lot of skill, and talent. Id highly recommend th"
+      ]
+    },
+    {
+      "driver": "Character/Mode Variety",
+      "mentionCount": 10,
+      "preserveActions": [
+        "Keep rotating content cadence visible on roadmap.",
+        "Balance new releases between casual and ranked players."
+      ],
+      "examples": [
+        "[b]Ce que j'ai aimé :[/b] [list] [*]⚔️ Le système de deux armes par Légende renouvelle totalement le moveset au milieu d'un combat et ajoute une vraie couche st",
+        "this game is like multiversus except somehow it has players even after 10 years. 1v1s are a bit sad because people only play S tier top seed characters like cas"
+      ]
+    },
+    {
+      "driver": "Play With Friends & Social Sessions",
+      "mentionCount": 9,
+      "preserveActions": [
+        "Maintain party/squad stability and friend-invite rewards.",
+        "Promote co-play events in weekends and holidays."
+      ],
+      "examples": [
+        "This game is super fun and enjoyable it gets really addicting but might make you break your monitor or keyboard just so you know don't play with your close frie",
+        "free fun and coop"
+      ]
+    },
+    {
+      "driver": "Events & Live Updates",
+      "mentionCount": 3,
+      "preserveActions": [
+        "Sustain seasonal events with clear earn rules.",
+        "Pre-announce update beats to reduce 'stale game' sentiment."
+      ],
+      "examples": [
+        "[b]Ce que j'ai aimé :[/b] [list] [*]⚔️ Le système de deux armes par Légende renouvelle totalement le moveset au milieu d'un combat et ajoute une vraie couche st",
+        "Brawlhalla is a really fun and addictive free-to-play platform fighting game that’s perfect for playing with friends on the same PC. The gameplay is smooth, the"
+      ]
+    }
+  ],
+  "languageAnalysis": [
+    {
+      "region": "english",
+      "reviewCount": 390,
+      "topComplaints": [
+        "Matchmaking & Ranked Integrity",
+        "Balance & Combat Fairness",
+        "Monetization & Pricing",
+        "Toxicity & Fair Play"
+      ],
+      "topStrengths": [
+        "Fun And Casual Enjoyment",
+        "Free Access And Value",
+        "Friends And Social Play",
+        "Character And Content Variety"
+      ],
+      "operatorActions": [
+        "[english] Audit MMR/Elo spread in ranked queues by region and time slot.",
+        "[english] Publish balance patch cadence with telemetry on pick/win rates."
+      ]
+    },
+    {
+      "region": "brazil_portuguese",
+      "reviewCount": 91,
+      "topComplaints": [
+        "Matchmaking & Ranked Integrity",
+        "Balance & Combat Fairness",
+        "Community & Player Experience",
+        "Monetization & Pricing"
+      ],
+      "topStrengths": [
+        "Social fun",
+        "Accessibility"
+      ],
+      "operatorActions": [
+        "[brazil_portuguese] Audit MMR/Elo spread in ranked queues by region and time slot.",
+        "[brazil_portuguese] Publish balance patch cadence with telemetry on pick/win rates."
+      ]
+    },
+    {
+      "region": "spanish",
+      "reviewCount": 76,
+      "topComplaints": [
+        "Matchmaking & Ranked Integrity",
+        "Balance & Combat Fairness",
+        "Monetization & Pricing",
+        "Toxicity & Fair Play"
+      ],
+      "topStrengths": [
+        "Social fun",
+        "Accessibility"
+      ],
+      "operatorActions": [
+        "[spanish] Audit MMR/Elo spread in ranked queues by region and time slot.",
+        "[spanish] Publish balance patch cadence with telemetry on pick/win rates."
+      ]
+    }
+  ],
+  "topOperatorActions": [
+    {
+      "priority": 1,
+      "category": "balance",
+      "actionSummary": "Publish balance patch cadence with telemetry on pick/win rates.",
+      "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement."
+    },
+    {
+      "priority": 2,
+      "category": "matchmaking",
+      "actionSummary": "Audit MMR/Elo spread in ranked queues by region and time slot.",
+      "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment."
+    },
+    {
+      "priority": 3,
+      "category": "monetization",
+      "actionSummary": "Review price ladders vs. regional purchasing power.",
+      "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews."
+    },
+    {
+      "priority": 4,
+      "category": "community",
+      "actionSummary": "Improve report/mute pipeline SLAs and feedback to reporters.",
+      "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion."
+    },
+    {
+      "priority": 5,
+      "category": "toxicity",
+      "actionSummary": "Escalate auto-moderation for slurs and harassment with appeal flow.",
+      "expectedImpact": "Safer social play, higher friend retention, reduced brand risk."
+    }
+  ]
+}

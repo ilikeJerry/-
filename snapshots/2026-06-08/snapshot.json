@@ -1,0 +1,25 @@
+{
+  "snapshotDate": "2026-06-08",
+  "simulationMode": true,
+  "label": "Mid-week — Jun 8",
+  "categories": {
+    "balance": 31,
+    "matchmaking": 28,
+    "server": 26,
+    "monetization": 45,
+    "performance": 18,
+    "content": 20,
+    "community": 15,
+    "toxicity": 14,
+    "tutorial": 5,
+    "uiux": 7,
+    "translation": 3,
+    "advertisement": 2
+  },
+  "languageRegions": {
+    "english": 880,
+    "brazil_portuguese": 225,
+    "spanish": 80
+  },
+  "criticalIssueCount": 5
+}

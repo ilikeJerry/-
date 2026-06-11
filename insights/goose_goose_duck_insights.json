@@ -1,0 +1,316 @@
+{
+  "game": "Goose Goose Duck",
+  "generatedAt": "2026-06-04T13:16:30.300790+00:00",
+  "totalReviewsAnalyzed": 700,
+  "negativeReviewCount": 500,
+  "positiveReviewCount": 200,
+  "categoryFrequency": {
+    "other": 670,
+    "content": 12,
+    "community": 6,
+    "toxicity": 5,
+    "monetization": 4,
+    "matchmaking": 4,
+    "server": 2,
+    "uiux": 2,
+    "tutorial": 2,
+    "balance": 2,
+    "performance": 1
+  },
+  "executiveSummary": [
+    "Goose Goose Duck: 700 Steam reviews analyzed for live-ops decision support (operations intelligence, not sentiment ratio reporting).",
+    "Priority #1: Content Depth & Live Ops — 12 mentions, medium impact, medium business risk.",
+    "Secondary focus: Matchmaking & Ranked Integrity (4 mentions, high impact).",
+    "Preserve strengths players explicitly praise: Social Deduction Gameplay, Casual Fun & Entertainment, Character/Mode Variety.",
+    "Recommended operating posture: ship network/matchmaking telemetry first, then monetization clarity, then content cadence communication.",
+    "Risk if unaddressed: elevated churn in ranked segments and rising store-review backlash in priority language regions.",
+    "Next 30-day KPI focus: disconnect rate, ranked queue fairness, new-player D7 retention, and monetization-related negative review velocity."
+  ],
+  "topIssues": [
+    {
+      "priority": 1,
+      "category": "content",
+      "title": "Content Depth & Live Ops",
+      "frequency": 12,
+      "impact": "medium",
+      "businessRisk": "medium",
+      "issue": "Content Freshness & Variety",
+      "evidence": "12 reviews reference content-related issues. Sample signals: I was on my way onto the emergency button While being chased by a sniper and I SWEAR i pressed the button before he shot and THEN I GET KILLED AND WE LOOSE THE ROUND IT IS THE MOST INFURIATING ♥♥♥♥ EVER AND ALSO THE TASK | I am absolutely outraged by this situation. If you download the game on Apple and link your account to Game Center, you have NO way to log into your leveled-up account from a PC. Contacting support did nothing — they jus | It's an unusual game, but I didn't really like it, the gameplay is boring and the players are aggressive(",
+      "recommendedActions": [
+        "Accelerate rotating events and mode variety in live ops calendar.",
+        "Communicate roadmap for maps/modes/characters players request most.",
+        "Bundle stale-period retention offers tied to returning-player quests."
+      ],
+      "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth."
+    },
+    {
+      "priority": 2,
+      "category": "matchmaking",
+      "title": "Matchmaking & Ranked Integrity",
+      "frequency": 4,
+      "impact": "high",
+      "businessRisk": "high",
+      "issue": "Matchmaking Fairness & Skill Integrity",
+      "evidence": "4 reviews reference matchmaking-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience | Such a bad game, says the lobby is 18+ and im here with my old age and they still ♥♥♥♥♥♥♥ kick me, multiple times... dont even let you explain and just kick you. ugly game and ugly players | couldn't ever get my mic to work other than in a lobby by myself so i kept getting kicked from games.",
+      "recommendedActions": [
+        "Audit MMR/Elo spread in ranked queues by region and time slot.",
+        "Introduce smurf-detection heuristics and report feedback loops.",
+        "Cap rank disparity in solo ranked while monitoring queue time.",
+        "Communicate matchmaking policy changes in patch notes."
+      ],
+      "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment."
+    },
+    {
+      "priority": 3,
+      "category": "community",
+      "title": "Community & Player Experience",
+      "frequency": 6,
+      "impact": "low",
+      "businessRisk": "medium",
+      "issue": "Community Health & Social Features",
+      "evidence": "6 reviews reference community-related issues. Sample signals: Everyone in this game has a brain dumber than a rotten banana, i told everyone my role during a meeting and 1 stupid user said that i wasnt and thats his role, i said i is, but when voting time came? EVERYONE VOTED ME, L | Hayatımda gördüğüm en *mcı community | I would love to say something good about this game, however the community is so toxic, I sadly can't, I played for 1 hour, and uninstalled. This game is even more filled with racists and sexists than any other game I've ",
+      "recommendedActions": [
+        "Improve report/mute pipeline SLAs and feedback to reporters.",
+        "Incentivize positive comms (commendations, party rewards).",
+        "Staff community managers for region-specific Discord/forum response."
+      ],
+      "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion."
+    },
+    {
+      "priority": 4,
+      "category": "monetization",
+      "title": "Monetization & Pricing",
+      "frequency": 4,
+      "impact": "medium",
+      "businessRisk": "high",
+      "issue": "Monetization Pressure & Perceived Value",
+      "evidence": "4 reviews reference monetization-related issues. Sample signals: Pathetic microtransaction money mill aimed at small children, including casino mechanics. Shouldn't be published on Steam. | I think there are always free version of popular paid for games. I'm okay with these, but I find this one very uninteresting. Would not recommend you try out and would rather cough up the money for Among Us then even att | Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and player deception and expands it into a much larger, more fe",
+      "recommendedActions": [
+        "Review price ladders vs. regional purchasing power.",
+        "Increase earnable currency pathways without paywalling core modes.",
+        "Disclose drop rates and reduce lootbox-style friction where applicable.",
+        "A/B test starter bundles for new-player conversion vs. backlash."
+      ],
+      "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews."
+    },
+    {
+      "priority": 5,
+      "category": "toxicity",
+      "title": "Toxicity & Fair Play",
+      "frequency": 5,
+      "impact": "low",
+      "businessRisk": "high",
+      "issue": "Toxicity & Cheating",
+      "evidence": "5 reviews reference toxicity-related issues. Sample signals: Unable to play because the Anti cheat thinks that I have a cheating software even though that just the Asus sync | Oynanış açısından hiç bir sıkıntı yok ancak istediğiniz lobiye giremiyorsunuz, ya amcı orospu evlatları sizi erkek olduğunuz için atıyor ya da hiç bir sebebi yokken durduk yere lobiden atılabiliyorsunuz. Eğlenmeye bir oy | I would love to say something good about this game, however the community is so toxic, I sadly can't, I played for 1 hour, and uninstalled. This game is even more filled with racists and sexists than any other game I've ",
+      "recommendedActions": [
+        "Escalate auto-moderation for slurs and harassment with appeal flow.",
+        "Deploy anti-cheat telemetry review for spike reports post-patch.",
+        "Publish enforcement transparency report monthly."
+      ],
+      "expectedImpact": "Safer social play, higher friend retention, reduced brand risk."
+    },
+    {
+      "priority": 6,
+      "category": "tutorial",
+      "title": "Onboarding & Tutorial",
+      "frequency": 2,
+      "impact": "medium",
+      "businessRisk": "medium",
+      "issue": "Onboarding & New Player Experience",
+      "evidence": "2 reviews reference tutorial-related issues. Sample signals: It keeps feezing and bugging. x..x    Other than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that's there to make gameplay impossible. -U | Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and player deception and expands it into a much larger, more fe",
+      "recommendedActions": [
+        "Shorten tutorial with optional advanced training modules.",
+        "Add guided first-match vs. bots before ranked exposure.",
+        "Track D1/D7 retention split for players who skip tutorial."
+      ],
+      "expectedImpact": "Lower new-user churn and fewer 'confusing for beginners' reviews."
+    },
+    {
+      "priority": 7,
+      "category": "performance",
+      "title": "Client Performance & Stability",
+      "frequency": 1,
+      "impact": "critical",
+      "businessRisk": "high",
+      "issue": "Client Performance & Technical Reliability",
+      "evidence": "1 reviews reference performance-related issues. Sample signals: you need to sign away your rights, manually create an account and have chat restrictions in a closed friends lobby only for the game to crash in half an hour. bad experience",
+      "recommendedActions": [
+        "Profile crash and freeze clusters by device tier and OS version.",
+        "Prioritize frame-time stability fixes on low-end mobile and PC specs.",
+        "Add automated regression tests for loading-time and memory spikes.",
+        "Ship hotfix channel for game-breaking bugs within 48h SLA."
+      ],
+      "expectedImpact": "Higher session completion, fewer refund-driven negative reviews, and improved store rating recovery."
+    },
+    {
+      "priority": 8,
+      "category": "balance",
+      "title": "Balance & Combat Fairness",
+      "frequency": 2,
+      "impact": "low",
+      "businessRisk": "medium",
+      "issue": "Combat Balance & Meta Health",
+      "evidence": "2 reviews reference balance-related issues. Sample signals: The game is a great imposter game with there being many more roles then other imposter games (like among us) with most of them serving a purpose and being balanced. Along with that the game is free to play with there bei | Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and player deception and expands it into a much larger, more fe",
+      "recommendedActions": [
+        "Publish balance patch cadence with telemetry on pick/win rates.",
+        "Target top-outlier legends/weapons with nerfs and counter-picks.",
+        "Run PTR/beta feedback window before ranked-impacting changes.",
+        "Document hitbox and combo tuning rationale for community trust."
+      ],
+      "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement."
+    }
+  ],
+  "positiveDrivers": [
+    {
+      "driver": "Social Deduction Gameplay",
+      "mentionCount": 25,
+      "preserveActions": [
+        "Invest in role/map variety without bloating tutorial burden.",
+        "Strengthen moderation for public lobbies."
+      ],
+      "examples": [
+        "if you like among us this is for you",
+        "It's like Among Us but with more roles and more maps. If you like Among Us you'll definitely like this onw.  Fun with friends. Will I ever get Raven? Maybe Some"
+      ]
+    },
+    {
+      "driver": "Casual Fun & Entertainment",
+      "mentionCount": 17,
+      "preserveActions": [
+        "Avoid over-tuning casual modes for hardcore-only meta.",
+        "Celebrate community clips and meme-friendly modes."
+      ],
+      "examples": [
+        "SO ♥♥♥♥♥♥♥ FUN WITH YOUR FRIENDS",
+        "It's like Among Us but with more roles and more maps. If you like Among Us you'll definitely like this onw.  Fun with friends. Will I ever get Raven? Maybe Some"
+      ]
+    },
+    {
+      "driver": "Character/Mode Variety",
+      "mentionCount": 11,
+      "preserveActions": [
+        "Keep rotating content cadence visible on roadmap.",
+        "Balance new releases between casual and ranked players."
+      ],
+      "examples": [
+        "It's like Among Us but with more roles and more maps. If you like Among Us you'll definitely like this onw.  Fun with friends. Will I ever get Raven? Maybe Some",
+        "It keeps feezing and bugging. x..x    Other than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but do"
+      ]
+    },
+    {
+      "driver": "Play With Friends & Social Sessions",
+      "mentionCount": 8,
+      "preserveActions": [
+        "Maintain party/squad stability and friend-invite rewards.",
+        "Promote co-play events in weekends and holidays."
+      ],
+      "examples": [
+        "SO ♥♥♥♥♥♥♥ FUN WITH YOUR FRIENDS",
+        "It's like Among Us but with more roles and more maps. If you like Among Us you'll definitely like this onw.  Fun with friends. Will I ever get Raven? Maybe Some"
+      ]
+    },
+    {
+      "driver": "Free Access & Perceived Value",
+      "mentionCount": 5,
+      "preserveActions": [
+        "Protect core modes from paywall expansion.",
+        "Highlight free progression paths in store and onboarding."
+      ],
+      "examples": [
+        "Among Us 2.0. Took the formula, made it more fun, made it free. Kudos",
+        "The game is a great imposter game with there being many more roles then other imposter games (like among us) with most of them serving a purpose and being balan"
+      ]
+    },
+    {
+      "driver": "Events & Live Updates",
+      "mentionCount": 1,
+      "preserveActions": [
+        "Sustain seasonal events with clear earn rules.",
+        "Pre-announce update beats to reduce 'stale game' sentiment."
+      ],
+      "examples": [
+        "Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and"
+      ]
+    }
+  ],
+  "languageAnalysis": [
+    {
+      "region": "english",
+      "reviewCount": 122,
+      "topComplaints": [
+        "Content Depth & Live Ops",
+        "Matchmaking & Ranked Integrity",
+        "Community & Player Experience",
+        "Toxicity & Fair Play"
+      ],
+      "topStrengths": [
+        "Among Us Style Social Deduction",
+        "Fun And Casual Enjoyment",
+        "Character And Content Variety",
+        "Friends And Social Play"
+      ],
+      "operatorActions": [
+        "[english] Accelerate rotating events and mode variety in live ops calendar.",
+        "[english] Audit MMR/Elo spread in ranked queues by region and time slot."
+      ]
+    },
+    {
+      "region": "brazil_portuguese",
+      "reviewCount": 20,
+      "topComplaints": [
+        "No dominant categorized complaint"
+      ],
+      "topStrengths": [
+        "Among Us Style Social Deduction"
+      ],
+      "operatorActions": [
+        "[brazil_portuguese] Monitor emerging themes weekly; volume=20 reviews."
+      ]
+    },
+    {
+      "region": "spanish",
+      "reviewCount": 6,
+      "topComplaints": [
+        "Server Stability & Netcode"
+      ],
+      "topStrengths": [
+        "Among Us Style Social Deduction"
+      ],
+      "operatorActions": [
+        "[spanish] Monitor packet loss and disconnect rate by region and ISP."
+      ]
+    }
+  ],
+  "topOperatorActions": [
+    {
+      "priority": 1,
+      "category": "content",
+      "actionSummary": "Accelerate rotating events and mode variety in live ops calendar.",
+      "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth."
+    },
+    {
+      "priority": 2,
+      "category": "matchmaking",
+      "actionSummary": "Audit MMR/Elo spread in ranked queues by region and time slot.",
+      "expectedImpact": "Restored competitive fairness perception and reduced ranked abandonment."
+    },
+    {
+      "priority": 3,
+      "category": "community",
+      "actionSummary": "Improve report/mute pipeline SLAs and feedback to reporters.",
+      "expectedImpact": "Healthier multiplayer environment and improved friend-invite conversion."
+    },
+    {
+      "priority": 4,
+      "category": "monetization",
+      "actionSummary": "Review price ladders vs. regional purchasing power.",
+      "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews."
+    },
+    {
+      "priority": 5,
+      "category": "toxicity",
+      "actionSummary": "Escalate auto-moderation for slurs and harassment with appeal flow.",
+      "expectedImpact": "Safer social play, higher friend retention, reduced brand risk."
+    }
+  ]
+}

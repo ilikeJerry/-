@@ -1,0 +1,47 @@
+[
+  {
+    "game": "Brawlhalla",
+    "reviewCount": 700,
+    "mainIssue": "Balance & Combat Fairness",
+    "mainIssueFrequency": 41,
+    "riskLevel": "Critical",
+    "businessRisk": "Medium",
+    "summary": "Priority #1: Balance & Combat Fairness — 41 mentions, critical impact, medium business risk.",
+    "positiveDrivers": [
+      "Casual Fun & Entertainment",
+      "Free Access & Perceived Value",
+      "Character/Mode Variety"
+    ],
+    "recommendedFocus": "Publish balance patch cadence with telemetry on pick/win rates."
+  },
+  {
+    "game": "Stumble Guys",
+    "reviewCount": 700,
+    "mainIssue": "Monetization & Pricing",
+    "mainIssueFrequency": 38,
+    "riskLevel": "High",
+    "businessRisk": "High",
+    "summary": "Priority #1: Monetization & Pricing — 38 mentions, high impact, high business risk.",
+    "positiveDrivers": [
+      "Casual Fun & Entertainment",
+      "Character/Mode Variety",
+      "Free Access & Perceived Value"
+    ],
+    "recommendedFocus": "Review price ladders vs. regional purchasing power."
+  },
+  {
+    "game": "Goose Goose Duck",
+    "reviewCount": 700,
+    "mainIssue": "Content Depth & Live Ops",
+    "mainIssueFrequency": 12,
+    "riskLevel": "Medium",
+    "businessRisk": "Medium",
+    "summary": "Priority #1: Content Depth & Live Ops — 12 mentions, medium impact, medium business risk.",
+    "positiveDrivers": [
+      "Social Deduction Gameplay",
+      "Casual Fun & Entertainment",
+      "Character/Mode Variety"
+    ],
+    "recommendedFocus": "Accelerate rotating events and mode variety in live ops calendar."
+  }
+]

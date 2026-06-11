@@ -1,0 +1,100 @@
+{
+  "generatedAt": "2026-06-04T13:16:30.302635+00:00",
+  "games": [
+    {
+      "game": "Brawlhalla",
+      "topIssue": {
+        "priority": 1,
+        "category": "balance",
+        "title": "Balance & Combat Fairness",
+        "frequency": 41,
+        "impact": "critical",
+        "businessRisk": "medium",
+        "issue": "Combat Balance & Meta Health",
+        "evidence": "41 reviews reference balance-related issues. Sample signals: get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex | Brawlhalla. El nombre solo ya debería ser suficiente advertencia. Una mezcla entre \"brawl\" y \"Valhalla\" que promete combates épicos dignos de guerreros nórdicos y entrega, en cambio, a tu rival haciendo el mismo sig con  | Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a competition and more like a punishment desi",
+        "recommendedActions": [
+          "Publish balance patch cadence with telemetry on pick/win rates.",
+          "Target top-outlier legends/weapons with nerfs and counter-picks.",
+          "Run PTR/beta feedback window before ranked-impacting changes.",
+          "Document hitbox and combo tuning rationale for community trust."
+        ],
+        "expectedImpact": "More diverse meta, fewer 'broken character' narratives, and improved long-term ranked engagement."
+      },
+      "topPositiveDriver": {
+        "driver": "Casual Fun & Entertainment",
+        "mentionCount": 28,
+        "preserveActions": [
+          "Avoid over-tuning casual modes for hardcore-only meta.",
+          "Celebrate community clips and meme-friendly modes."
+        ],
+        "examples": [
+          "This game is super fun and enjoyable it gets really addicting but might make you break your monitor or keyboard just so you know don't play with your close frie",
+          "free fun and coop"
+        ]
+      }
+    },
+    {
+      "game": "Stumble Guys",
+      "topIssue": {
+        "priority": 1,
+        "category": "monetization",
+        "title": "Monetization & Pricing",
+        "frequency": 38,
+        "impact": "high",
+        "businessRisk": "high",
+        "issue": "Monetization Pressure & Perceived Value",
+        "evidence": "38 reviews reference monetization-related issues. Sample signals: ♥♥♥♥ game,  its p2w, theres  so many skins, and  the game is  filled with bots. | This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games | There is more than 30 maps, but you will get 6 same maps all the time on top of pay to win abilities.\r Otherwise good game.",
+        "recommendedActions": [
+          "Review price ladders vs. regional purchasing power.",
+          "Increase earnable currency pathways without paywalling core modes.",
+          "Disclose drop rates and reduce lootbox-style friction where applicable.",
+          "A/B test starter bundles for new-player conversion vs. backlash."
+        ],
+        "expectedImpact": "Lower pay-to-win perception, improved ARPPU/LTV balance, and fewer monetization-driven negative reviews."
+      },
+      "topPositiveDriver": {
+        "driver": "Casual Fun & Entertainment",
+        "mentionCount": 19,
+        "preserveActions": [
+          "Avoid over-tuning casual modes for hardcore-only meta.",
+          "Celebrate community clips and meme-friendly modes."
+        ],
+        "examples": [
+          "Easy, fun, chill game",
+          "peanut would love some pets and treats :)\r 　　 　　🌸＞　　フ\r 　　 　　| 　_　 _ l\r  　　 　／` ミ＿xノ\r 　 　 /　　　 　 |\r 　　 /　 ヽ　　 ﾉ\r  　 │　　|　|　|\r ／￣|　　 |　|　|\r | (￣ヽ＿_ヽ_)__)\r ＼二つ"
+        ]
+      }
+    },
+    {
+      "game": "Goose Goose Duck",
+      "topIssue": {
+        "priority": 1,
+        "category": "content",
+        "title": "Content Depth & Live Ops",
+        "frequency": 12,
+        "impact": "medium",
+        "businessRisk": "medium",
+        "issue": "Content Freshness & Variety",
+        "evidence": "12 reviews reference content-related issues. Sample signals: I was on my way onto the emergency button While being chased by a sniper and I SWEAR i pressed the button before he shot and THEN I GET KILLED AND WE LOOSE THE ROUND IT IS THE MOST INFURIATING ♥♥♥♥ EVER AND ALSO THE TASK | I am absolutely outraged by this situation. If you download the game on Apple and link your account to Game Center, you have NO way to log into your leveled-up account from a PC. Contacting support did nothing — they jus | It's an unusual game, but I didn't really like it, the gameplay is boring and the players are aggressive(",
+        "recommendedActions": [
+          "Accelerate rotating events and mode variety in live ops calendar.",
+          "Communicate roadmap for maps/modes/characters players request most.",
+          "Bundle stale-period retention offers tied to returning-player quests."
+        ],
+        "expectedImpact": "Higher return rate between seasons and stronger positive word-of-mouth."
+      },
+      "topPositiveDriver": {
+        "driver": "Social Deduction Gameplay",
+        "mentionCount": 25,
+        "preserveActions": [
+          "Invest in role/map variety without bloating tutorial burden.",
+          "Strengthen moderation for public lobbies."
+        ],
+        "examples": [
+          "if you like among us this is for you",
+          "It's like Among Us but with more roles and more maps. If you like Among Us you'll definitely like this onw.  Fun with friends. Will I ever get Raven? Maybe Some"
+        ]
+      }
+    }
+  ]
+}

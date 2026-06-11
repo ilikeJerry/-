@@ -1,0 +1,577 @@
+﻿Steam Review Data Quality Check
+Data directory: C:\Users\wjsrj\Downloads\寃뚯엫???꾨윭?앺듃\data
+
+======================================================================
+1. ?뚯씪 議댁옱 ?щ?
+======================================================================
+  brawlhalla_negative_500.json: OK
+  brawlhalla_positive_200.json: OK
+  stumble_guys_negative_500.json: OK
+  stumble_guys_positive_200.json: OK
+  goose_goose_duck_negative_500.json: OK
+  goose_goose_duck_positive_200.json: OK
+
+======================================================================
+2~12. ?뚯씪蹂??곸꽭 寃利?
+======================================================================
+
+--- Brawlhalla Negative ---
+Target: 500
+Actual: 500
+Reviews Length: 500
+Status: OK
+
+[?꾩닔 ?꾨뱶] OK - 紐⑤뱺 由щ럭???꾩닔 ?꾨뱶 議댁옱
+
+[以묐났] ?뚯씪 ?대? 以묐났: 0媛?(怨좎쑀 ID: 500)
+
+[?몄뼱 遺꾪룷 - ?곸쐞 15]
+  english: 292
+  brazilian: 51
+  spanish: 45
+  russian: 27
+  french: 16
+  turkish: 16
+  german: 14
+  latam: 9
+  portuguese: 4
+  swedish: 4
+  italian: 4
+  schinese: 4
+  czech: 3
+  polish: 2
+  tchinese: 2
+
+[由щ럭 湲몄씠 遺꾪룷]
+  0~10?? 75
+  11~20?? 74
+  21~50?? 111
+  51~100?? 89
+  101~300?? 87
+  301???댁긽: 64
+
+[Low Information] 76媛?(15.2%)
+
+[?댁쁺 媛移??깃툒]
+  Low Value: 164媛?(32.8%)
+  Medium Value: 164媛?(32.8%)
+  High Value: 141媛?(28.2%)
+  Critical Value: 31媛?(6.2%)
+
+[?댁쁺 移댄뀒怨좊━ ?ㅼ썙??
+  balance: 31
+  matchmaking: 29
+  community: 21
+  monetization: 17
+  content: 14
+  server: 8
+  uiux: 6
+  performance: 3
+  tutorial: 2
+  translation: 1
+
+[????섑뵆 - 媛??湲?由щ럭 3媛?
+  id=227123495 | len=7876 | Brawlhalla. El nombre solo ya deber챠a ser suficiente advertencia. Una mezcla entre "brawl" y "Valhalla" que promete combates 챕picos dignos de guerreros n처rdicos y entrega, en cambio, a tu rival hacien...
+  id=227043896 | len=7187 | i  would NOT reccomend this CHUD forsaken game. it has given me the following:
+ Acanthosis nigricansAchalasiaAchondroplasiaAcromegalyAcute lymphoblastic leukemiaAcute myeloid leukemiaAddison's disease...
+  id=226989488 | len=2799 | this game pulls out the worst of me im a patient person this game manages to break that i will take my revenge against these people. the sky will rain red tonight. this game is so dumb i dont even und...
+
+[????섑뵆 - High/Critical 10媛?
+  [High Value] id=227148023 | get 0-250 combo without a chance to escape, sometimes get touched by 20 mordex
+  [High Value] id=227134114 | Perro juego desgraciado, bien desbalanceado solo me hace emperrar como lo odio, pero la neta pasas un buen rato con compas. No esta para jugarlo m찼s de dos horas y eso es ser optim
+  [High Value] id=227131664 | bonjour brawhalla, comment d'ATTEEINDRE L'ENFER EN 횋TANT VIVANT J'AI JAMAIS VU AUCUN DE FDP DE MA VIE M횎ME MON EX 횋TAIT MOINS SALOPE QUE SA. NE JAMAIS TOUCHER PARCE QUE MA MAMAN NE
+  [High Value] id=227124054 | Worst game ever created. it feels like straight up hell, the satan himself would be amazed by how bad it is, i hate it with my whole heart.
+  [Critical Value] id=227123495 | Brawlhalla. El nombre solo ya deber챠a ser suficiente advertencia. Una mezcla entre "brawl" y "Valhalla" que promete combates 챕picos dignos de guerreros n처rdicos y entrega, en cambi
+  [High Value] id=227122781 | El peor juego de peleas que he jugado en mi vida. He jugado mas de 4000 horas en PlayStation y casi 100 en pc, y son las peores malditas horas desperdiciadas de mi vida. He gastado
+  [High Value] id=227122301 | Genuinamente um inferno, n찾o deveria ter jogado esse jogo
+  [Critical Value] id=227121123 | This game used to be good, but it is completely unplayable with how terribly it lags after each game, in the menu, game doesn't close, etc... They need to stop adding new skins and
+  [Critical Value] id=227120627 | Brawlhalla is an absolute disaster of a game and a shining example of how to turn a simple platform fighter into a nonstop exercise in irritation. Every match feels less like a com
+  [High Value] id=227096616 | You're gonna think you found your new favorite game until you start hearing those ?β솯?β솯?β솯??saxophones
+
+[????섑뵆 - Low Information 10媛?
+  id=227144998 | 'yuh'
+  id=227105664 | 'jogo lixo'
+  id=227098657 | 'sim'
+  id=227091366 | '?畇逵'
+  id=227086574 | 'ass'
+  id=227083584 | 'good game'
+  id=227070426 | 'boring'
+  id=227070221 | '??
+  id=227068589 | '?뤶퐷揶?
+  id=227061527 | 'zzz'
+
+[?먯닔]
+  Data Quality Score: 100.0
+  Operational Insight Score: 41.3
+  Language Diversity Score: 100.0
+  AI Readiness Score: 68.3
+  Portfolio Readiness Score: 75.8
+
+[理쒖쥌 ?먯젙] PARTIAL GO
+
+--- Brawlhalla Positive ---
+Target: 200
+Actual: 200
+Reviews Length: 200
+Status: OK
+
+[?꾩닔 ?꾨뱶] OK - 紐⑤뱺 由щ럭???꾩닔 ?꾨뱶 議댁옱
+
+[以묐났] ?뚯씪 ?대? 以묐났: 0媛?(怨좎쑀 ID: 200)
+
+[?몄뼱 遺꾪룷 - ?곸쐞 15]
+  english: 98
+  brazilian: 34
+  spanish: 20
+  turkish: 11
+  russian: 8
+  french: 7
+  german: 6
+  dutch: 3
+  latam: 2
+  portuguese: 2
+  schinese: 2
+  czech: 2
+  indonesian: 1
+  japanese: 1
+  italian: 1
+
+[由щ럭 湲몄씠 遺꾪룷]
+  0~10?? 68
+  11~20?? 15
+  21~50?? 45
+  51~100?? 25
+  101~300?? 27
+  301???댁긽: 20
+
+[Low Information] 69媛?(34.5%)
+
+[?댁쁺 媛移??깃툒]
+  Low Value: 93媛?(46.5%)
+  Medium Value: 62媛?(31.0%)
+  High Value: 33媛?(16.5%)
+  Critical Value: 12媛?(6.0%)
+
+[?댁쁺 移댄뀒怨좊━ ?ㅼ썙??
+  balance: 10
+  matchmaking: 8
+  monetization: 7
+  community: 4
+  content: 3
+  performance: 1
+  server: 1
+  tutorial: 1
+  uiux: 1
+
+[????섑뵆 - 媛??湲?由щ럭 3媛?
+  id=227112801 | len=3081 | This game mind look like its free but it really isn't because you need to save up your money for all the physical and mental damage that this game can cause you. Here's just a few(1%), one last thing ...
+  id=226900671 | len=3010 | Brawlhalla Review  Since its release in 2017, Brawlhalla has pulled off a rare feat: establishing itself as the "people's Smash Bros" without ever feeling like a cheap, low-cost knockoff. It is a game...
+  id=227043265 | len=2174 | Dieses Spiel ist der gr철횩te Abschaum der die Menschheit je hervorgebracht hat. Wenn du ein Masochist bist, ist dieses Spiel genau das richtige f체r dich. Wenn du es liebst, auf einmal all deine hart er...
+
+[????섑뵆 - High/Critical 10媛?
+  [High Value] id=227125154 | This game is super fun and enjoyable it gets really addicting but might make you break your monitor or keyboard just so you know don't play with your close friends because they wil
+  [High Value] id=227122990 | pretty solid game if you like the whole smash bros concept but free to play, in my opinion the game generates a lot of skill, and talent. Id highly recommend this game to anyone lo
+  [High Value] id=227121441 | What a fun game! I?셫 a Hattori main and all I use are the special attacks and 90% of the time they always manage to land. The players are pretty toxic idk why, they always spam a t
+  [High Value] id=227112801 | This game mind look like its free but it really isn't because you need to save up your money for all the physical and mental damage that this game can cause you. Here's just a few(
+  [High Value] id=227111202 | Zaman캇nda en yak캇n arkada힊캇mla nintendo switch ile oynuyorduk, 캇rk챌캇l캇k olarak almay캇n ama siyahi bir karakterin hareketleri 챌ok komi휓imize giderdi. Hey gidi g체nler. G체zel oyun ve 
+  [High Value] id=227110286 | ?β솯?β솯 this retarded ass game, now im addicted. better than league i guess
+  [High Value] id=227107004 | mid, sweaty ahh people on it. my friend has 2800+ hours still he's bad at it.
+  [High Value] id=227105139 | eu conhe챌o o jogo desde que lan챌ou, mas eu comecei a jogar mesmo desde 2021 durante a pandemia e o jogo foi muito importante nesse periodo e pelos motivos ainda 챕 ate hoje: 챕 um jo
+  [High Value] id=227096118 | Si te gusta jugar con un amigo y relajarte a full sabes, no estresarte roper el monitor y destrozar todo mi setup por un puto imugi en 2v2 rank deberias instalarlo y jugarlo al 100
+  [High Value] id=227089533 | sig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig sigsig s
+
+[????섑뵆 - Low Information 10媛?
+  id=227126089 | 'n'
+  id=227125288 | 'buen juego'
+  id=227123881 | 'si'
+  id=227120398 | 'the best'
+  id=227119909 | 'ta weno'
+  id=227117507 | 'bom'
+  id=227102846 | 'sinto nojo'
+  id=227097383 | 'Adictivo'
+  id=227091105 | 'wtf'
+  id=227090696 | 'good game'
+
+[?먯닔]
+  Data Quality Score: 100.0
+  Operational Insight Score: 27.0
+  Language Diversity Score: 100.0
+  AI Readiness Score: 55.1
+  Portfolio Readiness Score: 68.3
+
+[理쒖쥌 ?먯젙] PARTIAL GO
+
+--- Stumble Guys Negative ---
+Target: 500
+Actual: 500
+Reviews Length: 500
+Status: OK
+
+[?꾩닔 ?꾨뱶] OK - 紐⑤뱺 由щ럭???꾩닔 ?꾨뱶 議댁옱
+
+[以묐났] ?뚯씪 ?대? 以묐났: 0媛?(怨좎쑀 ID: 500)
+
+[?몄뼱 遺꾪룷 - ?곸쐞 15]
+  english: 137
+  brazilian: 86
+  spanish: 54
+  russian: 52
+  polish: 48
+  turkish: 27
+  german: 24
+  latam: 17
+  italian: 10
+  ukrainian: 7
+  french: 7
+  portuguese: 6
+  schinese: 5
+  swedish: 3
+  hungarian: 3
+
+[由щ럭 湲몄씠 遺꾪룷]
+  0~10?? 84
+  11~20?? 99
+  21~50?? 113
+  51~100?? 97
+  101~300?? 87
+  301???댁긽: 20
+
+[Low Information] 90媛?(18.0%)
+
+[?댁쁺 媛移??깃툒]
+  Low Value: 190媛?(38.0%)
+  Medium Value: 181媛?(36.2%)
+  High Value: 118媛?(23.6%)
+  Critical Value: 11媛?(2.2%)
+
+[?댁쁺 移댄뀒怨좊━ ?ㅼ썙??
+  monetization: 31
+  content: 20
+  performance: 9
+  matchmaking: 6
+  balance: 4
+  server: 4
+  community: 3
+  uiux: 3
+  advertisement: 2
+
+[????섑뵆 - 媛??湲?由щ럭 3媛?
+  id=220278696 | len=8000 | 理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻???덊븿?理쒖쟻??...
+  id=224371457 | len=3033 | Stumble guys looks like a Fall Guys ripoff. Has the same elements of Fall Guys. Could even really find real people in-game. Go download fall guys on epic and play that masterpiece instead.  Stumble Gu...
+  id=221222532 | len=1803 | Stumble Guys no es un juego. Stumble Guys es un CRIMEN CONTRA LA HUMANIDAD disfrazado de juego multijugador. Es el equivalente digital a que te inviten a una fiesta, te den un trago de jarabe para la ...
+
+[????섑뵆 - High/Critical 10媛?
+  [High Value] id=227056904 | Played 2 hours, and I've only seen 4 levels. Do the other maps in the cycle even exist?
+  [High Value] id=227019416 | UNA MIERDA ABSOLUTA CUANDO LO VI ME DIERON GANAS DE VOMITAR ES UN JUEGO ATROS ESPERO QUE A LOS QUE LO DISE횗ARON SE LE METAN TROPECIENTOS ENANOS POR EL FUNDILLO gracias.
+  [High Value] id=226971620 | Una bazofia total. Copia descarada de Fall Guys, aburrido si no gastas dinero, siempre los mismos mapas que ya me tienen hasta los cojones y lleno de bots. Le met챠 varias horas sol
+  [High Value] id=226783335 | Antes era um jogo bem p2w, mas agora esta jog찼vel tirando os poder roubado claro. Ficou um jogo bem sem gra챌a, muito repetitivo.
+  [High Value] id=226746176 | ?β솯?β솯 game,  its p2w, theres  so many skins, and  the game is  filled with bots.
+  [High Value] id=226727713 | BENCE 횉COK K횜T횥 B캅R OYUN BU OYUN Y횥Z횥NDEN SAHURUMU YAPAMADIM KA횉IRDIM SAHURU ORU횉 TUTAMADIM
+  [High Value] id=226652101 | This game is EXTREMLY addictive and half the time your just crashing out because its all luck. ITS LITTERALLY GAMBALING. It does not bring you joy, It just disconnects you from the
+  [High Value] id=226373039 | This game is boring and dont know how they make it in pc because you should pay your money for a spin can you get gems without money its so hard not like other games
+  [High Value] id=226359500 | Schmutz. Funktioniert anfangs ganz gut, dann pl철tzlich werde ich gekickt. Nat체rlich f채llt euch nichts besseres ein als meine Internetverbindung verantwortlich zu machen. Seltsam, a
+  [Critical Value] id=226339228 | I Don't recommend this game because it has (P2W) Cosmetics and when i play ranked a few hours this game freezes on my pc for no reason and then i have to launch the game again to b
+
+[????섑뵆 - Low Information 10媛?
+  id=226975493 | 'FDASAFA'
+  id=226905898 | 'uma merda'
+  id=226848208 | 'guwno'
+  id=226467275 | '?β솯?β솯'
+  id=226435680 | '6767667677676767676767676767676767'
+  id=226355060 | 'bad'
+  id=226346170 | 'Pay to win'
+  id=226218340 | 'no.'
+  id=226159907 | 'GOWNO GRA'
+  id=226060134 | '?β솯?β솯 game.'
+
+[?먯닔]
+  Data Quality Score: 100.0
+  Operational Insight Score: 31.0
+  Language Diversity Score: 100.0
+  AI Readiness Score: 62.6
+  Portfolio Readiness Score: 71.5
+
+[理쒖쥌 ?먯젙] PARTIAL GO
+
+--- Stumble Guys Positive ---
+Target: 200
+Actual: 200
+Reviews Length: 200
+Status: OK
+
+[?꾩닔 ?꾨뱶] OK - 紐⑤뱺 由щ럭???꾩닔 ?꾨뱶 議댁옱
+
+[以묐났] ?뚯씪 ?대? 以묐났: 0媛?(怨좎쑀 ID: 200)
+
+[?몄뼱 遺꾪룷 - ?곸쐞 15]
+  english: 59
+  brazilian: 46
+  spanish: 26
+  polish: 18
+  russian: 14
+  turkish: 12
+  portuguese: 5
+  french: 4
+  latam: 3
+  italian: 3
+  german: 2
+  ukrainian: 2
+  hungarian: 2
+  swedish: 2
+  danish: 1
+
+[由щ럭 湲몄씠 遺꾪룷]
+  0~10?? 87
+  11~20?? 35
+  21~50?? 34
+  51~100?? 25
+  101~300?? 13
+  301???댁긽: 6
+
+[Low Information] 90媛?(45.0%)
+
+[?댁쁺 媛移??깃툒]
+  Low Value: 131媛?(65.5%)
+  Medium Value: 40媛?(20.0%)
+  High Value: 26媛?(13.0%)
+  Critical Value: 3媛?(1.5%)
+
+[?댁쁺 移댄뀒怨좊━ ?ㅼ썙??
+  monetization: 7
+  content: 3
+
+[????섑뵆 - 媛??湲?由щ럭 3媛?
+  id=226902516 | len=5470 | e uma boa diversao!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!...
+  id=227080946 | len=4032 | :steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambored::steambo...
+  id=226781822 | len=1686 | Stumble Guys is a fun little game that offers a quick rush of dopamine for when you are bored. The main purpose of the game is to be the first stubeling guy to make it to the finish line first, While ...
+
+[????섑뵆 - High/Critical 10媛?
+  [High Value] id=227108456 | N찾o tem muito o que falar, o jogo 챕 simples mas 챕 divertido.
+  [High Value] id=227091206 | tbh, fall guys is suffering from non-contents rn, this might be the best alternative for it.
+  [High Value] id=227090603 | this game is so fun but can you guys make a trading sytem maybe where you can trade skins
+  [High Value] id=227075751 | I really love this game i got special skin in stumble guys
+  [High Value] id=227060289 | Stumble Guys ofrece una experiencia de entretenimiento directa y accesible. Es el t챠tulo ideal para partidas casuales; su dise챰o equilibra la diversi처n de manera precisa, sin caer 
+  [High Value] id=227050674 | MUITAS MAIS MUITAS COISAS LEGAIS MESMO SKINS MAPAS E MUITO MAIS SE DIVIRTA
+  [High Value] id=227048932 | Stumble Guys is pretty cool, although it's an fall guys copy, it's a really nice experience, and IT'S FREE!
+  [High Value] id=227036964 | GOOD QUALITY. Try this game! It has insane ways to play like: Friendly battle, normal mode, stumble pass, 10+ wheels(for gems of course), and more! 20+ modes!!! W game
+  [High Value] id=226983536 | muito dificil pegar skill mas 챕 muito bom recomendo.
+  [High Value] id=226980933 | eu jogo desde 2022 no cll, e mudou bastante desde l찼. Ficou um gr찼fico bonito nessa vers찾o, mas a jogabilidade e as burlas mudaram
+
+[????섑뵆 - Low Information 10媛?
+  id=227128320 | 'bom'
+  id=227127455 | 'idk why'
+  id=227120391 | 'git gra'
+  id=227114877 | '3'
+  id=227112573 | 'muito bom'
+  id=227107872 | 'gut'
+  id=227104370 | 'good'
+  id=227103264 | '챌챌'
+  id=227101312 | 'Its Fun'
+  id=227095361 | '챌ok iyi'
+
+[?먯닔]
+  Data Quality Score: 100.0
+  Operational Insight Score: 17.4
+  Language Diversity Score: 100.0
+  AI Readiness Score: 47.1
+  Portfolio Readiness Score: 63.5
+
+[理쒖쥌 ?먯젙] NO GO
+
+--- Goose Goose Duck Negative ---
+Target: 500
+Actual: 500
+Reviews Length: 500
+Status: OK
+
+[?꾩닔 ?꾨뱶] OK - 紐⑤뱺 由щ럭???꾩닔 ?꾨뱶 議댁옱
+
+[以묐났] ?뚯씪 ?대? 以묐났: 0媛?(怨좎쑀 ID: 500)
+
+[?몄뼱 遺꾪룷 - ?곸쐞 15]
+  schinese: 208
+  russian: 118
+  english: 64
+  turkish: 55
+  koreana: 22
+  brazilian: 6
+  tchinese: 5
+  hungarian: 5
+  german: 3
+  czech: 3
+  spanish: 3
+  portuguese: 2
+  polish: 1
+  swedish: 1
+  thai: 1
+
+[由щ럭 湲몄씠 遺꾪룷]
+  0~10?? 127
+  11~20?? 92
+  21~50?? 120
+  51~100?? 79
+  101~300?? 56
+  301???댁긽: 26
+
+[Low Information] 132媛?(26.4%)
+
+[?댁쁺 媛移??깃툒]
+  Low Value: 225媛?(45.0%)
+  Medium Value: 221媛?(44.2%)
+  High Value: 49媛?(9.8%)
+  Critical Value: 5媛?(1.0%)
+
+[?댁쁺 移댄뀒怨좊━ ?ㅼ썙??
+  content: 6
+  community: 5
+  server: 2
+  balance: 1
+  monetization: 1
+  performance: 1
+  uiux: 1
+
+[????섑뵆 - 媛??湲?由щ럭 3媛?
+  id=224812760 | len=1568 | ?뺣쭚 ?붿쭅??由щ럭?낅땲?? ?щ엺?ㅼ씠 寃뚯엫??紐삵븯?붽굔 ?꾨땶???덈Т 媛먯젙?곸엯?덈떎. ?먮옒 ?대윴 留덊뵾??寃뚯엫???ㅽ빐瑜?諛쏆쓣 ???덇퀬, ?ㅽ빐瑜????섎룄 ?덇퀬, 吏紐⑹쓣 ?뱁븷 ?섎룄 ?덇퀬, ?듭슱?섍쾶 二쎌쓣 ?섎룄 ?덉뼱?? 洹몃윴 嫄?媛먯븞?섏? ?딄퀬 ??寃뚯엫???섎㈃ ?ъ궗嫄닿굔 ?뱀뿰???붽? ???섎컰???놁? ?딅굹?? 萸? ?대젃寃??덉륫遺덊뿀??寃뚯엫?먯꽌 蹂몄씤? 臾댁“嫄??ㅻ옒 ?댁븘?④퀬 瑗??닿꺼??..
+  id=220600779 | len=1540 | 訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯訝쒎뙒雅뷴눣亦↑?力ⓩ꼷?ㄱ竊곦툥?쀤볶?뷸깹瑥룡낏?륆윣∽펯...
+  id=217056870 | len=855 | So I have played this game for 1661 hours at the time of my review. I am leaving a negative review because how is it that a game in 2026 doesn't allow you to change your email address?
+ 
+ I have spent...
+
+[????섑뵆 - High/Critical 10媛?
+  [High Value] id=226667305 | jogo muito ruim   arthurgsanches26 voc챗 me paga por ter feito eu jogar essa merda
+  [High Value] id=226575194 | o챌 Biraz kafa da휓캇tmak ve arkada힊 edinmek i챌in girdi휓im oyunda bir tur bile oynayamad캇m. Mikrofonumu a챌m캇yorum diye oyundan at캇yorlar ya da lobilerine sadece ?쐏ick me girl??arayan 
+  [Critical Value] id=226551148 | Everyone in this game has a brain dumber than a rotten banana, i told everyone my role during a meeting and 1 stupid user said that i wasnt and thats his role, i said i is, but whe
+  [High Value] id=226481548 | dont play this game your friend are your enemy. people u really trust are just evil haiz
+  [Critical Value] id=226338495 | I was on my way onto the emergency button While being chased by a sniper and I SWEAR i pressed the button before he shot and THEN I GET KILLED AND WE LOOSE THE ROUND IT IS THE MOST
+  [High Value] id=226131027 | just support Innersloth instead of this p2w slop. atleast they care about roles
+  [High Value] id=226126135 | beni niye banlad캇n캇z lan oyundan napt캇m ben alt taraf캇 arkada힊lar캇ma oyuna girip onlara zor anlar ya힊at캇yorum!!!!!!! hesab캇m캇 banlaman캇z캇n sebebi neydi k철t체 kalpliler.
+  [High Value] id=226018662 | As a Israel chai I feel very discriminated in this game. Everyone is extremely rude to me for being jewish and I cant stand it. At least the game has the role "cuckoo" which hits h
+  [Critical Value] id=225590795 | I am absolutely outraged by this situation. If you download the game on Apple and link your account to Game Center, you have NO way to log into your leveled-up account from a PC. C
+  [High Value] id=225403481 | Played it once quite some time ago, it was worth a lot more paying a few bucks for Among Us... The proximity voice chat and the extra roles didn't really add much to the experience
+
+[????섑뵆 - Low Information 10媛?
+  id=227011797 | '????'
+  id=226950828 | '?APA珪A'
+  id=226630794 | '?←쉪誤곫?'
+  id=226421259 | '??'
+  id=226410282 | 'k철t체'
+  id=226261582 | '4m'
+  id=226222299 | 'TO G횙WNO'
+  id=226098602 | 'yok'
+  id=226074441 | '?껃쑟鴉섇뙑'
+  id=226061810 | '?삡툖訝듿렮  訝?닸뒫??
+
+[?먯닔]
+  Data Quality Score: 100.0
+  Operational Insight Score: 13.0
+  Language Diversity Score: 100.0
+  AI Readiness Score: 51.6
+  Portfolio Readiness Score: 63.7
+
+[理쒖쥌 ?먯젙] PARTIAL GO
+
+--- Goose Goose Duck Positive ---
+Target: 200
+Actual: 200
+Reviews Length: 200
+Status: OK
+
+[?꾩닔 ?꾨뱶] OK - 紐⑤뱺 由щ럭???꾩닔 ?꾨뱶 議댁옱
+
+[以묐났] ?뚯씪 ?대? 以묐났: 0媛?(怨좎쑀 ID: 200)
+
+[?몄뼱 遺꾪룷 - ?곸쐞 15]
+  english: 58
+  turkish: 39
+  koreana: 27
+  russian: 26
+  schinese: 23
+  brazilian: 11
+  french: 4
+  czech: 4
+  tchinese: 2
+  spanish: 2
+  portuguese: 1
+  polish: 1
+  danish: 1
+  ukrainian: 1
+
+[由щ럭 湲몄씠 遺꾪룷]
+  0~10?? 72
+  11~20?? 23
+  21~50?? 52
+  51~100?? 27
+  101~300?? 18
+  301???댁긽: 8
+
+[Low Information] 73媛?(36.5%)
+
+[?댁쁺 媛移??깃툒]
+  Low Value: 103媛?(51.5%)
+  Medium Value: 68媛?(34.0%)
+  High Value: 26媛?(13.0%)
+  Critical Value: 3媛?(1.5%)
+
+[?댁쁺 移댄뀒怨좊━ ?ㅼ썙??
+  content: 5
+  community: 4
+  balance: 2
+  monetization: 2
+  tutorial: 2
+
+[????섑뵆 - 媛??湲?由щ럭 3媛?
+  id=226746842 | len=7341 | Goose Goose Duck is a multiplayer social deduction game developed and published by Gaggle Studios, Inc. that takes the familiar formula of hidden identities and player deception and expands it into a ...
+  id=226653306 | len=959 | ??????????????????????????手授졻＄授ㅲ?授戍
+ ????????????????????????手授닳×?뗢쟻?댿젆?쎻♤授뜯?
+ ???????????????????????授겸？?뗢???????手밟죬
+ ??????????????????????授쇄×?곣??手겸？?귘?手授ㅲ＜授욋죩
+ ?????????????????????授멤×?곣?????授졻６?욋줇戍쒋♧授룐?
+ ??????????????...
+  id=227080096 | len=702 | It keeps feezing and bugging. x..x    Other than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that's there to make gam...
+
+[????섑뵆 - High/Critical 10媛?
+  [High Value] id=227089901 | It's like Among Us but with more roles and more maps. If you like Among Us you'll definitely like this onw.  Fun with friends. Will I ever get Raven? Maybe Someday.
+  [High Value] id=227085843 | Among Us 2.0. Took the formula, made it more fun, made it free. Kudos
+  [Critical Value] id=227080096 | It keeps feezing and bugging. x..x    Other than that... Among us but with Geese. Yay. Apparently there's also some kind of monetising thing going on too but doesn't seem like that
+  [High Value] id=227027036 | gayet g체zel bir oyun ama daha bi힊ey yapmadan ne oldu휓unuzu anl캇yolar tavsiye ederim
+  [High Value] id=226985320 | I love this game, its really fun to play with friends and doesn't get boring like others of the same type.
+  [High Value] id=226981301 | Jogo muito divertido pra jogar com os amigos. Tem trai챌찾o, mentiras, acusa챌천es falsas e amizades acabando por causa de um pato suspeito.  Mas tenho uma preocupa챌찾o s챕ria: essa clas
+  [High Value] id=226977174 | O jogo 챕 absurdamente divertido, apesar de ter sido feito pra mobile. Muito engra챌ado
+  [High Value] id=226961609 | arkada힊lar캇m캇n ne kadar g체venilir oldu휓unu art캇k biliyorum
+  [High Value] id=226811368 | Good roles is way better then among us tho players a laking and cosmetics are hard to get but roles maps cosmetics and gamemodes are plenty
+  [High Value] id=226798222 | e휓lenceli bir oyun arkada힊lar캇n캇zla oynayabilirsiniz
+
+[????섑뵆 - Low Information 10媛?
+  id=227133293 | '也썹렔?뚧쐦?뗧렔雅녵??닸솞'
+  id=227084101 | '?묐삊?댁쭏???덈떎!'
+  id=227077042 | 'fgtr'
+  id=227063726 | '援?
+  id=227061784 | '?щ컡??
+  id=227001933 | '訝띷삸?잌룍竊뚦닽???
+  id=226977991 | 'fun'
+  id=226957946 | '議댁왋'
+  id=226947768 | 'dildo'
+  id=226945066 | '也썹렔'
+
+[?먯닔]
+  Data Quality Score: 100.0
+  Operational Insight Score: 17.4
+  Language Diversity Score: 100.0
+  AI Readiness Score: 50.1
+  Portfolio Readiness Score: 64.4
+
+[理쒖쥌 ?먯젙] NO GO
+
+======================================================================
+4. ?꾩껜 ?뚯씪 媛?以묐났 (recommendationid)
+======================================================================
+  以묐났 ID ?? 0
+  以묐났 諛쒖깮 嫄댁닔(珥덇낵遺??⑷퀎): 0
+
+======================================================================
+13. 由ы룷?????
+======================================================================
+  JSON: C:\Users\wjsrj\Downloads\寃뚯엫???꾨윭?앺듃\data\data_quality_report.json
+  MD:   C:\Users\wjsrj\Downloads\寃뚯엫???꾨윭?앺듃\data\data_quality_report.md
+
+[?ы듃?대━??理쒖쥌 ?먯젙] PARTIAL GO
